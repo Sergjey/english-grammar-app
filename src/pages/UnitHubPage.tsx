@@ -1,5 +1,6 @@
 import { Link, useParams } from 'react-router-dom'
 import manifest from '@/content/manifest.json'
+import { UnitHeading } from '@/components/units/UnitHeading'
 import { useUnit } from '@/hooks/useUnit'
 import { CATEGORY_META } from '@/lib/categories'
 import { progressKey, useProgressStore } from '@/stores/progressStore'
@@ -21,9 +22,8 @@ export function UnitHubPage() {
   return (
     <div className="space-y-6">
       <div>
-        <h1 className="font-display text-2xl font-bold">{meta.title}</h1>
-        <p className="mt-1 text-lg font-medium text-teal">{meta.topic}</p>
-        <p className="mt-2 text-base leading-relaxed text-muted">{unit.summary}</p>
+        <UnitHeading title={meta.title} topic={meta.topic} size="lg" />
+        <p className="mt-3 text-base leading-relaxed text-muted">{unit.summary}</p>
       </div>
 
       <div className="grid grid-cols-2 gap-3 md:grid-cols-3">
