@@ -1,8 +1,8 @@
 {
   "id": "unit-02",
   "number": 2,
-  "title": "Unit 2",
-  "topic": "am / is / are (questions)",
+  "title": "Be questions",
+  "topic": "Yes/no & short answers",
   "summary": "Form yes/no questions and short answers with am, is, and are.",
   "categories": [
     {
@@ -13,7 +13,7 @@
           "items": [
             {
               "id": "u02-pat-b1-01",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "You ___ okay",
               "wordBank": [
                 "Am",
@@ -26,7 +26,7 @@
             },
             {
               "id": "u02-pat-b1-02",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "He ___ at the office",
               "wordBank": [
                 "Am",
@@ -39,7 +39,7 @@
             },
             {
               "id": "u02-pat-b1-03",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "She ___ ready",
               "wordBank": [
                 "Am",
@@ -52,7 +52,7 @@
             },
             {
               "id": "u02-pat-b1-04",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "We ___ late",
               "wordBank": [
                 "Am",
@@ -65,7 +65,7 @@
             },
             {
               "id": "u02-pat-b1-05",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "They ___ okay",
               "wordBank": [
                 "Am",
@@ -78,7 +78,7 @@
             },
             {
               "id": "u02-pat-b1-06",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "I ___ at the office",
               "wordBank": [
                 "Am",
@@ -91,7 +91,7 @@
             },
             {
               "id": "u02-pat-b1-07",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "You ___ ready",
               "wordBank": [
                 "Am",
@@ -104,7 +104,7 @@
             },
             {
               "id": "u02-pat-b1-08",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "He ___ late",
               "wordBank": [
                 "Am",
@@ -117,7 +117,7 @@
             },
             {
               "id": "u02-pat-b1-09",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "She ___ okay",
               "wordBank": [
                 "Am",
@@ -130,7 +130,7 @@
             },
             {
               "id": "u02-pat-b1-10",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "We ___ at the office",
               "wordBank": [
                 "Am",
@@ -148,7 +148,7 @@
           "items": [
             {
               "id": "u02-pat-b2-01",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "They ___ ready",
               "wordBank": [
                 "Am",
@@ -161,7 +161,7 @@
             },
             {
               "id": "u02-pat-b2-02",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "I ___ late",
               "wordBank": [
                 "Am",
@@ -174,7 +174,7 @@
             },
             {
               "id": "u02-pat-b2-03",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "You ___ okay",
               "wordBank": [
                 "Am",
@@ -187,7 +187,7 @@
             },
             {
               "id": "u02-pat-b2-04",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "He ___ at the office",
               "wordBank": [
                 "Am",
@@ -200,7 +200,7 @@
             },
             {
               "id": "u02-pat-b2-05",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "She ___ ready",
               "wordBank": [
                 "Am",
@@ -213,7 +213,7 @@
             },
             {
               "id": "u02-pat-b2-06",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "We ___ late",
               "wordBank": [
                 "Am",
@@ -226,7 +226,7 @@
             },
             {
               "id": "u02-pat-b2-07",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "They ___ okay",
               "wordBank": [
                 "Am",
@@ -239,7 +239,7 @@
             },
             {
               "id": "u02-pat-b2-08",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "I ___ at the office",
               "wordBank": [
                 "Am",
@@ -252,7 +252,7 @@
             },
             {
               "id": "u02-pat-b2-09",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "You ___ ready",
               "wordBank": [
                 "Am",
@@ -265,7 +265,7 @@
             },
             {
               "id": "u02-pat-b2-10",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "He ___ late",
               "wordBank": [
                 "Am",
@@ -283,7 +283,7 @@
           "items": [
             {
               "id": "u02-pat-b3-01",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "She ___ okay",
               "wordBank": [
                 "Am",
@@ -296,7 +296,7 @@
             },
             {
               "id": "u02-pat-b3-02",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "We ___ at the office",
               "wordBank": [
                 "Am",
@@ -309,7 +309,7 @@
             },
             {
               "id": "u02-pat-b3-03",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "They ___ ready",
               "wordBank": [
                 "Am",
@@ -322,7 +322,7 @@
             },
             {
               "id": "u02-pat-b3-04",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "I ___ late",
               "wordBank": [
                 "Am",
@@ -335,7 +335,7 @@
             },
             {
               "id": "u02-pat-b3-05",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "You ___ okay",
               "wordBank": [
                 "Am",
@@ -348,7 +348,7 @@
             },
             {
               "id": "u02-pat-b3-06",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "He ___ at the office",
               "wordBank": [
                 "Am",
@@ -361,7 +361,7 @@
             },
             {
               "id": "u02-pat-b3-07",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "She ___ ready",
               "wordBank": [
                 "Am",
@@ -374,7 +374,7 @@
             },
             {
               "id": "u02-pat-b3-08",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "We ___ late",
               "wordBank": [
                 "Am",
@@ -387,7 +387,7 @@
             },
             {
               "id": "u02-pat-b3-09",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "They ___ okay",
               "wordBank": [
                 "Am",
@@ -400,7 +400,7 @@
             },
             {
               "id": "u02-pat-b3-10",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "I ___ at the office",
               "wordBank": [
                 "Am",
@@ -418,7 +418,7 @@
           "items": [
             {
               "id": "u02-pat-b4-01",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "You ___ ready",
               "wordBank": [
                 "Am",
@@ -431,7 +431,7 @@
             },
             {
               "id": "u02-pat-b4-02",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "He ___ late",
               "wordBank": [
                 "Am",
@@ -444,7 +444,7 @@
             },
             {
               "id": "u02-pat-b4-03",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "She ___ okay",
               "wordBank": [
                 "Am",
@@ -457,7 +457,7 @@
             },
             {
               "id": "u02-pat-b4-04",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "We ___ at the office",
               "wordBank": [
                 "Am",
@@ -470,7 +470,7 @@
             },
             {
               "id": "u02-pat-b4-05",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "They ___ ready",
               "wordBank": [
                 "Am",
@@ -483,7 +483,7 @@
             },
             {
               "id": "u02-pat-b4-06",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "I ___ late",
               "wordBank": [
                 "Am",
@@ -496,7 +496,7 @@
             },
             {
               "id": "u02-pat-b4-07",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "You ___ okay",
               "wordBank": [
                 "Am",
@@ -509,7 +509,7 @@
             },
             {
               "id": "u02-pat-b4-08",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "He ___ at the office",
               "wordBank": [
                 "Am",
@@ -522,7 +522,7 @@
             },
             {
               "id": "u02-pat-b4-09",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "She ___ ready",
               "wordBank": [
                 "Am",
@@ -535,7 +535,7 @@
             },
             {
               "id": "u02-pat-b4-10",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "We ___ late",
               "wordBank": [
                 "Am",
@@ -553,7 +553,7 @@
           "items": [
             {
               "id": "u02-pat-b5-01",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "They ___ okay",
               "wordBank": [
                 "Am",
@@ -566,7 +566,7 @@
             },
             {
               "id": "u02-pat-b5-02",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "I ___ at the office",
               "wordBank": [
                 "Am",
@@ -579,7 +579,7 @@
             },
             {
               "id": "u02-pat-b5-03",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "You ___ ready",
               "wordBank": [
                 "Am",
@@ -592,7 +592,7 @@
             },
             {
               "id": "u02-pat-b5-04",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "He ___ late",
               "wordBank": [
                 "Am",
@@ -605,7 +605,7 @@
             },
             {
               "id": "u02-pat-b5-05",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "She ___ okay",
               "wordBank": [
                 "Am",
@@ -618,7 +618,7 @@
             },
             {
               "id": "u02-pat-b5-06",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "We ___ at the office",
               "wordBank": [
                 "Am",
@@ -631,7 +631,7 @@
             },
             {
               "id": "u02-pat-b5-07",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "They ___ ready",
               "wordBank": [
                 "Am",
@@ -644,7 +644,7 @@
             },
             {
               "id": "u02-pat-b5-08",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "I ___ late",
               "wordBank": [
                 "Am",
@@ -657,7 +657,7 @@
             },
             {
               "id": "u02-pat-b5-09",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "You ___ okay",
               "wordBank": [
                 "Am",
@@ -670,7 +670,7 @@
             },
             {
               "id": "u02-pat-b5-10",
-              "prompt": "Complete the pattern for am / is / are (questions).",
+              "prompt": "Complete the pattern for Yes/no & short answers.",
               "pattern": "He ___ at the office",
               "wordBank": [
                 "Am",
@@ -4740,61 +4740,61 @@
             {
               "id": "u02-ret-b1-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are okay there. It is about am / is / are (questions).",
+              "passage": "You are okay there. It is about Yes/no & short answers.",
               "answer": "You are okay"
             },
             {
               "id": "u02-ret-b1-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is at the office here. It is about am / is / are (questions).",
+              "passage": "He is at the office here. It is about Yes/no & short answers.",
               "answer": "He is at the office"
             },
             {
               "id": "u02-ret-b1-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is ready there. It is about am / is / are (questions).",
+              "passage": "She is ready there. It is about Yes/no & short answers.",
               "answer": "She is ready"
             },
             {
               "id": "u02-ret-b1-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are late here. It is about am / is / are (questions).",
+              "passage": "We are late here. It is about Yes/no & short answers.",
               "answer": "We are late"
             },
             {
               "id": "u02-ret-b1-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are okay there. It is about am / is / are (questions).",
+              "passage": "They are okay there. It is about Yes/no & short answers.",
               "answer": "They are okay"
             },
             {
               "id": "u02-ret-b1-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am at the office here. It is about am / is / are (questions).",
+              "passage": "I am at the office here. It is about Yes/no & short answers.",
               "answer": "I am at the office"
             },
             {
               "id": "u02-ret-b1-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are ready there. It is about am / is / are (questions).",
+              "passage": "You are ready there. It is about Yes/no & short answers.",
               "answer": "You are ready"
             },
             {
               "id": "u02-ret-b1-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is late here. It is about am / is / are (questions).",
+              "passage": "He is late here. It is about Yes/no & short answers.",
               "answer": "He is late"
             },
             {
               "id": "u02-ret-b1-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is okay there. It is about am / is / are (questions).",
+              "passage": "She is okay there. It is about Yes/no & short answers.",
               "answer": "She is okay"
             },
             {
               "id": "u02-ret-b1-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are at the office here. It is about am / is / are (questions).",
+              "passage": "We are at the office here. It is about Yes/no & short answers.",
               "answer": "We are at the office"
             }
           ]
@@ -4805,61 +4805,61 @@
             {
               "id": "u02-ret-b2-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are ready there. It is about am / is / are (questions).",
+              "passage": "They are ready there. It is about Yes/no & short answers.",
               "answer": "They are ready"
             },
             {
               "id": "u02-ret-b2-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am late here. It is about am / is / are (questions).",
+              "passage": "I am late here. It is about Yes/no & short answers.",
               "answer": "I am late"
             },
             {
               "id": "u02-ret-b2-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are okay there. It is about am / is / are (questions).",
+              "passage": "You are okay there. It is about Yes/no & short answers.",
               "answer": "You are okay"
             },
             {
               "id": "u02-ret-b2-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is at the office here. It is about am / is / are (questions).",
+              "passage": "He is at the office here. It is about Yes/no & short answers.",
               "answer": "He is at the office"
             },
             {
               "id": "u02-ret-b2-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is ready there. It is about am / is / are (questions).",
+              "passage": "She is ready there. It is about Yes/no & short answers.",
               "answer": "She is ready"
             },
             {
               "id": "u02-ret-b2-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are late here. It is about am / is / are (questions).",
+              "passage": "We are late here. It is about Yes/no & short answers.",
               "answer": "We are late"
             },
             {
               "id": "u02-ret-b2-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are okay there. It is about am / is / are (questions).",
+              "passage": "They are okay there. It is about Yes/no & short answers.",
               "answer": "They are okay"
             },
             {
               "id": "u02-ret-b2-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am at the office here. It is about am / is / are (questions).",
+              "passage": "I am at the office here. It is about Yes/no & short answers.",
               "answer": "I am at the office"
             },
             {
               "id": "u02-ret-b2-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are ready there. It is about am / is / are (questions).",
+              "passage": "You are ready there. It is about Yes/no & short answers.",
               "answer": "You are ready"
             },
             {
               "id": "u02-ret-b2-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is late here. It is about am / is / are (questions).",
+              "passage": "He is late here. It is about Yes/no & short answers.",
               "answer": "He is late"
             }
           ]
@@ -4870,61 +4870,61 @@
             {
               "id": "u02-ret-b3-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is okay there. It is about am / is / are (questions).",
+              "passage": "She is okay there. It is about Yes/no & short answers.",
               "answer": "She is okay"
             },
             {
               "id": "u02-ret-b3-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are at the office here. It is about am / is / are (questions).",
+              "passage": "We are at the office here. It is about Yes/no & short answers.",
               "answer": "We are at the office"
             },
             {
               "id": "u02-ret-b3-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are ready there. It is about am / is / are (questions).",
+              "passage": "They are ready there. It is about Yes/no & short answers.",
               "answer": "They are ready"
             },
             {
               "id": "u02-ret-b3-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am late here. It is about am / is / are (questions).",
+              "passage": "I am late here. It is about Yes/no & short answers.",
               "answer": "I am late"
             },
             {
               "id": "u02-ret-b3-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are okay there. It is about am / is / are (questions).",
+              "passage": "You are okay there. It is about Yes/no & short answers.",
               "answer": "You are okay"
             },
             {
               "id": "u02-ret-b3-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is at the office here. It is about am / is / are (questions).",
+              "passage": "He is at the office here. It is about Yes/no & short answers.",
               "answer": "He is at the office"
             },
             {
               "id": "u02-ret-b3-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is ready there. It is about am / is / are (questions).",
+              "passage": "She is ready there. It is about Yes/no & short answers.",
               "answer": "She is ready"
             },
             {
               "id": "u02-ret-b3-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are late here. It is about am / is / are (questions).",
+              "passage": "We are late here. It is about Yes/no & short answers.",
               "answer": "We are late"
             },
             {
               "id": "u02-ret-b3-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are okay there. It is about am / is / are (questions).",
+              "passage": "They are okay there. It is about Yes/no & short answers.",
               "answer": "They are okay"
             },
             {
               "id": "u02-ret-b3-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am at the office here. It is about am / is / are (questions).",
+              "passage": "I am at the office here. It is about Yes/no & short answers.",
               "answer": "I am at the office"
             }
           ]
@@ -4935,61 +4935,61 @@
             {
               "id": "u02-ret-b4-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are ready there. It is about am / is / are (questions).",
+              "passage": "You are ready there. It is about Yes/no & short answers.",
               "answer": "You are ready"
             },
             {
               "id": "u02-ret-b4-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is late here. It is about am / is / are (questions).",
+              "passage": "He is late here. It is about Yes/no & short answers.",
               "answer": "He is late"
             },
             {
               "id": "u02-ret-b4-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is okay there. It is about am / is / are (questions).",
+              "passage": "She is okay there. It is about Yes/no & short answers.",
               "answer": "She is okay"
             },
             {
               "id": "u02-ret-b4-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are at the office here. It is about am / is / are (questions).",
+              "passage": "We are at the office here. It is about Yes/no & short answers.",
               "answer": "We are at the office"
             },
             {
               "id": "u02-ret-b4-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are ready there. It is about am / is / are (questions).",
+              "passage": "They are ready there. It is about Yes/no & short answers.",
               "answer": "They are ready"
             },
             {
               "id": "u02-ret-b4-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am late here. It is about am / is / are (questions).",
+              "passage": "I am late here. It is about Yes/no & short answers.",
               "answer": "I am late"
             },
             {
               "id": "u02-ret-b4-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are okay there. It is about am / is / are (questions).",
+              "passage": "You are okay there. It is about Yes/no & short answers.",
               "answer": "You are okay"
             },
             {
               "id": "u02-ret-b4-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is at the office here. It is about am / is / are (questions).",
+              "passage": "He is at the office here. It is about Yes/no & short answers.",
               "answer": "He is at the office"
             },
             {
               "id": "u02-ret-b4-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is ready there. It is about am / is / are (questions).",
+              "passage": "She is ready there. It is about Yes/no & short answers.",
               "answer": "She is ready"
             },
             {
               "id": "u02-ret-b4-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are late here. It is about am / is / are (questions).",
+              "passage": "We are late here. It is about Yes/no & short answers.",
               "answer": "We are late"
             }
           ]
@@ -5000,61 +5000,61 @@
             {
               "id": "u02-ret-b5-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are okay there. It is about am / is / are (questions).",
+              "passage": "They are okay there. It is about Yes/no & short answers.",
               "answer": "They are okay"
             },
             {
               "id": "u02-ret-b5-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am at the office here. It is about am / is / are (questions).",
+              "passage": "I am at the office here. It is about Yes/no & short answers.",
               "answer": "I am at the office"
             },
             {
               "id": "u02-ret-b5-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are ready there. It is about am / is / are (questions).",
+              "passage": "You are ready there. It is about Yes/no & short answers.",
               "answer": "You are ready"
             },
             {
               "id": "u02-ret-b5-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is late here. It is about am / is / are (questions).",
+              "passage": "He is late here. It is about Yes/no & short answers.",
               "answer": "He is late"
             },
             {
               "id": "u02-ret-b5-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is okay there. It is about am / is / are (questions).",
+              "passage": "She is okay there. It is about Yes/no & short answers.",
               "answer": "She is okay"
             },
             {
               "id": "u02-ret-b5-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are at the office here. It is about am / is / are (questions).",
+              "passage": "We are at the office here. It is about Yes/no & short answers.",
               "answer": "We are at the office"
             },
             {
               "id": "u02-ret-b5-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are ready there. It is about am / is / are (questions).",
+              "passage": "They are ready there. It is about Yes/no & short answers.",
               "answer": "They are ready"
             },
             {
               "id": "u02-ret-b5-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am late here. It is about am / is / are (questions).",
+              "passage": "I am late here. It is about Yes/no & short answers.",
               "answer": "I am late"
             },
             {
               "id": "u02-ret-b5-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are okay there. It is about am / is / are (questions).",
+              "passage": "You are okay there. It is about Yes/no & short answers.",
               "answer": "You are okay"
             },
             {
               "id": "u02-ret-b5-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is at the office here. It is about am / is / are (questions).",
+              "passage": "He is at the office here. It is about Yes/no & short answers.",
               "answer": "He is at the office"
             }
           ]
@@ -5400,112 +5400,112 @@
             {
               "id": "u02-cin-b1-01",
               "prompt": "Read and answer.",
-              "passage": "You are okay. This practices am / is / are (questions).",
+              "passage": "You are okay. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b1-02",
               "prompt": "Read and answer.",
-              "passage": "He is at the office. This practices am / is / are (questions).",
+              "passage": "He is at the office. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b1-03",
               "prompt": "Read and answer.",
-              "passage": "She is ready. This practices am / is / are (questions).",
+              "passage": "She is ready. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b1-04",
               "prompt": "Read and answer.",
-              "passage": "We are late. This practices am / is / are (questions).",
+              "passage": "We are late. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b1-05",
               "prompt": "Read and answer.",
-              "passage": "They are okay. This practices am / is / are (questions).",
+              "passage": "They are okay. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b1-06",
               "prompt": "Read and answer.",
-              "passage": "I am at the office. This practices am / is / are (questions).",
+              "passage": "I am at the office. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b1-07",
               "prompt": "Read and answer.",
-              "passage": "You are ready. This practices am / is / are (questions).",
+              "passage": "You are ready. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b1-08",
               "prompt": "Read and answer.",
-              "passage": "He is late. This practices am / is / are (questions).",
+              "passage": "He is late. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b1-09",
               "prompt": "Read and answer.",
-              "passage": "She is okay. This practices am / is / are (questions).",
+              "passage": "She is okay. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b1-10",
               "prompt": "Read and answer.",
-              "passage": "We are at the office. This practices am / is / are (questions).",
+              "passage": "We are at the office. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             }
           ]
         },
@@ -5515,112 +5515,112 @@
             {
               "id": "u02-cin-b2-01",
               "prompt": "Read and answer.",
-              "passage": "They are ready. This practices am / is / are (questions).",
+              "passage": "They are ready. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b2-02",
               "prompt": "Read and answer.",
-              "passage": "I am late. This practices am / is / are (questions).",
+              "passage": "I am late. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b2-03",
               "prompt": "Read and answer.",
-              "passage": "You are okay. This practices am / is / are (questions).",
+              "passage": "You are okay. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b2-04",
               "prompt": "Read and answer.",
-              "passage": "He is at the office. This practices am / is / are (questions).",
+              "passage": "He is at the office. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b2-05",
               "prompt": "Read and answer.",
-              "passage": "She is ready. This practices am / is / are (questions).",
+              "passage": "She is ready. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b2-06",
               "prompt": "Read and answer.",
-              "passage": "We are late. This practices am / is / are (questions).",
+              "passage": "We are late. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b2-07",
               "prompt": "Read and answer.",
-              "passage": "They are okay. This practices am / is / are (questions).",
+              "passage": "They are okay. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b2-08",
               "prompt": "Read and answer.",
-              "passage": "I am at the office. This practices am / is / are (questions).",
+              "passage": "I am at the office. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b2-09",
               "prompt": "Read and answer.",
-              "passage": "You are ready. This practices am / is / are (questions).",
+              "passage": "You are ready. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b2-10",
               "prompt": "Read and answer.",
-              "passage": "He is late. This practices am / is / are (questions).",
+              "passage": "He is late. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             }
           ]
         },
@@ -5630,112 +5630,112 @@
             {
               "id": "u02-cin-b3-01",
               "prompt": "Read and answer.",
-              "passage": "She is okay. This practices am / is / are (questions).",
+              "passage": "She is okay. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b3-02",
               "prompt": "Read and answer.",
-              "passage": "We are at the office. This practices am / is / are (questions).",
+              "passage": "We are at the office. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b3-03",
               "prompt": "Read and answer.",
-              "passage": "They are ready. This practices am / is / are (questions).",
+              "passage": "They are ready. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b3-04",
               "prompt": "Read and answer.",
-              "passage": "I am late. This practices am / is / are (questions).",
+              "passage": "I am late. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b3-05",
               "prompt": "Read and answer.",
-              "passage": "You are okay. This practices am / is / are (questions).",
+              "passage": "You are okay. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b3-06",
               "prompt": "Read and answer.",
-              "passage": "He is at the office. This practices am / is / are (questions).",
+              "passage": "He is at the office. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b3-07",
               "prompt": "Read and answer.",
-              "passage": "She is ready. This practices am / is / are (questions).",
+              "passage": "She is ready. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b3-08",
               "prompt": "Read and answer.",
-              "passage": "We are late. This practices am / is / are (questions).",
+              "passage": "We are late. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b3-09",
               "prompt": "Read and answer.",
-              "passage": "They are okay. This practices am / is / are (questions).",
+              "passage": "They are okay. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b3-10",
               "prompt": "Read and answer.",
-              "passage": "I am at the office. This practices am / is / are (questions).",
+              "passage": "I am at the office. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             }
           ]
         },
@@ -5745,112 +5745,112 @@
             {
               "id": "u02-cin-b4-01",
               "prompt": "Read and answer.",
-              "passage": "You are ready. This practices am / is / are (questions).",
+              "passage": "You are ready. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b4-02",
               "prompt": "Read and answer.",
-              "passage": "He is late. This practices am / is / are (questions).",
+              "passage": "He is late. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b4-03",
               "prompt": "Read and answer.",
-              "passage": "She is okay. This practices am / is / are (questions).",
+              "passage": "She is okay. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b4-04",
               "prompt": "Read and answer.",
-              "passage": "We are at the office. This practices am / is / are (questions).",
+              "passage": "We are at the office. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b4-05",
               "prompt": "Read and answer.",
-              "passage": "They are ready. This practices am / is / are (questions).",
+              "passage": "They are ready. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b4-06",
               "prompt": "Read and answer.",
-              "passage": "I am late. This practices am / is / are (questions).",
+              "passage": "I am late. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b4-07",
               "prompt": "Read and answer.",
-              "passage": "You are okay. This practices am / is / are (questions).",
+              "passage": "You are okay. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b4-08",
               "prompt": "Read and answer.",
-              "passage": "He is at the office. This practices am / is / are (questions).",
+              "passage": "He is at the office. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b4-09",
               "prompt": "Read and answer.",
-              "passage": "She is ready. This practices am / is / are (questions).",
+              "passage": "She is ready. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b4-10",
               "prompt": "Read and answer.",
-              "passage": "We are late. This practices am / is / are (questions).",
+              "passage": "We are late. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             }
           ]
         },
@@ -5860,112 +5860,112 @@
             {
               "id": "u02-cin-b5-01",
               "prompt": "Read and answer.",
-              "passage": "They are okay. This practices am / is / are (questions).",
+              "passage": "They are okay. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b5-02",
               "prompt": "Read and answer.",
-              "passage": "I am at the office. This practices am / is / are (questions).",
+              "passage": "I am at the office. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b5-03",
               "prompt": "Read and answer.",
-              "passage": "You are ready. This practices am / is / are (questions).",
+              "passage": "You are ready. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b5-04",
               "prompt": "Read and answer.",
-              "passage": "He is late. This practices am / is / are (questions).",
+              "passage": "He is late. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b5-05",
               "prompt": "Read and answer.",
-              "passage": "She is okay. This practices am / is / are (questions).",
+              "passage": "She is okay. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b5-06",
               "prompt": "Read and answer.",
-              "passage": "We are at the office. This practices am / is / are (questions).",
+              "passage": "We are at the office. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b5-07",
               "prompt": "Read and answer.",
-              "passage": "They are ready. This practices am / is / are (questions).",
+              "passage": "They are ready. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b5-08",
               "prompt": "Read and answer.",
-              "passage": "I am late. This practices am / is / are (questions).",
+              "passage": "I am late. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b5-09",
               "prompt": "Read and answer.",
-              "passage": "You are okay. This practices am / is / are (questions).",
+              "passage": "You are okay. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             },
             {
               "id": "u02-cin-b5-10",
               "prompt": "Read and answer.",
-              "passage": "He is at the office. This practices am / is / are (questions).",
+              "passage": "He is at the office. This practices Yes/no & short answers.",
               "options": [
-                "am / is / are (questions)",
+                "Yes/no & short answers",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (questions)"
+              "answer": "Yes/no & short answers"
             }
           ]
         }
@@ -5979,70 +5979,70 @@
           "items": [
             {
               "id": "u02-stp-b1-01",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "You are okay",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b1-02",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "He is at the office",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b1-03",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "She is ready",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b1-04",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "We are late",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b1-05",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "They are okay",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b1-06",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "I am at the office",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b1-07",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "You are ready",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b1-08",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "He is late",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b1-09",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "She is okay",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b1-10",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "We are at the office",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
@@ -6054,70 +6054,70 @@
           "items": [
             {
               "id": "u02-stp-b2-01",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "They are ready",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b2-02",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "I am late",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b2-03",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "You are okay",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b2-04",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "He is at the office",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b2-05",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "She is ready",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b2-06",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "We are late",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b2-07",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "They are okay",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b2-08",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "I am at the office",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b2-09",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "You are ready",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b2-10",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "He is late",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
@@ -6129,70 +6129,70 @@
           "items": [
             {
               "id": "u02-stp-b3-01",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "She is okay",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b3-02",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "We are at the office",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b3-03",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "They are ready",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b3-04",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "I am late",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b3-05",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "You are okay",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b3-06",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "He is at the office",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b3-07",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "She is ready",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b3-08",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "We are late",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b3-09",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "They are okay",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b3-10",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "I am at the office",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
@@ -6204,70 +6204,70 @@
           "items": [
             {
               "id": "u02-stp-b4-01",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "You are ready",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b4-02",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "He is late",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b4-03",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "She is okay",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b4-04",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "We are at the office",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b4-05",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "They are ready",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b4-06",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "I am late",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b4-07",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "You are okay",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b4-08",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "He is at the office",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b4-09",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "She is ready",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b4-10",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "We are late",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
@@ -6279,70 +6279,70 @@
           "items": [
             {
               "id": "u02-stp-b5-01",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "They are okay",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b5-02",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "I am at the office",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b5-03",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "You are ready",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b5-04",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "He is late",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b5-05",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "She is okay",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b5-06",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "We are at the office",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b5-07",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "They are ready",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b5-08",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "I am late",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b5-09",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "You are okay",
               "explanation": "Form yes/no questions and short answers with am, is, and are."
             },
             {
               "id": "u02-stp-b5-10",
-              "prompt": "Use the pattern: am / is / are (questions).",
+              "prompt": "Use the pattern: Yes/no & short answers.",
               "pattern": "Subject + Am + complement",
               "answer": "He is at the office",
               "explanation": "Form yes/no questions and short answers with am, is, and are."

@@ -30,7 +30,7 @@ export function HomePage() {
               to={`/unit/${unit.id}`}
               className="touch-target shrink-0 snap-start rounded-full bg-white px-4 py-2 text-sm font-medium ring-1 ring-stone-200 transition hover:ring-teal"
             >
-              {unit.title}
+              <span className="text-muted">{unit.number} ·</span> {unit.title}
             </Link>
           ))}
         </div>

@@ -1,8 +1,8 @@
 {
   "id": "unit-06",
   "number": 6,
-  "title": "Unit 6",
-  "topic": "have / has got",
+  "title": "have got",
+  "topic": "Possession & features",
   "summary": "Use have got / has got to describe possession and features.",
   "categories": [
     {
@@ -13,7 +13,7 @@
           "items": [
             {
               "id": "u06-pat-b1-01",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "You ___ two brothers",
               "wordBank": [
                 "have got",
@@ -25,7 +25,7 @@
             },
             {
               "id": "u06-pat-b1-02",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "He ___ a new phone",
               "wordBank": [
                 "have got",
@@ -37,7 +37,7 @@
             },
             {
               "id": "u06-pat-b1-03",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "She ___ a car",
               "wordBank": [
                 "have got",
@@ -49,7 +49,7 @@
             },
             {
               "id": "u06-pat-b1-04",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "We ___ blue eyes",
               "wordBank": [
                 "have got",
@@ -61,7 +61,7 @@
             },
             {
               "id": "u06-pat-b1-05",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "They ___ two brothers",
               "wordBank": [
                 "have got",
@@ -73,7 +73,7 @@
             },
             {
               "id": "u06-pat-b1-06",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "I ___ a new phone",
               "wordBank": [
                 "have got",
@@ -85,7 +85,7 @@
             },
             {
               "id": "u06-pat-b1-07",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "You ___ a car",
               "wordBank": [
                 "have got",
@@ -97,7 +97,7 @@
             },
             {
               "id": "u06-pat-b1-08",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "He ___ blue eyes",
               "wordBank": [
                 "have got",
@@ -109,7 +109,7 @@
             },
             {
               "id": "u06-pat-b1-09",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "She ___ two brothers",
               "wordBank": [
                 "have got",
@@ -121,7 +121,7 @@
             },
             {
               "id": "u06-pat-b1-10",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "We ___ a new phone",
               "wordBank": [
                 "have got",
@@ -138,7 +138,7 @@
           "items": [
             {
               "id": "u06-pat-b2-01",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "They ___ a car",
               "wordBank": [
                 "have got",
@@ -150,7 +150,7 @@
             },
             {
               "id": "u06-pat-b2-02",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "I ___ blue eyes",
               "wordBank": [
                 "have got",
@@ -162,7 +162,7 @@
             },
             {
               "id": "u06-pat-b2-03",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "You ___ two brothers",
               "wordBank": [
                 "have got",
@@ -174,7 +174,7 @@
             },
             {
               "id": "u06-pat-b2-04",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "He ___ a new phone",
               "wordBank": [
                 "have got",
@@ -186,7 +186,7 @@
             },
             {
               "id": "u06-pat-b2-05",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "She ___ a car",
               "wordBank": [
                 "have got",
@@ -198,7 +198,7 @@
             },
             {
               "id": "u06-pat-b2-06",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "We ___ blue eyes",
               "wordBank": [
                 "have got",
@@ -210,7 +210,7 @@
             },
             {
               "id": "u06-pat-b2-07",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "They ___ two brothers",
               "wordBank": [
                 "have got",
@@ -222,7 +222,7 @@
             },
             {
               "id": "u06-pat-b2-08",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "I ___ a new phone",
               "wordBank": [
                 "have got",
@@ -234,7 +234,7 @@
             },
             {
               "id": "u06-pat-b2-09",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "You ___ a car",
               "wordBank": [
                 "have got",
@@ -246,7 +246,7 @@
             },
             {
               "id": "u06-pat-b2-10",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "He ___ blue eyes",
               "wordBank": [
                 "have got",
@@ -263,7 +263,7 @@
           "items": [
             {
               "id": "u06-pat-b3-01",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "She ___ two brothers",
               "wordBank": [
                 "have got",
@@ -275,7 +275,7 @@
             },
             {
               "id": "u06-pat-b3-02",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "We ___ a new phone",
               "wordBank": [
                 "have got",
@@ -287,7 +287,7 @@
             },
             {
               "id": "u06-pat-b3-03",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "They ___ a car",
               "wordBank": [
                 "have got",
@@ -299,7 +299,7 @@
             },
             {
               "id": "u06-pat-b3-04",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "I ___ blue eyes",
               "wordBank": [
                 "have got",
@@ -311,7 +311,7 @@
             },
             {
               "id": "u06-pat-b3-05",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "You ___ two brothers",
               "wordBank": [
                 "have got",
@@ -323,7 +323,7 @@
             },
             {
               "id": "u06-pat-b3-06",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "He ___ a new phone",
               "wordBank": [
                 "have got",
@@ -335,7 +335,7 @@
             },
             {
               "id": "u06-pat-b3-07",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "She ___ a car",
               "wordBank": [
                 "have got",
@@ -347,7 +347,7 @@
             },
             {
               "id": "u06-pat-b3-08",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "We ___ blue eyes",
               "wordBank": [
                 "have got",
@@ -359,7 +359,7 @@
             },
             {
               "id": "u06-pat-b3-09",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "They ___ two brothers",
               "wordBank": [
                 "have got",
@@ -371,7 +371,7 @@
             },
             {
               "id": "u06-pat-b3-10",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "I ___ a new phone",
               "wordBank": [
                 "have got",
@@ -388,7 +388,7 @@
           "items": [
             {
               "id": "u06-pat-b4-01",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "You ___ a car",
               "wordBank": [
                 "have got",
@@ -400,7 +400,7 @@
             },
             {
               "id": "u06-pat-b4-02",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "He ___ blue eyes",
               "wordBank": [
                 "have got",
@@ -412,7 +412,7 @@
             },
             {
               "id": "u06-pat-b4-03",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "She ___ two brothers",
               "wordBank": [
                 "have got",
@@ -424,7 +424,7 @@
             },
             {
               "id": "u06-pat-b4-04",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "We ___ a new phone",
               "wordBank": [
                 "have got",
@@ -436,7 +436,7 @@
             },
             {
               "id": "u06-pat-b4-05",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "They ___ a car",
               "wordBank": [
                 "have got",
@@ -448,7 +448,7 @@
             },
             {
               "id": "u06-pat-b4-06",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "I ___ blue eyes",
               "wordBank": [
                 "have got",
@@ -460,7 +460,7 @@
             },
             {
               "id": "u06-pat-b4-07",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "You ___ two brothers",
               "wordBank": [
                 "have got",
@@ -472,7 +472,7 @@
             },
             {
               "id": "u06-pat-b4-08",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "He ___ a new phone",
               "wordBank": [
                 "have got",
@@ -484,7 +484,7 @@
             },
             {
               "id": "u06-pat-b4-09",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "She ___ a car",
               "wordBank": [
                 "have got",
@@ -496,7 +496,7 @@
             },
             {
               "id": "u06-pat-b4-10",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "We ___ blue eyes",
               "wordBank": [
                 "have got",
@@ -513,7 +513,7 @@
           "items": [
             {
               "id": "u06-pat-b5-01",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "They ___ two brothers",
               "wordBank": [
                 "have got",
@@ -525,7 +525,7 @@
             },
             {
               "id": "u06-pat-b5-02",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "I ___ a new phone",
               "wordBank": [
                 "have got",
@@ -537,7 +537,7 @@
             },
             {
               "id": "u06-pat-b5-03",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "You ___ a car",
               "wordBank": [
                 "have got",
@@ -549,7 +549,7 @@
             },
             {
               "id": "u06-pat-b5-04",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "He ___ blue eyes",
               "wordBank": [
                 "have got",
@@ -561,7 +561,7 @@
             },
             {
               "id": "u06-pat-b5-05",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "She ___ two brothers",
               "wordBank": [
                 "have got",
@@ -573,7 +573,7 @@
             },
             {
               "id": "u06-pat-b5-06",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "We ___ a new phone",
               "wordBank": [
                 "have got",
@@ -585,7 +585,7 @@
             },
             {
               "id": "u06-pat-b5-07",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "They ___ a car",
               "wordBank": [
                 "have got",
@@ -597,7 +597,7 @@
             },
             {
               "id": "u06-pat-b5-08",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "I ___ blue eyes",
               "wordBank": [
                 "have got",
@@ -609,7 +609,7 @@
             },
             {
               "id": "u06-pat-b5-09",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "You ___ two brothers",
               "wordBank": [
                 "have got",
@@ -621,7 +621,7 @@
             },
             {
               "id": "u06-pat-b5-10",
-              "prompt": "Complete the pattern for have / has got.",
+              "prompt": "Complete the pattern for Possession & features.",
               "pattern": "He ___ a new phone",
               "wordBank": [
                 "have got",
@@ -4727,61 +4727,61 @@
             {
               "id": "u06-ret-b1-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are two brothers here. It is about have / has got.",
+              "passage": "You are two brothers here. It is about Possession & features.",
               "answer": "You are two brothers"
             },
             {
               "id": "u06-ret-b1-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is a new phone here. It is about have / has got.",
+              "passage": "He is a new phone here. It is about Possession & features.",
               "answer": "He is a new phone"
             },
             {
               "id": "u06-ret-b1-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is a car here. It is about have / has got.",
+              "passage": "She is a car here. It is about Possession & features.",
               "answer": "She is a car"
             },
             {
               "id": "u06-ret-b1-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are blue eyes here. It is about have / has got.",
+              "passage": "We are blue eyes here. It is about Possession & features.",
               "answer": "We are blue eyes"
             },
             {
               "id": "u06-ret-b1-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are two brothers here. It is about have / has got.",
+              "passage": "They are two brothers here. It is about Possession & features.",
               "answer": "They are two brothers"
             },
             {
               "id": "u06-ret-b1-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am a new phone here. It is about have / has got.",
+              "passage": "I am a new phone here. It is about Possession & features.",
               "answer": "I am a new phone"
             },
             {
               "id": "u06-ret-b1-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are a car here. It is about have / has got.",
+              "passage": "You are a car here. It is about Possession & features.",
               "answer": "You are a car"
             },
             {
               "id": "u06-ret-b1-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is blue eyes here. It is about have / has got.",
+              "passage": "He is blue eyes here. It is about Possession & features.",
               "answer": "He is blue eyes"
             },
             {
               "id": "u06-ret-b1-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is two brothers here. It is about have / has got.",
+              "passage": "She is two brothers here. It is about Possession & features.",
               "answer": "She is two brothers"
             },
             {
               "id": "u06-ret-b1-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are a new phone here. It is about have / has got.",
+              "passage": "We are a new phone here. It is about Possession & features.",
               "answer": "We are a new phone"
             }
           ]
@@ -4792,61 +4792,61 @@
             {
               "id": "u06-ret-b2-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are a car here. It is about have / has got.",
+              "passage": "They are a car here. It is about Possession & features.",
               "answer": "They are a car"
             },
             {
               "id": "u06-ret-b2-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am blue eyes here. It is about have / has got.",
+              "passage": "I am blue eyes here. It is about Possession & features.",
               "answer": "I am blue eyes"
             },
             {
               "id": "u06-ret-b2-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are two brothers here. It is about have / has got.",
+              "passage": "You are two brothers here. It is about Possession & features.",
               "answer": "You are two brothers"
             },
             {
               "id": "u06-ret-b2-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is a new phone here. It is about have / has got.",
+              "passage": "He is a new phone here. It is about Possession & features.",
               "answer": "He is a new phone"
             },
             {
               "id": "u06-ret-b2-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is a car here. It is about have / has got.",
+              "passage": "She is a car here. It is about Possession & features.",
               "answer": "She is a car"
             },
             {
               "id": "u06-ret-b2-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are blue eyes here. It is about have / has got.",
+              "passage": "We are blue eyes here. It is about Possession & features.",
               "answer": "We are blue eyes"
             },
             {
               "id": "u06-ret-b2-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are two brothers here. It is about have / has got.",
+              "passage": "They are two brothers here. It is about Possession & features.",
               "answer": "They are two brothers"
             },
             {
               "id": "u06-ret-b2-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am a new phone here. It is about have / has got.",
+              "passage": "I am a new phone here. It is about Possession & features.",
               "answer": "I am a new phone"
             },
             {
               "id": "u06-ret-b2-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are a car here. It is about have / has got.",
+              "passage": "You are a car here. It is about Possession & features.",
               "answer": "You are a car"
             },
             {
               "id": "u06-ret-b2-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is blue eyes here. It is about have / has got.",
+              "passage": "He is blue eyes here. It is about Possession & features.",
               "answer": "He is blue eyes"
             }
           ]
@@ -4857,61 +4857,61 @@
             {
               "id": "u06-ret-b3-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is two brothers here. It is about have / has got.",
+              "passage": "She is two brothers here. It is about Possession & features.",
               "answer": "She is two brothers"
             },
             {
               "id": "u06-ret-b3-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are a new phone here. It is about have / has got.",
+              "passage": "We are a new phone here. It is about Possession & features.",
               "answer": "We are a new phone"
             },
             {
               "id": "u06-ret-b3-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are a car here. It is about have / has got.",
+              "passage": "They are a car here. It is about Possession & features.",
               "answer": "They are a car"
             },
             {
               "id": "u06-ret-b3-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am blue eyes here. It is about have / has got.",
+              "passage": "I am blue eyes here. It is about Possession & features.",
               "answer": "I am blue eyes"
             },
             {
               "id": "u06-ret-b3-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are two brothers here. It is about have / has got.",
+              "passage": "You are two brothers here. It is about Possession & features.",
               "answer": "You are two brothers"
             },
             {
               "id": "u06-ret-b3-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is a new phone here. It is about have / has got.",
+              "passage": "He is a new phone here. It is about Possession & features.",
               "answer": "He is a new phone"
             },
             {
               "id": "u06-ret-b3-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is a car here. It is about have / has got.",
+              "passage": "She is a car here. It is about Possession & features.",
               "answer": "She is a car"
             },
             {
               "id": "u06-ret-b3-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are blue eyes here. It is about have / has got.",
+              "passage": "We are blue eyes here. It is about Possession & features.",
               "answer": "We are blue eyes"
             },
             {
               "id": "u06-ret-b3-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are two brothers here. It is about have / has got.",
+              "passage": "They are two brothers here. It is about Possession & features.",
               "answer": "They are two brothers"
             },
             {
               "id": "u06-ret-b3-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am a new phone here. It is about have / has got.",
+              "passage": "I am a new phone here. It is about Possession & features.",
               "answer": "I am a new phone"
             }
           ]
@@ -4922,61 +4922,61 @@
             {
               "id": "u06-ret-b4-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are a car here. It is about have / has got.",
+              "passage": "You are a car here. It is about Possession & features.",
               "answer": "You are a car"
             },
             {
               "id": "u06-ret-b4-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is blue eyes here. It is about have / has got.",
+              "passage": "He is blue eyes here. It is about Possession & features.",
               "answer": "He is blue eyes"
             },
             {
               "id": "u06-ret-b4-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is two brothers here. It is about have / has got.",
+              "passage": "She is two brothers here. It is about Possession & features.",
               "answer": "She is two brothers"
             },
             {
               "id": "u06-ret-b4-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are a new phone here. It is about have / has got.",
+              "passage": "We are a new phone here. It is about Possession & features.",
               "answer": "We are a new phone"
             },
             {
               "id": "u06-ret-b4-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are a car here. It is about have / has got.",
+              "passage": "They are a car here. It is about Possession & features.",
               "answer": "They are a car"
             },
             {
               "id": "u06-ret-b4-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am blue eyes here. It is about have / has got.",
+              "passage": "I am blue eyes here. It is about Possession & features.",
               "answer": "I am blue eyes"
             },
             {
               "id": "u06-ret-b4-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are two brothers here. It is about have / has got.",
+              "passage": "You are two brothers here. It is about Possession & features.",
               "answer": "You are two brothers"
             },
             {
               "id": "u06-ret-b4-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is a new phone here. It is about have / has got.",
+              "passage": "He is a new phone here. It is about Possession & features.",
               "answer": "He is a new phone"
             },
             {
               "id": "u06-ret-b4-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is a car here. It is about have / has got.",
+              "passage": "She is a car here. It is about Possession & features.",
               "answer": "She is a car"
             },
             {
               "id": "u06-ret-b4-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are blue eyes here. It is about have / has got.",
+              "passage": "We are blue eyes here. It is about Possession & features.",
               "answer": "We are blue eyes"
             }
           ]
@@ -4987,61 +4987,61 @@
             {
               "id": "u06-ret-b5-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are two brothers here. It is about have / has got.",
+              "passage": "They are two brothers here. It is about Possession & features.",
               "answer": "They are two brothers"
             },
             {
               "id": "u06-ret-b5-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am a new phone here. It is about have / has got.",
+              "passage": "I am a new phone here. It is about Possession & features.",
               "answer": "I am a new phone"
             },
             {
               "id": "u06-ret-b5-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are a car here. It is about have / has got.",
+              "passage": "You are a car here. It is about Possession & features.",
               "answer": "You are a car"
             },
             {
               "id": "u06-ret-b5-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is blue eyes here. It is about have / has got.",
+              "passage": "He is blue eyes here. It is about Possession & features.",
               "answer": "He is blue eyes"
             },
             {
               "id": "u06-ret-b5-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is two brothers here. It is about have / has got.",
+              "passage": "She is two brothers here. It is about Possession & features.",
               "answer": "She is two brothers"
             },
             {
               "id": "u06-ret-b5-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are a new phone here. It is about have / has got.",
+              "passage": "We are a new phone here. It is about Possession & features.",
               "answer": "We are a new phone"
             },
             {
               "id": "u06-ret-b5-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are a car here. It is about have / has got.",
+              "passage": "They are a car here. It is about Possession & features.",
               "answer": "They are a car"
             },
             {
               "id": "u06-ret-b5-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am blue eyes here. It is about have / has got.",
+              "passage": "I am blue eyes here. It is about Possession & features.",
               "answer": "I am blue eyes"
             },
             {
               "id": "u06-ret-b5-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are two brothers here. It is about have / has got.",
+              "passage": "You are two brothers here. It is about Possession & features.",
               "answer": "You are two brothers"
             },
             {
               "id": "u06-ret-b5-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is a new phone here. It is about have / has got.",
+              "passage": "He is a new phone here. It is about Possession & features.",
               "answer": "He is a new phone"
             }
           ]
@@ -5387,112 +5387,112 @@
             {
               "id": "u06-cin-b1-01",
               "prompt": "Read and answer.",
-              "passage": "You are two brothers. This practices have / has got.",
+              "passage": "You are two brothers. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b1-02",
               "prompt": "Read and answer.",
-              "passage": "He is a new phone. This practices have / has got.",
+              "passage": "He is a new phone. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b1-03",
               "prompt": "Read and answer.",
-              "passage": "She is a car. This practices have / has got.",
+              "passage": "She is a car. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b1-04",
               "prompt": "Read and answer.",
-              "passage": "We are blue eyes. This practices have / has got.",
+              "passage": "We are blue eyes. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b1-05",
               "prompt": "Read and answer.",
-              "passage": "They are two brothers. This practices have / has got.",
+              "passage": "They are two brothers. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b1-06",
               "prompt": "Read and answer.",
-              "passage": "I am a new phone. This practices have / has got.",
+              "passage": "I am a new phone. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b1-07",
               "prompt": "Read and answer.",
-              "passage": "You are a car. This practices have / has got.",
+              "passage": "You are a car. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b1-08",
               "prompt": "Read and answer.",
-              "passage": "He is blue eyes. This practices have / has got.",
+              "passage": "He is blue eyes. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b1-09",
               "prompt": "Read and answer.",
-              "passage": "She is two brothers. This practices have / has got.",
+              "passage": "She is two brothers. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b1-10",
               "prompt": "Read and answer.",
-              "passage": "We are a new phone. This practices have / has got.",
+              "passage": "We are a new phone. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             }
           ]
         },
@@ -5502,112 +5502,112 @@
             {
               "id": "u06-cin-b2-01",
               "prompt": "Read and answer.",
-              "passage": "They are a car. This practices have / has got.",
+              "passage": "They are a car. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b2-02",
               "prompt": "Read and answer.",
-              "passage": "I am blue eyes. This practices have / has got.",
+              "passage": "I am blue eyes. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b2-03",
               "prompt": "Read and answer.",
-              "passage": "You are two brothers. This practices have / has got.",
+              "passage": "You are two brothers. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b2-04",
               "prompt": "Read and answer.",
-              "passage": "He is a new phone. This practices have / has got.",
+              "passage": "He is a new phone. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b2-05",
               "prompt": "Read and answer.",
-              "passage": "She is a car. This practices have / has got.",
+              "passage": "She is a car. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b2-06",
               "prompt": "Read and answer.",
-              "passage": "We are blue eyes. This practices have / has got.",
+              "passage": "We are blue eyes. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b2-07",
               "prompt": "Read and answer.",
-              "passage": "They are two brothers. This practices have / has got.",
+              "passage": "They are two brothers. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b2-08",
               "prompt": "Read and answer.",
-              "passage": "I am a new phone. This practices have / has got.",
+              "passage": "I am a new phone. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b2-09",
               "prompt": "Read and answer.",
-              "passage": "You are a car. This practices have / has got.",
+              "passage": "You are a car. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b2-10",
               "prompt": "Read and answer.",
-              "passage": "He is blue eyes. This practices have / has got.",
+              "passage": "He is blue eyes. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             }
           ]
         },
@@ -5617,112 +5617,112 @@
             {
               "id": "u06-cin-b3-01",
               "prompt": "Read and answer.",
-              "passage": "She is two brothers. This practices have / has got.",
+              "passage": "She is two brothers. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b3-02",
               "prompt": "Read and answer.",
-              "passage": "We are a new phone. This practices have / has got.",
+              "passage": "We are a new phone. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b3-03",
               "prompt": "Read and answer.",
-              "passage": "They are a car. This practices have / has got.",
+              "passage": "They are a car. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b3-04",
               "prompt": "Read and answer.",
-              "passage": "I am blue eyes. This practices have / has got.",
+              "passage": "I am blue eyes. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b3-05",
               "prompt": "Read and answer.",
-              "passage": "You are two brothers. This practices have / has got.",
+              "passage": "You are two brothers. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b3-06",
               "prompt": "Read and answer.",
-              "passage": "He is a new phone. This practices have / has got.",
+              "passage": "He is a new phone. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b3-07",
               "prompt": "Read and answer.",
-              "passage": "She is a car. This practices have / has got.",
+              "passage": "She is a car. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b3-08",
               "prompt": "Read and answer.",
-              "passage": "We are blue eyes. This practices have / has got.",
+              "passage": "We are blue eyes. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b3-09",
               "prompt": "Read and answer.",
-              "passage": "They are two brothers. This practices have / has got.",
+              "passage": "They are two brothers. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b3-10",
               "prompt": "Read and answer.",
-              "passage": "I am a new phone. This practices have / has got.",
+              "passage": "I am a new phone. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             }
           ]
         },
@@ -5732,112 +5732,112 @@
             {
               "id": "u06-cin-b4-01",
               "prompt": "Read and answer.",
-              "passage": "You are a car. This practices have / has got.",
+              "passage": "You are a car. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b4-02",
               "prompt": "Read and answer.",
-              "passage": "He is blue eyes. This practices have / has got.",
+              "passage": "He is blue eyes. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b4-03",
               "prompt": "Read and answer.",
-              "passage": "She is two brothers. This practices have / has got.",
+              "passage": "She is two brothers. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b4-04",
               "prompt": "Read and answer.",
-              "passage": "We are a new phone. This practices have / has got.",
+              "passage": "We are a new phone. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b4-05",
               "prompt": "Read and answer.",
-              "passage": "They are a car. This practices have / has got.",
+              "passage": "They are a car. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b4-06",
               "prompt": "Read and answer.",
-              "passage": "I am blue eyes. This practices have / has got.",
+              "passage": "I am blue eyes. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b4-07",
               "prompt": "Read and answer.",
-              "passage": "You are two brothers. This practices have / has got.",
+              "passage": "You are two brothers. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b4-08",
               "prompt": "Read and answer.",
-              "passage": "He is a new phone. This practices have / has got.",
+              "passage": "He is a new phone. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b4-09",
               "prompt": "Read and answer.",
-              "passage": "She is a car. This practices have / has got.",
+              "passage": "She is a car. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b4-10",
               "prompt": "Read and answer.",
-              "passage": "We are blue eyes. This practices have / has got.",
+              "passage": "We are blue eyes. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             }
           ]
         },
@@ -5847,112 +5847,112 @@
             {
               "id": "u06-cin-b5-01",
               "prompt": "Read and answer.",
-              "passage": "They are two brothers. This practices have / has got.",
+              "passage": "They are two brothers. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b5-02",
               "prompt": "Read and answer.",
-              "passage": "I am a new phone. This practices have / has got.",
+              "passage": "I am a new phone. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b5-03",
               "prompt": "Read and answer.",
-              "passage": "You are a car. This practices have / has got.",
+              "passage": "You are a car. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b5-04",
               "prompt": "Read and answer.",
-              "passage": "He is blue eyes. This practices have / has got.",
+              "passage": "He is blue eyes. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b5-05",
               "prompt": "Read and answer.",
-              "passage": "She is two brothers. This practices have / has got.",
+              "passage": "She is two brothers. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b5-06",
               "prompt": "Read and answer.",
-              "passage": "We are a new phone. This practices have / has got.",
+              "passage": "We are a new phone. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b5-07",
               "prompt": "Read and answer.",
-              "passage": "They are a car. This practices have / has got.",
+              "passage": "They are a car. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b5-08",
               "prompt": "Read and answer.",
-              "passage": "I am blue eyes. This practices have / has got.",
+              "passage": "I am blue eyes. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b5-09",
               "prompt": "Read and answer.",
-              "passage": "You are two brothers. This practices have / has got.",
+              "passage": "You are two brothers. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             },
             {
               "id": "u06-cin-b5-10",
               "prompt": "Read and answer.",
-              "passage": "He is a new phone. This practices have / has got.",
+              "passage": "He is a new phone. This practices Possession & features.",
               "options": [
-                "have / has got",
+                "Possession & features",
                 "past perfect",
                 "future will"
               ],
-              "answer": "have / has got"
+              "answer": "Possession & features"
             }
           ]
         }
@@ -5966,70 +5966,70 @@
           "items": [
             {
               "id": "u06-stp-b1-01",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "You are two brothers",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b1-02",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "He is a new phone",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b1-03",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "She is a car",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b1-04",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "We are blue eyes",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b1-05",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "They are two brothers",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b1-06",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "I am a new phone",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b1-07",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "You are a car",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b1-08",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "He is blue eyes",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b1-09",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "She is two brothers",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b1-10",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "We are a new phone",
               "explanation": "Use have got / has got to describe possession and features."
@@ -6041,70 +6041,70 @@
           "items": [
             {
               "id": "u06-stp-b2-01",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "They are a car",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b2-02",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "I am blue eyes",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b2-03",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "You are two brothers",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b2-04",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "He is a new phone",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b2-05",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "She is a car",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b2-06",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "We are blue eyes",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b2-07",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "They are two brothers",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b2-08",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "I am a new phone",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b2-09",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "You are a car",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b2-10",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "He is blue eyes",
               "explanation": "Use have got / has got to describe possession and features."
@@ -6116,70 +6116,70 @@
           "items": [
             {
               "id": "u06-stp-b3-01",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "She is two brothers",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b3-02",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "We are a new phone",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b3-03",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "They are a car",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b3-04",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "I am blue eyes",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b3-05",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "You are two brothers",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b3-06",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "He is a new phone",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b3-07",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "She is a car",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b3-08",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "We are blue eyes",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b3-09",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "They are two brothers",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b3-10",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "I am a new phone",
               "explanation": "Use have got / has got to describe possession and features."
@@ -6191,70 +6191,70 @@
           "items": [
             {
               "id": "u06-stp-b4-01",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "You are a car",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b4-02",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "He is blue eyes",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b4-03",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "She is two brothers",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b4-04",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "We are a new phone",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b4-05",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "They are a car",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b4-06",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "I am blue eyes",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b4-07",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "You are two brothers",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b4-08",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "He is a new phone",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b4-09",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "She is a car",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b4-10",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "We are blue eyes",
               "explanation": "Use have got / has got to describe possession and features."
@@ -6266,70 +6266,70 @@
           "items": [
             {
               "id": "u06-stp-b5-01",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "They are two brothers",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b5-02",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "I am a new phone",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b5-03",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "You are a car",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b5-04",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "He is blue eyes",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b5-05",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "She is two brothers",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b5-06",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "We are a new phone",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b5-07",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "They are a car",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b5-08",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "I am blue eyes",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b5-09",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "You are two brothers",
               "explanation": "Use have got / has got to describe possession and features."
             },
             {
               "id": "u06-stp-b5-10",
-              "prompt": "Use the pattern: have / has got.",
+              "prompt": "Use the pattern: Possession & features.",
               "pattern": "Subject + have got + complement",
               "answer": "He is a new phone",
               "explanation": "Use have got / has got to describe possession and features."

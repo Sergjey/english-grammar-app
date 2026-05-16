@@ -1,8 +1,8 @@
 {
   "id": "unit-03",
   "number": 3,
-  "title": "Unit 3",
-  "topic": "Present continuous",
+  "title": "Present continuous",
+  "topic": "Actions happening now",
   "summary": "Use am/is/are + verb-ing for actions happening now or around now.",
   "categories": [
     {
@@ -13,7 +13,7 @@
           "items": [
             {
               "id": "u03-pat-b1-01",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "He ___ for the bus",
               "wordBank": [
                 "working",
@@ -28,7 +28,7 @@
             },
             {
               "id": "u03-pat-b1-02",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "She ___ English",
               "wordBank": [
                 "working",
@@ -43,7 +43,7 @@
             },
             {
               "id": "u03-pat-b1-03",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "We ___ dinner",
               "wordBank": [
                 "working",
@@ -58,7 +58,7 @@
             },
             {
               "id": "u03-pat-b1-04",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "They ___ for the bus",
               "wordBank": [
                 "working",
@@ -73,7 +73,7 @@
             },
             {
               "id": "u03-pat-b1-05",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "I ___ English",
               "wordBank": [
                 "working",
@@ -88,7 +88,7 @@
             },
             {
               "id": "u03-pat-b1-06",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "He ___ dinner",
               "wordBank": [
                 "working",
@@ -103,7 +103,7 @@
             },
             {
               "id": "u03-pat-b1-07",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "She ___ for the bus",
               "wordBank": [
                 "working",
@@ -118,7 +118,7 @@
             },
             {
               "id": "u03-pat-b1-08",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "We ___ English",
               "wordBank": [
                 "working",
@@ -133,7 +133,7 @@
             },
             {
               "id": "u03-pat-b1-09",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "They ___ dinner",
               "wordBank": [
                 "working",
@@ -148,7 +148,7 @@
             },
             {
               "id": "u03-pat-b1-10",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "I ___ for the bus",
               "wordBank": [
                 "working",
@@ -168,7 +168,7 @@
           "items": [
             {
               "id": "u03-pat-b2-01",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "He ___ English",
               "wordBank": [
                 "working",
@@ -183,7 +183,7 @@
             },
             {
               "id": "u03-pat-b2-02",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "She ___ dinner",
               "wordBank": [
                 "working",
@@ -198,7 +198,7 @@
             },
             {
               "id": "u03-pat-b2-03",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "We ___ for the bus",
               "wordBank": [
                 "working",
@@ -213,7 +213,7 @@
             },
             {
               "id": "u03-pat-b2-04",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "They ___ English",
               "wordBank": [
                 "working",
@@ -228,7 +228,7 @@
             },
             {
               "id": "u03-pat-b2-05",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "I ___ dinner",
               "wordBank": [
                 "working",
@@ -243,7 +243,7 @@
             },
             {
               "id": "u03-pat-b2-06",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "He ___ for the bus",
               "wordBank": [
                 "working",
@@ -258,7 +258,7 @@
             },
             {
               "id": "u03-pat-b2-07",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "She ___ English",
               "wordBank": [
                 "working",
@@ -273,7 +273,7 @@
             },
             {
               "id": "u03-pat-b2-08",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "We ___ dinner",
               "wordBank": [
                 "working",
@@ -288,7 +288,7 @@
             },
             {
               "id": "u03-pat-b2-09",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "They ___ for the bus",
               "wordBank": [
                 "working",
@@ -303,7 +303,7 @@
             },
             {
               "id": "u03-pat-b2-10",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "I ___ English",
               "wordBank": [
                 "working",
@@ -323,7 +323,7 @@
           "items": [
             {
               "id": "u03-pat-b3-01",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "He ___ dinner",
               "wordBank": [
                 "working",
@@ -338,7 +338,7 @@
             },
             {
               "id": "u03-pat-b3-02",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "She ___ for the bus",
               "wordBank": [
                 "working",
@@ -353,7 +353,7 @@
             },
             {
               "id": "u03-pat-b3-03",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "We ___ English",
               "wordBank": [
                 "working",
@@ -368,7 +368,7 @@
             },
             {
               "id": "u03-pat-b3-04",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "They ___ dinner",
               "wordBank": [
                 "working",
@@ -383,7 +383,7 @@
             },
             {
               "id": "u03-pat-b3-05",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "I ___ for the bus",
               "wordBank": [
                 "working",
@@ -398,7 +398,7 @@
             },
             {
               "id": "u03-pat-b3-06",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "He ___ English",
               "wordBank": [
                 "working",
@@ -413,7 +413,7 @@
             },
             {
               "id": "u03-pat-b3-07",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "She ___ dinner",
               "wordBank": [
                 "working",
@@ -428,7 +428,7 @@
             },
             {
               "id": "u03-pat-b3-08",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "We ___ for the bus",
               "wordBank": [
                 "working",
@@ -443,7 +443,7 @@
             },
             {
               "id": "u03-pat-b3-09",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "They ___ English",
               "wordBank": [
                 "working",
@@ -458,7 +458,7 @@
             },
             {
               "id": "u03-pat-b3-10",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "I ___ dinner",
               "wordBank": [
                 "working",
@@ -478,7 +478,7 @@
           "items": [
             {
               "id": "u03-pat-b4-01",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "He ___ for the bus",
               "wordBank": [
                 "working",
@@ -493,7 +493,7 @@
             },
             {
               "id": "u03-pat-b4-02",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "She ___ English",
               "wordBank": [
                 "working",
@@ -508,7 +508,7 @@
             },
             {
               "id": "u03-pat-b4-03",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "We ___ dinner",
               "wordBank": [
                 "working",
@@ -523,7 +523,7 @@
             },
             {
               "id": "u03-pat-b4-04",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "They ___ for the bus",
               "wordBank": [
                 "working",
@@ -538,7 +538,7 @@
             },
             {
               "id": "u03-pat-b4-05",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "I ___ English",
               "wordBank": [
                 "working",
@@ -553,7 +553,7 @@
             },
             {
               "id": "u03-pat-b4-06",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "He ___ dinner",
               "wordBank": [
                 "working",
@@ -568,7 +568,7 @@
             },
             {
               "id": "u03-pat-b4-07",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "She ___ for the bus",
               "wordBank": [
                 "working",
@@ -583,7 +583,7 @@
             },
             {
               "id": "u03-pat-b4-08",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "We ___ English",
               "wordBank": [
                 "working",
@@ -598,7 +598,7 @@
             },
             {
               "id": "u03-pat-b4-09",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "They ___ dinner",
               "wordBank": [
                 "working",
@@ -613,7 +613,7 @@
             },
             {
               "id": "u03-pat-b4-10",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "I ___ for the bus",
               "wordBank": [
                 "working",
@@ -633,7 +633,7 @@
           "items": [
             {
               "id": "u03-pat-b5-01",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "He ___ English",
               "wordBank": [
                 "working",
@@ -648,7 +648,7 @@
             },
             {
               "id": "u03-pat-b5-02",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "She ___ dinner",
               "wordBank": [
                 "working",
@@ -663,7 +663,7 @@
             },
             {
               "id": "u03-pat-b5-03",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "We ___ for the bus",
               "wordBank": [
                 "working",
@@ -678,7 +678,7 @@
             },
             {
               "id": "u03-pat-b5-04",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "They ___ English",
               "wordBank": [
                 "working",
@@ -693,7 +693,7 @@
             },
             {
               "id": "u03-pat-b5-05",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "I ___ dinner",
               "wordBank": [
                 "working",
@@ -708,7 +708,7 @@
             },
             {
               "id": "u03-pat-b5-06",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "He ___ for the bus",
               "wordBank": [
                 "working",
@@ -723,7 +723,7 @@
             },
             {
               "id": "u03-pat-b5-07",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "She ___ English",
               "wordBank": [
                 "working",
@@ -738,7 +738,7 @@
             },
             {
               "id": "u03-pat-b5-08",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "We ___ dinner",
               "wordBank": [
                 "working",
@@ -753,7 +753,7 @@
             },
             {
               "id": "u03-pat-b5-09",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "They ___ for the bus",
               "wordBank": [
                 "working",
@@ -768,7 +768,7 @@
             },
             {
               "id": "u03-pat-b5-10",
-              "prompt": "Complete the pattern for Present continuous.",
+              "prompt": "Complete the pattern for Actions happening now.",
               "pattern": "I ___ English",
               "wordBank": [
                 "working",
@@ -4848,61 +4848,61 @@
             {
               "id": "u03-ret-b1-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is for the bus right now. It is about Present continuous.",
+              "passage": "He is for the bus right now. It is about Actions happening now.",
               "answer": "He is for the bus"
             },
             {
               "id": "u03-ret-b1-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is English at the moment. It is about Present continuous.",
+              "passage": "She is English at the moment. It is about Actions happening now.",
               "answer": "She is English"
             },
             {
               "id": "u03-ret-b1-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are dinner right now. It is about Present continuous.",
+              "passage": "We are dinner right now. It is about Actions happening now.",
               "answer": "We are dinner"
             },
             {
               "id": "u03-ret-b1-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are for the bus at the moment. It is about Present continuous.",
+              "passage": "They are for the bus at the moment. It is about Actions happening now.",
               "answer": "They are for the bus"
             },
             {
               "id": "u03-ret-b1-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am English right now. It is about Present continuous.",
+              "passage": "I am English right now. It is about Actions happening now.",
               "answer": "I am English"
             },
             {
               "id": "u03-ret-b1-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is dinner at the moment. It is about Present continuous.",
+              "passage": "He is dinner at the moment. It is about Actions happening now.",
               "answer": "He is dinner"
             },
             {
               "id": "u03-ret-b1-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is for the bus right now. It is about Present continuous.",
+              "passage": "She is for the bus right now. It is about Actions happening now.",
               "answer": "She is for the bus"
             },
             {
               "id": "u03-ret-b1-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are English at the moment. It is about Present continuous.",
+              "passage": "We are English at the moment. It is about Actions happening now.",
               "answer": "We are English"
             },
             {
               "id": "u03-ret-b1-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are dinner right now. It is about Present continuous.",
+              "passage": "They are dinner right now. It is about Actions happening now.",
               "answer": "They are dinner"
             },
             {
               "id": "u03-ret-b1-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am for the bus at the moment. It is about Present continuous.",
+              "passage": "I am for the bus at the moment. It is about Actions happening now.",
               "answer": "I am for the bus"
             }
           ]
@@ -4913,61 +4913,61 @@
             {
               "id": "u03-ret-b2-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is English right now. It is about Present continuous.",
+              "passage": "He is English right now. It is about Actions happening now.",
               "answer": "He is English"
             },
             {
               "id": "u03-ret-b2-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is dinner at the moment. It is about Present continuous.",
+              "passage": "She is dinner at the moment. It is about Actions happening now.",
               "answer": "She is dinner"
             },
             {
               "id": "u03-ret-b2-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are for the bus right now. It is about Present continuous.",
+              "passage": "We are for the bus right now. It is about Actions happening now.",
               "answer": "We are for the bus"
             },
             {
               "id": "u03-ret-b2-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are English at the moment. It is about Present continuous.",
+              "passage": "They are English at the moment. It is about Actions happening now.",
               "answer": "They are English"
             },
             {
               "id": "u03-ret-b2-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am dinner right now. It is about Present continuous.",
+              "passage": "I am dinner right now. It is about Actions happening now.",
               "answer": "I am dinner"
             },
             {
               "id": "u03-ret-b2-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is for the bus at the moment. It is about Present continuous.",
+              "passage": "He is for the bus at the moment. It is about Actions happening now.",
               "answer": "He is for the bus"
             },
             {
               "id": "u03-ret-b2-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is English right now. It is about Present continuous.",
+              "passage": "She is English right now. It is about Actions happening now.",
               "answer": "She is English"
             },
             {
               "id": "u03-ret-b2-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are dinner at the moment. It is about Present continuous.",
+              "passage": "We are dinner at the moment. It is about Actions happening now.",
               "answer": "We are dinner"
             },
             {
               "id": "u03-ret-b2-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are for the bus right now. It is about Present continuous.",
+              "passage": "They are for the bus right now. It is about Actions happening now.",
               "answer": "They are for the bus"
             },
             {
               "id": "u03-ret-b2-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am English at the moment. It is about Present continuous.",
+              "passage": "I am English at the moment. It is about Actions happening now.",
               "answer": "I am English"
             }
           ]
@@ -4978,61 +4978,61 @@
             {
               "id": "u03-ret-b3-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is dinner right now. It is about Present continuous.",
+              "passage": "He is dinner right now. It is about Actions happening now.",
               "answer": "He is dinner"
             },
             {
               "id": "u03-ret-b3-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is for the bus at the moment. It is about Present continuous.",
+              "passage": "She is for the bus at the moment. It is about Actions happening now.",
               "answer": "She is for the bus"
             },
             {
               "id": "u03-ret-b3-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are English right now. It is about Present continuous.",
+              "passage": "We are English right now. It is about Actions happening now.",
               "answer": "We are English"
             },
             {
               "id": "u03-ret-b3-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are dinner at the moment. It is about Present continuous.",
+              "passage": "They are dinner at the moment. It is about Actions happening now.",
               "answer": "They are dinner"
             },
             {
               "id": "u03-ret-b3-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am for the bus right now. It is about Present continuous.",
+              "passage": "I am for the bus right now. It is about Actions happening now.",
               "answer": "I am for the bus"
             },
             {
               "id": "u03-ret-b3-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is English at the moment. It is about Present continuous.",
+              "passage": "He is English at the moment. It is about Actions happening now.",
               "answer": "He is English"
             },
             {
               "id": "u03-ret-b3-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is dinner right now. It is about Present continuous.",
+              "passage": "She is dinner right now. It is about Actions happening now.",
               "answer": "She is dinner"
             },
             {
               "id": "u03-ret-b3-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are for the bus at the moment. It is about Present continuous.",
+              "passage": "We are for the bus at the moment. It is about Actions happening now.",
               "answer": "We are for the bus"
             },
             {
               "id": "u03-ret-b3-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are English right now. It is about Present continuous.",
+              "passage": "They are English right now. It is about Actions happening now.",
               "answer": "They are English"
             },
             {
               "id": "u03-ret-b3-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am dinner at the moment. It is about Present continuous.",
+              "passage": "I am dinner at the moment. It is about Actions happening now.",
               "answer": "I am dinner"
             }
           ]
@@ -5043,61 +5043,61 @@
             {
               "id": "u03-ret-b4-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is for the bus right now. It is about Present continuous.",
+              "passage": "He is for the bus right now. It is about Actions happening now.",
               "answer": "He is for the bus"
             },
             {
               "id": "u03-ret-b4-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is English at the moment. It is about Present continuous.",
+              "passage": "She is English at the moment. It is about Actions happening now.",
               "answer": "She is English"
             },
             {
               "id": "u03-ret-b4-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are dinner right now. It is about Present continuous.",
+              "passage": "We are dinner right now. It is about Actions happening now.",
               "answer": "We are dinner"
             },
             {
               "id": "u03-ret-b4-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are for the bus at the moment. It is about Present continuous.",
+              "passage": "They are for the bus at the moment. It is about Actions happening now.",
               "answer": "They are for the bus"
             },
             {
               "id": "u03-ret-b4-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am English right now. It is about Present continuous.",
+              "passage": "I am English right now. It is about Actions happening now.",
               "answer": "I am English"
             },
             {
               "id": "u03-ret-b4-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is dinner at the moment. It is about Present continuous.",
+              "passage": "He is dinner at the moment. It is about Actions happening now.",
               "answer": "He is dinner"
             },
             {
               "id": "u03-ret-b4-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is for the bus right now. It is about Present continuous.",
+              "passage": "She is for the bus right now. It is about Actions happening now.",
               "answer": "She is for the bus"
             },
             {
               "id": "u03-ret-b4-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are English at the moment. It is about Present continuous.",
+              "passage": "We are English at the moment. It is about Actions happening now.",
               "answer": "We are English"
             },
             {
               "id": "u03-ret-b4-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are dinner right now. It is about Present continuous.",
+              "passage": "They are dinner right now. It is about Actions happening now.",
               "answer": "They are dinner"
             },
             {
               "id": "u03-ret-b4-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am for the bus at the moment. It is about Present continuous.",
+              "passage": "I am for the bus at the moment. It is about Actions happening now.",
               "answer": "I am for the bus"
             }
           ]
@@ -5108,61 +5108,61 @@
             {
               "id": "u03-ret-b5-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is English right now. It is about Present continuous.",
+              "passage": "He is English right now. It is about Actions happening now.",
               "answer": "He is English"
             },
             {
               "id": "u03-ret-b5-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is dinner at the moment. It is about Present continuous.",
+              "passage": "She is dinner at the moment. It is about Actions happening now.",
               "answer": "She is dinner"
             },
             {
               "id": "u03-ret-b5-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are for the bus right now. It is about Present continuous.",
+              "passage": "We are for the bus right now. It is about Actions happening now.",
               "answer": "We are for the bus"
             },
             {
               "id": "u03-ret-b5-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are English at the moment. It is about Present continuous.",
+              "passage": "They are English at the moment. It is about Actions happening now.",
               "answer": "They are English"
             },
             {
               "id": "u03-ret-b5-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am dinner right now. It is about Present continuous.",
+              "passage": "I am dinner right now. It is about Actions happening now.",
               "answer": "I am dinner"
             },
             {
               "id": "u03-ret-b5-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is for the bus at the moment. It is about Present continuous.",
+              "passage": "He is for the bus at the moment. It is about Actions happening now.",
               "answer": "He is for the bus"
             },
             {
               "id": "u03-ret-b5-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is English right now. It is about Present continuous.",
+              "passage": "She is English right now. It is about Actions happening now.",
               "answer": "She is English"
             },
             {
               "id": "u03-ret-b5-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are dinner at the moment. It is about Present continuous.",
+              "passage": "We are dinner at the moment. It is about Actions happening now.",
               "answer": "We are dinner"
             },
             {
               "id": "u03-ret-b5-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are for the bus right now. It is about Present continuous.",
+              "passage": "They are for the bus right now. It is about Actions happening now.",
               "answer": "They are for the bus"
             },
             {
               "id": "u03-ret-b5-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am English at the moment. It is about Present continuous.",
+              "passage": "I am English at the moment. It is about Actions happening now.",
               "answer": "I am English"
             }
           ]
@@ -5508,112 +5508,112 @@
             {
               "id": "u03-cin-b1-01",
               "prompt": "Read and answer.",
-              "passage": "He is for the bus. This practices Present continuous.",
+              "passage": "He is for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b1-02",
               "prompt": "Read and answer.",
-              "passage": "She is English. This practices Present continuous.",
+              "passage": "She is English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b1-03",
               "prompt": "Read and answer.",
-              "passage": "We are dinner. This practices Present continuous.",
+              "passage": "We are dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b1-04",
               "prompt": "Read and answer.",
-              "passage": "They are for the bus. This practices Present continuous.",
+              "passage": "They are for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b1-05",
               "prompt": "Read and answer.",
-              "passage": "I am English. This practices Present continuous.",
+              "passage": "I am English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b1-06",
               "prompt": "Read and answer.",
-              "passage": "He is dinner. This practices Present continuous.",
+              "passage": "He is dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b1-07",
               "prompt": "Read and answer.",
-              "passage": "She is for the bus. This practices Present continuous.",
+              "passage": "She is for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b1-08",
               "prompt": "Read and answer.",
-              "passage": "We are English. This practices Present continuous.",
+              "passage": "We are English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b1-09",
               "prompt": "Read and answer.",
-              "passage": "They are dinner. This practices Present continuous.",
+              "passage": "They are dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b1-10",
               "prompt": "Read and answer.",
-              "passage": "I am for the bus. This practices Present continuous.",
+              "passage": "I am for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             }
           ]
         },
@@ -5623,112 +5623,112 @@
             {
               "id": "u03-cin-b2-01",
               "prompt": "Read and answer.",
-              "passage": "He is English. This practices Present continuous.",
+              "passage": "He is English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b2-02",
               "prompt": "Read and answer.",
-              "passage": "She is dinner. This practices Present continuous.",
+              "passage": "She is dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b2-03",
               "prompt": "Read and answer.",
-              "passage": "We are for the bus. This practices Present continuous.",
+              "passage": "We are for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b2-04",
               "prompt": "Read and answer.",
-              "passage": "They are English. This practices Present continuous.",
+              "passage": "They are English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b2-05",
               "prompt": "Read and answer.",
-              "passage": "I am dinner. This practices Present continuous.",
+              "passage": "I am dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b2-06",
               "prompt": "Read and answer.",
-              "passage": "He is for the bus. This practices Present continuous.",
+              "passage": "He is for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b2-07",
               "prompt": "Read and answer.",
-              "passage": "She is English. This practices Present continuous.",
+              "passage": "She is English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b2-08",
               "prompt": "Read and answer.",
-              "passage": "We are dinner. This practices Present continuous.",
+              "passage": "We are dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b2-09",
               "prompt": "Read and answer.",
-              "passage": "They are for the bus. This practices Present continuous.",
+              "passage": "They are for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b2-10",
               "prompt": "Read and answer.",
-              "passage": "I am English. This practices Present continuous.",
+              "passage": "I am English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             }
           ]
         },
@@ -5738,112 +5738,112 @@
             {
               "id": "u03-cin-b3-01",
               "prompt": "Read and answer.",
-              "passage": "He is dinner. This practices Present continuous.",
+              "passage": "He is dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b3-02",
               "prompt": "Read and answer.",
-              "passage": "She is for the bus. This practices Present continuous.",
+              "passage": "She is for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b3-03",
               "prompt": "Read and answer.",
-              "passage": "We are English. This practices Present continuous.",
+              "passage": "We are English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b3-04",
               "prompt": "Read and answer.",
-              "passage": "They are dinner. This practices Present continuous.",
+              "passage": "They are dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b3-05",
               "prompt": "Read and answer.",
-              "passage": "I am for the bus. This practices Present continuous.",
+              "passage": "I am for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b3-06",
               "prompt": "Read and answer.",
-              "passage": "He is English. This practices Present continuous.",
+              "passage": "He is English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b3-07",
               "prompt": "Read and answer.",
-              "passage": "She is dinner. This practices Present continuous.",
+              "passage": "She is dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b3-08",
               "prompt": "Read and answer.",
-              "passage": "We are for the bus. This practices Present continuous.",
+              "passage": "We are for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b3-09",
               "prompt": "Read and answer.",
-              "passage": "They are English. This practices Present continuous.",
+              "passage": "They are English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b3-10",
               "prompt": "Read and answer.",
-              "passage": "I am dinner. This practices Present continuous.",
+              "passage": "I am dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             }
           ]
         },
@@ -5853,112 +5853,112 @@
             {
               "id": "u03-cin-b4-01",
               "prompt": "Read and answer.",
-              "passage": "He is for the bus. This practices Present continuous.",
+              "passage": "He is for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b4-02",
               "prompt": "Read and answer.",
-              "passage": "She is English. This practices Present continuous.",
+              "passage": "She is English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b4-03",
               "prompt": "Read and answer.",
-              "passage": "We are dinner. This practices Present continuous.",
+              "passage": "We are dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b4-04",
               "prompt": "Read and answer.",
-              "passage": "They are for the bus. This practices Present continuous.",
+              "passage": "They are for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b4-05",
               "prompt": "Read and answer.",
-              "passage": "I am English. This practices Present continuous.",
+              "passage": "I am English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b4-06",
               "prompt": "Read and answer.",
-              "passage": "He is dinner. This practices Present continuous.",
+              "passage": "He is dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b4-07",
               "prompt": "Read and answer.",
-              "passage": "She is for the bus. This practices Present continuous.",
+              "passage": "She is for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b4-08",
               "prompt": "Read and answer.",
-              "passage": "We are English. This practices Present continuous.",
+              "passage": "We are English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b4-09",
               "prompt": "Read and answer.",
-              "passage": "They are dinner. This practices Present continuous.",
+              "passage": "They are dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b4-10",
               "prompt": "Read and answer.",
-              "passage": "I am for the bus. This practices Present continuous.",
+              "passage": "I am for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             }
           ]
         },
@@ -5968,112 +5968,112 @@
             {
               "id": "u03-cin-b5-01",
               "prompt": "Read and answer.",
-              "passage": "He is English. This practices Present continuous.",
+              "passage": "He is English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b5-02",
               "prompt": "Read and answer.",
-              "passage": "She is dinner. This practices Present continuous.",
+              "passage": "She is dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b5-03",
               "prompt": "Read and answer.",
-              "passage": "We are for the bus. This practices Present continuous.",
+              "passage": "We are for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b5-04",
               "prompt": "Read and answer.",
-              "passage": "They are English. This practices Present continuous.",
+              "passage": "They are English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b5-05",
               "prompt": "Read and answer.",
-              "passage": "I am dinner. This practices Present continuous.",
+              "passage": "I am dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b5-06",
               "prompt": "Read and answer.",
-              "passage": "He is for the bus. This practices Present continuous.",
+              "passage": "He is for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b5-07",
               "prompt": "Read and answer.",
-              "passage": "She is English. This practices Present continuous.",
+              "passage": "She is English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b5-08",
               "prompt": "Read and answer.",
-              "passage": "We are dinner. This practices Present continuous.",
+              "passage": "We are dinner. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b5-09",
               "prompt": "Read and answer.",
-              "passage": "They are for the bus. This practices Present continuous.",
+              "passage": "They are for the bus. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             },
             {
               "id": "u03-cin-b5-10",
               "prompt": "Read and answer.",
-              "passage": "I am English. This practices Present continuous.",
+              "passage": "I am English. This practices Actions happening now.",
               "options": [
-                "Present continuous",
+                "Actions happening now",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Present continuous"
+              "answer": "Actions happening now"
             }
           ]
         }
@@ -6087,70 +6087,70 @@
           "items": [
             {
               "id": "u03-stp-b1-01",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "He is for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b1-02",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "She is English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b1-03",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "We are dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b1-04",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "They are for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b1-05",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "I am English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b1-06",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "He is dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b1-07",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "She is for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b1-08",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "We are English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b1-09",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "They are dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b1-10",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "I am for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
@@ -6162,70 +6162,70 @@
           "items": [
             {
               "id": "u03-stp-b2-01",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "He is English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b2-02",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "She is dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b2-03",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "We are for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b2-04",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "They are English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b2-05",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "I am dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b2-06",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "He is for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b2-07",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "She is English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b2-08",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "We are dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b2-09",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "They are for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b2-10",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "I am English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
@@ -6237,70 +6237,70 @@
           "items": [
             {
               "id": "u03-stp-b3-01",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "He is dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b3-02",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "She is for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b3-03",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "We are English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b3-04",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "They are dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b3-05",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "I am for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b3-06",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "He is English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b3-07",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "She is dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b3-08",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "We are for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b3-09",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "They are English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b3-10",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "I am dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
@@ -6312,70 +6312,70 @@
           "items": [
             {
               "id": "u03-stp-b4-01",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "He is for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b4-02",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "She is English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b4-03",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "We are dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b4-04",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "They are for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b4-05",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "I am English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b4-06",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "He is dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b4-07",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "She is for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b4-08",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "We are English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b4-09",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "They are dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b4-10",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "I am for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
@@ -6387,70 +6387,70 @@
           "items": [
             {
               "id": "u03-stp-b5-01",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "He is English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b5-02",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "She is dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b5-03",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "We are for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b5-04",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "They are English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b5-05",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "I am dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b5-06",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "He is for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b5-07",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "She is English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b5-08",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "We are dinner",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b5-09",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "They are for the bus",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."
             },
             {
               "id": "u03-stp-b5-10",
-              "prompt": "Use the pattern: Present continuous.",
+              "prompt": "Use the pattern: Actions happening now.",
               "pattern": "Subject + working + complement",
               "answer": "I am English",
               "explanation": "Use am/is/are + verb-ing for actions happening now or around now."

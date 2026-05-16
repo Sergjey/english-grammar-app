@@ -1,8 +1,8 @@
 {
   "id": "unit-07",
   "number": 7,
-  "title": "Unit 7",
-  "topic": "was / were",
+  "title": "was / were",
+  "topic": "Past of be",
   "summary": "Use was/were for the past of be in statements and questions.",
   "categories": [
     {
@@ -13,7 +13,7 @@
           "items": [
             {
               "id": "u07-pat-b1-01",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "He ___ late",
               "wordBank": [
                 "was",
@@ -25,7 +25,7 @@
             },
             {
               "id": "u07-pat-b1-02",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "She ___ friends",
               "wordBank": [
                 "was",
@@ -37,7 +37,7 @@
             },
             {
               "id": "u07-pat-b1-03",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "We ___ at school",
               "wordBank": [
                 "was",
@@ -49,7 +49,7 @@
             },
             {
               "id": "u07-pat-b1-04",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "They ___ happy",
               "wordBank": [
                 "was",
@@ -61,7 +61,7 @@
             },
             {
               "id": "u07-pat-b1-05",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "You ___ late",
               "wordBank": [
                 "was",
@@ -73,7 +73,7 @@
             },
             {
               "id": "u07-pat-b1-06",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "I ___ friends",
               "wordBank": [
                 "was",
@@ -85,7 +85,7 @@
             },
             {
               "id": "u07-pat-b1-07",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "He ___ at school",
               "wordBank": [
                 "was",
@@ -97,7 +97,7 @@
             },
             {
               "id": "u07-pat-b1-08",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "She ___ happy",
               "wordBank": [
                 "was",
@@ -109,7 +109,7 @@
             },
             {
               "id": "u07-pat-b1-09",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "We ___ late",
               "wordBank": [
                 "was",
@@ -121,7 +121,7 @@
             },
             {
               "id": "u07-pat-b1-10",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "They ___ friends",
               "wordBank": [
                 "was",
@@ -138,7 +138,7 @@
           "items": [
             {
               "id": "u07-pat-b2-01",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "You ___ at school",
               "wordBank": [
                 "was",
@@ -150,7 +150,7 @@
             },
             {
               "id": "u07-pat-b2-02",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "I ___ happy",
               "wordBank": [
                 "was",
@@ -162,7 +162,7 @@
             },
             {
               "id": "u07-pat-b2-03",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "He ___ late",
               "wordBank": [
                 "was",
@@ -174,7 +174,7 @@
             },
             {
               "id": "u07-pat-b2-04",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "She ___ friends",
               "wordBank": [
                 "was",
@@ -186,7 +186,7 @@
             },
             {
               "id": "u07-pat-b2-05",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "We ___ at school",
               "wordBank": [
                 "was",
@@ -198,7 +198,7 @@
             },
             {
               "id": "u07-pat-b2-06",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "They ___ happy",
               "wordBank": [
                 "was",
@@ -210,7 +210,7 @@
             },
             {
               "id": "u07-pat-b2-07",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "You ___ late",
               "wordBank": [
                 "was",
@@ -222,7 +222,7 @@
             },
             {
               "id": "u07-pat-b2-08",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "I ___ friends",
               "wordBank": [
                 "was",
@@ -234,7 +234,7 @@
             },
             {
               "id": "u07-pat-b2-09",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "He ___ at school",
               "wordBank": [
                 "was",
@@ -246,7 +246,7 @@
             },
             {
               "id": "u07-pat-b2-10",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "She ___ happy",
               "wordBank": [
                 "was",
@@ -263,7 +263,7 @@
           "items": [
             {
               "id": "u07-pat-b3-01",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "We ___ late",
               "wordBank": [
                 "was",
@@ -275,7 +275,7 @@
             },
             {
               "id": "u07-pat-b3-02",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "They ___ friends",
               "wordBank": [
                 "was",
@@ -287,7 +287,7 @@
             },
             {
               "id": "u07-pat-b3-03",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "You ___ at school",
               "wordBank": [
                 "was",
@@ -299,7 +299,7 @@
             },
             {
               "id": "u07-pat-b3-04",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "I ___ happy",
               "wordBank": [
                 "was",
@@ -311,7 +311,7 @@
             },
             {
               "id": "u07-pat-b3-05",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "He ___ late",
               "wordBank": [
                 "was",
@@ -323,7 +323,7 @@
             },
             {
               "id": "u07-pat-b3-06",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "She ___ friends",
               "wordBank": [
                 "was",
@@ -335,7 +335,7 @@
             },
             {
               "id": "u07-pat-b3-07",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "We ___ at school",
               "wordBank": [
                 "was",
@@ -347,7 +347,7 @@
             },
             {
               "id": "u07-pat-b3-08",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "They ___ happy",
               "wordBank": [
                 "was",
@@ -359,7 +359,7 @@
             },
             {
               "id": "u07-pat-b3-09",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "You ___ late",
               "wordBank": [
                 "was",
@@ -371,7 +371,7 @@
             },
             {
               "id": "u07-pat-b3-10",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "I ___ friends",
               "wordBank": [
                 "was",
@@ -388,7 +388,7 @@
           "items": [
             {
               "id": "u07-pat-b4-01",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "He ___ at school",
               "wordBank": [
                 "was",
@@ -400,7 +400,7 @@
             },
             {
               "id": "u07-pat-b4-02",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "She ___ happy",
               "wordBank": [
                 "was",
@@ -412,7 +412,7 @@
             },
             {
               "id": "u07-pat-b4-03",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "We ___ late",
               "wordBank": [
                 "was",
@@ -424,7 +424,7 @@
             },
             {
               "id": "u07-pat-b4-04",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "They ___ friends",
               "wordBank": [
                 "was",
@@ -436,7 +436,7 @@
             },
             {
               "id": "u07-pat-b4-05",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "You ___ at school",
               "wordBank": [
                 "was",
@@ -448,7 +448,7 @@
             },
             {
               "id": "u07-pat-b4-06",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "I ___ happy",
               "wordBank": [
                 "was",
@@ -460,7 +460,7 @@
             },
             {
               "id": "u07-pat-b4-07",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "He ___ late",
               "wordBank": [
                 "was",
@@ -472,7 +472,7 @@
             },
             {
               "id": "u07-pat-b4-08",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "She ___ friends",
               "wordBank": [
                 "was",
@@ -484,7 +484,7 @@
             },
             {
               "id": "u07-pat-b4-09",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "We ___ at school",
               "wordBank": [
                 "was",
@@ -496,7 +496,7 @@
             },
             {
               "id": "u07-pat-b4-10",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "They ___ happy",
               "wordBank": [
                 "was",
@@ -513,7 +513,7 @@
           "items": [
             {
               "id": "u07-pat-b5-01",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "You ___ late",
               "wordBank": [
                 "was",
@@ -525,7 +525,7 @@
             },
             {
               "id": "u07-pat-b5-02",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "I ___ friends",
               "wordBank": [
                 "was",
@@ -537,7 +537,7 @@
             },
             {
               "id": "u07-pat-b5-03",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "He ___ at school",
               "wordBank": [
                 "was",
@@ -549,7 +549,7 @@
             },
             {
               "id": "u07-pat-b5-04",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "She ___ happy",
               "wordBank": [
                 "was",
@@ -561,7 +561,7 @@
             },
             {
               "id": "u07-pat-b5-05",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "We ___ late",
               "wordBank": [
                 "was",
@@ -573,7 +573,7 @@
             },
             {
               "id": "u07-pat-b5-06",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "They ___ friends",
               "wordBank": [
                 "was",
@@ -585,7 +585,7 @@
             },
             {
               "id": "u07-pat-b5-07",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "You ___ at school",
               "wordBank": [
                 "was",
@@ -597,7 +597,7 @@
             },
             {
               "id": "u07-pat-b5-08",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "I ___ happy",
               "wordBank": [
                 "was",
@@ -609,7 +609,7 @@
             },
             {
               "id": "u07-pat-b5-09",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "He ___ late",
               "wordBank": [
                 "was",
@@ -621,7 +621,7 @@
             },
             {
               "id": "u07-pat-b5-10",
-              "prompt": "Complete the pattern for was / were.",
+              "prompt": "Complete the pattern for Past of be.",
               "pattern": "She ___ friends",
               "wordBank": [
                 "was",
@@ -4676,61 +4676,61 @@
             {
               "id": "u07-ret-b1-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is late last night. It is about was / were.",
+              "passage": "He is late last night. It is about Past of be.",
               "answer": "He is late"
             },
             {
               "id": "u07-ret-b1-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is friends yesterday. It is about was / were.",
+              "passage": "She is friends yesterday. It is about Past of be.",
               "answer": "She is friends"
             },
             {
               "id": "u07-ret-b1-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are at school last night. It is about was / were.",
+              "passage": "We are at school last night. It is about Past of be.",
               "answer": "We are at school"
             },
             {
               "id": "u07-ret-b1-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are happy yesterday. It is about was / were.",
+              "passage": "They are happy yesterday. It is about Past of be.",
               "answer": "They are happy"
             },
             {
               "id": "u07-ret-b1-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are late last night. It is about was / were.",
+              "passage": "You are late last night. It is about Past of be.",
               "answer": "You are late"
             },
             {
               "id": "u07-ret-b1-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am friends yesterday. It is about was / were.",
+              "passage": "I am friends yesterday. It is about Past of be.",
               "answer": "I am friends"
             },
             {
               "id": "u07-ret-b1-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is at school last night. It is about was / were.",
+              "passage": "He is at school last night. It is about Past of be.",
               "answer": "He is at school"
             },
             {
               "id": "u07-ret-b1-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is happy yesterday. It is about was / were.",
+              "passage": "She is happy yesterday. It is about Past of be.",
               "answer": "She is happy"
             },
             {
               "id": "u07-ret-b1-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are late last night. It is about was / were.",
+              "passage": "We are late last night. It is about Past of be.",
               "answer": "We are late"
             },
             {
               "id": "u07-ret-b1-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are friends yesterday. It is about was / were.",
+              "passage": "They are friends yesterday. It is about Past of be.",
               "answer": "They are friends"
             }
           ]
@@ -4741,61 +4741,61 @@
             {
               "id": "u07-ret-b2-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are at school last night. It is about was / were.",
+              "passage": "You are at school last night. It is about Past of be.",
               "answer": "You are at school"
             },
             {
               "id": "u07-ret-b2-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am happy yesterday. It is about was / were.",
+              "passage": "I am happy yesterday. It is about Past of be.",
               "answer": "I am happy"
             },
             {
               "id": "u07-ret-b2-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is late last night. It is about was / were.",
+              "passage": "He is late last night. It is about Past of be.",
               "answer": "He is late"
             },
             {
               "id": "u07-ret-b2-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is friends yesterday. It is about was / were.",
+              "passage": "She is friends yesterday. It is about Past of be.",
               "answer": "She is friends"
             },
             {
               "id": "u07-ret-b2-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are at school last night. It is about was / were.",
+              "passage": "We are at school last night. It is about Past of be.",
               "answer": "We are at school"
             },
             {
               "id": "u07-ret-b2-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are happy yesterday. It is about was / were.",
+              "passage": "They are happy yesterday. It is about Past of be.",
               "answer": "They are happy"
             },
             {
               "id": "u07-ret-b2-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are late last night. It is about was / were.",
+              "passage": "You are late last night. It is about Past of be.",
               "answer": "You are late"
             },
             {
               "id": "u07-ret-b2-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am friends yesterday. It is about was / were.",
+              "passage": "I am friends yesterday. It is about Past of be.",
               "answer": "I am friends"
             },
             {
               "id": "u07-ret-b2-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is at school last night. It is about was / were.",
+              "passage": "He is at school last night. It is about Past of be.",
               "answer": "He is at school"
             },
             {
               "id": "u07-ret-b2-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is happy yesterday. It is about was / were.",
+              "passage": "She is happy yesterday. It is about Past of be.",
               "answer": "She is happy"
             }
           ]
@@ -4806,61 +4806,61 @@
             {
               "id": "u07-ret-b3-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are late last night. It is about was / were.",
+              "passage": "We are late last night. It is about Past of be.",
               "answer": "We are late"
             },
             {
               "id": "u07-ret-b3-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are friends yesterday. It is about was / were.",
+              "passage": "They are friends yesterday. It is about Past of be.",
               "answer": "They are friends"
             },
             {
               "id": "u07-ret-b3-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are at school last night. It is about was / were.",
+              "passage": "You are at school last night. It is about Past of be.",
               "answer": "You are at school"
             },
             {
               "id": "u07-ret-b3-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am happy yesterday. It is about was / were.",
+              "passage": "I am happy yesterday. It is about Past of be.",
               "answer": "I am happy"
             },
             {
               "id": "u07-ret-b3-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is late last night. It is about was / were.",
+              "passage": "He is late last night. It is about Past of be.",
               "answer": "He is late"
             },
             {
               "id": "u07-ret-b3-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is friends yesterday. It is about was / were.",
+              "passage": "She is friends yesterday. It is about Past of be.",
               "answer": "She is friends"
             },
             {
               "id": "u07-ret-b3-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are at school last night. It is about was / were.",
+              "passage": "We are at school last night. It is about Past of be.",
               "answer": "We are at school"
             },
             {
               "id": "u07-ret-b3-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are happy yesterday. It is about was / were.",
+              "passage": "They are happy yesterday. It is about Past of be.",
               "answer": "They are happy"
             },
             {
               "id": "u07-ret-b3-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are late last night. It is about was / were.",
+              "passage": "You are late last night. It is about Past of be.",
               "answer": "You are late"
             },
             {
               "id": "u07-ret-b3-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am friends yesterday. It is about was / were.",
+              "passage": "I am friends yesterday. It is about Past of be.",
               "answer": "I am friends"
             }
           ]
@@ -4871,61 +4871,61 @@
             {
               "id": "u07-ret-b4-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is at school last night. It is about was / were.",
+              "passage": "He is at school last night. It is about Past of be.",
               "answer": "He is at school"
             },
             {
               "id": "u07-ret-b4-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is happy yesterday. It is about was / were.",
+              "passage": "She is happy yesterday. It is about Past of be.",
               "answer": "She is happy"
             },
             {
               "id": "u07-ret-b4-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are late last night. It is about was / were.",
+              "passage": "We are late last night. It is about Past of be.",
               "answer": "We are late"
             },
             {
               "id": "u07-ret-b4-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are friends yesterday. It is about was / were.",
+              "passage": "They are friends yesterday. It is about Past of be.",
               "answer": "They are friends"
             },
             {
               "id": "u07-ret-b4-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are at school last night. It is about was / were.",
+              "passage": "You are at school last night. It is about Past of be.",
               "answer": "You are at school"
             },
             {
               "id": "u07-ret-b4-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am happy yesterday. It is about was / were.",
+              "passage": "I am happy yesterday. It is about Past of be.",
               "answer": "I am happy"
             },
             {
               "id": "u07-ret-b4-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is late last night. It is about was / were.",
+              "passage": "He is late last night. It is about Past of be.",
               "answer": "He is late"
             },
             {
               "id": "u07-ret-b4-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is friends yesterday. It is about was / were.",
+              "passage": "She is friends yesterday. It is about Past of be.",
               "answer": "She is friends"
             },
             {
               "id": "u07-ret-b4-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are at school last night. It is about was / were.",
+              "passage": "We are at school last night. It is about Past of be.",
               "answer": "We are at school"
             },
             {
               "id": "u07-ret-b4-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are happy yesterday. It is about was / were.",
+              "passage": "They are happy yesterday. It is about Past of be.",
               "answer": "They are happy"
             }
           ]
@@ -4936,61 +4936,61 @@
             {
               "id": "u07-ret-b5-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are late last night. It is about was / were.",
+              "passage": "You are late last night. It is about Past of be.",
               "answer": "You are late"
             },
             {
               "id": "u07-ret-b5-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am friends yesterday. It is about was / were.",
+              "passage": "I am friends yesterday. It is about Past of be.",
               "answer": "I am friends"
             },
             {
               "id": "u07-ret-b5-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is at school last night. It is about was / were.",
+              "passage": "He is at school last night. It is about Past of be.",
               "answer": "He is at school"
             },
             {
               "id": "u07-ret-b5-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is happy yesterday. It is about was / were.",
+              "passage": "She is happy yesterday. It is about Past of be.",
               "answer": "She is happy"
             },
             {
               "id": "u07-ret-b5-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are late last night. It is about was / were.",
+              "passage": "We are late last night. It is about Past of be.",
               "answer": "We are late"
             },
             {
               "id": "u07-ret-b5-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are friends yesterday. It is about was / were.",
+              "passage": "They are friends yesterday. It is about Past of be.",
               "answer": "They are friends"
             },
             {
               "id": "u07-ret-b5-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are at school last night. It is about was / were.",
+              "passage": "You are at school last night. It is about Past of be.",
               "answer": "You are at school"
             },
             {
               "id": "u07-ret-b5-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am happy yesterday. It is about was / were.",
+              "passage": "I am happy yesterday. It is about Past of be.",
               "answer": "I am happy"
             },
             {
               "id": "u07-ret-b5-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is late last night. It is about was / were.",
+              "passage": "He is late last night. It is about Past of be.",
               "answer": "He is late"
             },
             {
               "id": "u07-ret-b5-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is friends yesterday. It is about was / were.",
+              "passage": "She is friends yesterday. It is about Past of be.",
               "answer": "She is friends"
             }
           ]
@@ -5336,112 +5336,112 @@
             {
               "id": "u07-cin-b1-01",
               "prompt": "Read and answer.",
-              "passage": "He is late. This practices was / were.",
+              "passage": "He is late. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b1-02",
               "prompt": "Read and answer.",
-              "passage": "She is friends. This practices was / were.",
+              "passage": "She is friends. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b1-03",
               "prompt": "Read and answer.",
-              "passage": "We are at school. This practices was / were.",
+              "passage": "We are at school. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b1-04",
               "prompt": "Read and answer.",
-              "passage": "They are happy. This practices was / were.",
+              "passage": "They are happy. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b1-05",
               "prompt": "Read and answer.",
-              "passage": "You are late. This practices was / were.",
+              "passage": "You are late. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b1-06",
               "prompt": "Read and answer.",
-              "passage": "I am friends. This practices was / were.",
+              "passage": "I am friends. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b1-07",
               "prompt": "Read and answer.",
-              "passage": "He is at school. This practices was / were.",
+              "passage": "He is at school. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b1-08",
               "prompt": "Read and answer.",
-              "passage": "She is happy. This practices was / were.",
+              "passage": "She is happy. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b1-09",
               "prompt": "Read and answer.",
-              "passage": "We are late. This practices was / were.",
+              "passage": "We are late. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b1-10",
               "prompt": "Read and answer.",
-              "passage": "They are friends. This practices was / were.",
+              "passage": "They are friends. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             }
           ]
         },
@@ -5451,112 +5451,112 @@
             {
               "id": "u07-cin-b2-01",
               "prompt": "Read and answer.",
-              "passage": "You are at school. This practices was / were.",
+              "passage": "You are at school. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b2-02",
               "prompt": "Read and answer.",
-              "passage": "I am happy. This practices was / were.",
+              "passage": "I am happy. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b2-03",
               "prompt": "Read and answer.",
-              "passage": "He is late. This practices was / were.",
+              "passage": "He is late. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b2-04",
               "prompt": "Read and answer.",
-              "passage": "She is friends. This practices was / were.",
+              "passage": "She is friends. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b2-05",
               "prompt": "Read and answer.",
-              "passage": "We are at school. This practices was / were.",
+              "passage": "We are at school. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b2-06",
               "prompt": "Read and answer.",
-              "passage": "They are happy. This practices was / were.",
+              "passage": "They are happy. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b2-07",
               "prompt": "Read and answer.",
-              "passage": "You are late. This practices was / were.",
+              "passage": "You are late. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b2-08",
               "prompt": "Read and answer.",
-              "passage": "I am friends. This practices was / were.",
+              "passage": "I am friends. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b2-09",
               "prompt": "Read and answer.",
-              "passage": "He is at school. This practices was / were.",
+              "passage": "He is at school. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b2-10",
               "prompt": "Read and answer.",
-              "passage": "She is happy. This practices was / were.",
+              "passage": "She is happy. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             }
           ]
         },
@@ -5566,112 +5566,112 @@
             {
               "id": "u07-cin-b3-01",
               "prompt": "Read and answer.",
-              "passage": "We are late. This practices was / were.",
+              "passage": "We are late. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b3-02",
               "prompt": "Read and answer.",
-              "passage": "They are friends. This practices was / were.",
+              "passage": "They are friends. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b3-03",
               "prompt": "Read and answer.",
-              "passage": "You are at school. This practices was / were.",
+              "passage": "You are at school. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b3-04",
               "prompt": "Read and answer.",
-              "passage": "I am happy. This practices was / were.",
+              "passage": "I am happy. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b3-05",
               "prompt": "Read and answer.",
-              "passage": "He is late. This practices was / were.",
+              "passage": "He is late. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b3-06",
               "prompt": "Read and answer.",
-              "passage": "She is friends. This practices was / were.",
+              "passage": "She is friends. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b3-07",
               "prompt": "Read and answer.",
-              "passage": "We are at school. This practices was / were.",
+              "passage": "We are at school. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b3-08",
               "prompt": "Read and answer.",
-              "passage": "They are happy. This practices was / were.",
+              "passage": "They are happy. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b3-09",
               "prompt": "Read and answer.",
-              "passage": "You are late. This practices was / were.",
+              "passage": "You are late. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b3-10",
               "prompt": "Read and answer.",
-              "passage": "I am friends. This practices was / were.",
+              "passage": "I am friends. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             }
           ]
         },
@@ -5681,112 +5681,112 @@
             {
               "id": "u07-cin-b4-01",
               "prompt": "Read and answer.",
-              "passage": "He is at school. This practices was / were.",
+              "passage": "He is at school. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b4-02",
               "prompt": "Read and answer.",
-              "passage": "She is happy. This practices was / were.",
+              "passage": "She is happy. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b4-03",
               "prompt": "Read and answer.",
-              "passage": "We are late. This practices was / were.",
+              "passage": "We are late. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b4-04",
               "prompt": "Read and answer.",
-              "passage": "They are friends. This practices was / were.",
+              "passage": "They are friends. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b4-05",
               "prompt": "Read and answer.",
-              "passage": "You are at school. This practices was / were.",
+              "passage": "You are at school. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b4-06",
               "prompt": "Read and answer.",
-              "passage": "I am happy. This practices was / were.",
+              "passage": "I am happy. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b4-07",
               "prompt": "Read and answer.",
-              "passage": "He is late. This practices was / were.",
+              "passage": "He is late. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b4-08",
               "prompt": "Read and answer.",
-              "passage": "She is friends. This practices was / were.",
+              "passage": "She is friends. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b4-09",
               "prompt": "Read and answer.",
-              "passage": "We are at school. This practices was / were.",
+              "passage": "We are at school. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b4-10",
               "prompt": "Read and answer.",
-              "passage": "They are happy. This practices was / were.",
+              "passage": "They are happy. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             }
           ]
         },
@@ -5796,112 +5796,112 @@
             {
               "id": "u07-cin-b5-01",
               "prompt": "Read and answer.",
-              "passage": "You are late. This practices was / were.",
+              "passage": "You are late. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b5-02",
               "prompt": "Read and answer.",
-              "passage": "I am friends. This practices was / were.",
+              "passage": "I am friends. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b5-03",
               "prompt": "Read and answer.",
-              "passage": "He is at school. This practices was / were.",
+              "passage": "He is at school. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b5-04",
               "prompt": "Read and answer.",
-              "passage": "She is happy. This practices was / were.",
+              "passage": "She is happy. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b5-05",
               "prompt": "Read and answer.",
-              "passage": "We are late. This practices was / were.",
+              "passage": "We are late. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b5-06",
               "prompt": "Read and answer.",
-              "passage": "They are friends. This practices was / were.",
+              "passage": "They are friends. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b5-07",
               "prompt": "Read and answer.",
-              "passage": "You are at school. This practices was / were.",
+              "passage": "You are at school. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b5-08",
               "prompt": "Read and answer.",
-              "passage": "I am happy. This practices was / were.",
+              "passage": "I am happy. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b5-09",
               "prompt": "Read and answer.",
-              "passage": "He is late. This practices was / were.",
+              "passage": "He is late. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             },
             {
               "id": "u07-cin-b5-10",
               "prompt": "Read and answer.",
-              "passage": "She is friends. This practices was / were.",
+              "passage": "She is friends. This practices Past of be.",
               "options": [
-                "was / were",
+                "Past of be",
                 "past perfect",
                 "future will"
               ],
-              "answer": "was / were"
+              "answer": "Past of be"
             }
           ]
         }
@@ -5915,70 +5915,70 @@
           "items": [
             {
               "id": "u07-stp-b1-01",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "He is late",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b1-02",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "She is friends",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b1-03",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "We are at school",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b1-04",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "They are happy",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b1-05",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "You are late",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b1-06",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "I am friends",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b1-07",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "He is at school",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b1-08",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "She is happy",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b1-09",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "We are late",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b1-10",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "They are friends",
               "explanation": "Use was/were for the past of be in statements and questions."
@@ -5990,70 +5990,70 @@
           "items": [
             {
               "id": "u07-stp-b2-01",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "You are at school",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b2-02",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "I am happy",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b2-03",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "He is late",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b2-04",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "She is friends",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b2-05",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "We are at school",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b2-06",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "They are happy",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b2-07",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "You are late",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b2-08",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "I am friends",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b2-09",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "He is at school",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b2-10",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "She is happy",
               "explanation": "Use was/were for the past of be in statements and questions."
@@ -6065,70 +6065,70 @@
           "items": [
             {
               "id": "u07-stp-b3-01",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "We are late",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b3-02",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "They are friends",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b3-03",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "You are at school",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b3-04",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "I am happy",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b3-05",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "He is late",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b3-06",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "She is friends",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b3-07",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "We are at school",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b3-08",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "They are happy",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b3-09",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "You are late",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b3-10",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "I am friends",
               "explanation": "Use was/were for the past of be in statements and questions."
@@ -6140,70 +6140,70 @@
           "items": [
             {
               "id": "u07-stp-b4-01",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "He is at school",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b4-02",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "She is happy",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b4-03",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "We are late",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b4-04",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "They are friends",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b4-05",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "You are at school",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b4-06",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "I am happy",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b4-07",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "He is late",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b4-08",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "She is friends",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b4-09",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "We are at school",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b4-10",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "They are happy",
               "explanation": "Use was/were for the past of be in statements and questions."
@@ -6215,70 +6215,70 @@
           "items": [
             {
               "id": "u07-stp-b5-01",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "You are late",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b5-02",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "I am friends",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b5-03",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "He is at school",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b5-04",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "She is happy",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b5-05",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "We are late",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b5-06",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "They are friends",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b5-07",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "You are at school",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b5-08",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "I am happy",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b5-09",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "He is late",
               "explanation": "Use was/were for the past of be in statements and questions."
             },
             {
               "id": "u07-stp-b5-10",
-              "prompt": "Use the pattern: was / were.",
+              "prompt": "Use the pattern: Past of be.",
               "pattern": "Subject + was + complement",
               "answer": "She is friends",
               "explanation": "Use was/were for the past of be in statements and questions."

@@ -1,8 +1,8 @@
 {
   "id": "unit-10",
   "number": 10,
-  "title": "Unit 10",
-  "topic": "can / could",
+  "title": "can / could",
+  "topic": "Ability & permission",
   "summary": "Use can/could for ability and permission in the present and past.",
   "categories": [
     {
@@ -13,7 +13,7 @@
           "items": [
             {
               "id": "u10-pat-b1-01",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "He ___ fast",
               "wordBank": [
                 "can swim",
@@ -27,7 +27,7 @@
             },
             {
               "id": "u10-pat-b1-02",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "She ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -41,7 +41,7 @@
             },
             {
               "id": "u10-pat-b1-03",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "We ___ fast",
               "wordBank": [
                 "can swim",
@@ -55,7 +55,7 @@
             },
             {
               "id": "u10-pat-b1-04",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "They ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -69,7 +69,7 @@
             },
             {
               "id": "u10-pat-b1-05",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "I ___ fast",
               "wordBank": [
                 "can swim",
@@ -83,7 +83,7 @@
             },
             {
               "id": "u10-pat-b1-06",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "He ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -97,7 +97,7 @@
             },
             {
               "id": "u10-pat-b1-07",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "She ___ fast",
               "wordBank": [
                 "can swim",
@@ -111,7 +111,7 @@
             },
             {
               "id": "u10-pat-b1-08",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "We ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -125,7 +125,7 @@
             },
             {
               "id": "u10-pat-b1-09",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "They ___ fast",
               "wordBank": [
                 "can swim",
@@ -139,7 +139,7 @@
             },
             {
               "id": "u10-pat-b1-10",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "I ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -158,7 +158,7 @@
           "items": [
             {
               "id": "u10-pat-b2-01",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "He ___ fast",
               "wordBank": [
                 "can swim",
@@ -172,7 +172,7 @@
             },
             {
               "id": "u10-pat-b2-02",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "She ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -186,7 +186,7 @@
             },
             {
               "id": "u10-pat-b2-03",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "We ___ fast",
               "wordBank": [
                 "can swim",
@@ -200,7 +200,7 @@
             },
             {
               "id": "u10-pat-b2-04",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "They ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -214,7 +214,7 @@
             },
             {
               "id": "u10-pat-b2-05",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "I ___ fast",
               "wordBank": [
                 "can swim",
@@ -228,7 +228,7 @@
             },
             {
               "id": "u10-pat-b2-06",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "He ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -242,7 +242,7 @@
             },
             {
               "id": "u10-pat-b2-07",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "She ___ fast",
               "wordBank": [
                 "can swim",
@@ -256,7 +256,7 @@
             },
             {
               "id": "u10-pat-b2-08",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "We ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -270,7 +270,7 @@
             },
             {
               "id": "u10-pat-b2-09",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "They ___ fast",
               "wordBank": [
                 "can swim",
@@ -284,7 +284,7 @@
             },
             {
               "id": "u10-pat-b2-10",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "I ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -303,7 +303,7 @@
           "items": [
             {
               "id": "u10-pat-b3-01",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "He ___ fast",
               "wordBank": [
                 "can swim",
@@ -317,7 +317,7 @@
             },
             {
               "id": "u10-pat-b3-02",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "She ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -331,7 +331,7 @@
             },
             {
               "id": "u10-pat-b3-03",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "We ___ fast",
               "wordBank": [
                 "can swim",
@@ -345,7 +345,7 @@
             },
             {
               "id": "u10-pat-b3-04",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "They ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -359,7 +359,7 @@
             },
             {
               "id": "u10-pat-b3-05",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "I ___ fast",
               "wordBank": [
                 "can swim",
@@ -373,7 +373,7 @@
             },
             {
               "id": "u10-pat-b3-06",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "He ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -387,7 +387,7 @@
             },
             {
               "id": "u10-pat-b3-07",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "She ___ fast",
               "wordBank": [
                 "can swim",
@@ -401,7 +401,7 @@
             },
             {
               "id": "u10-pat-b3-08",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "We ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -415,7 +415,7 @@
             },
             {
               "id": "u10-pat-b3-09",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "They ___ fast",
               "wordBank": [
                 "can swim",
@@ -429,7 +429,7 @@
             },
             {
               "id": "u10-pat-b3-10",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "I ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -448,7 +448,7 @@
           "items": [
             {
               "id": "u10-pat-b4-01",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "He ___ fast",
               "wordBank": [
                 "can swim",
@@ -462,7 +462,7 @@
             },
             {
               "id": "u10-pat-b4-02",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "She ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -476,7 +476,7 @@
             },
             {
               "id": "u10-pat-b4-03",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "We ___ fast",
               "wordBank": [
                 "can swim",
@@ -490,7 +490,7 @@
             },
             {
               "id": "u10-pat-b4-04",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "They ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -504,7 +504,7 @@
             },
             {
               "id": "u10-pat-b4-05",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "I ___ fast",
               "wordBank": [
                 "can swim",
@@ -518,7 +518,7 @@
             },
             {
               "id": "u10-pat-b4-06",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "He ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -532,7 +532,7 @@
             },
             {
               "id": "u10-pat-b4-07",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "She ___ fast",
               "wordBank": [
                 "can swim",
@@ -546,7 +546,7 @@
             },
             {
               "id": "u10-pat-b4-08",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "We ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -560,7 +560,7 @@
             },
             {
               "id": "u10-pat-b4-09",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "They ___ fast",
               "wordBank": [
                 "can swim",
@@ -574,7 +574,7 @@
             },
             {
               "id": "u10-pat-b4-10",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "I ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -593,7 +593,7 @@
           "items": [
             {
               "id": "u10-pat-b5-01",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "He ___ fast",
               "wordBank": [
                 "can swim",
@@ -607,7 +607,7 @@
             },
             {
               "id": "u10-pat-b5-02",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "She ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -621,7 +621,7 @@
             },
             {
               "id": "u10-pat-b5-03",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "We ___ fast",
               "wordBank": [
                 "can swim",
@@ -635,7 +635,7 @@
             },
             {
               "id": "u10-pat-b5-04",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "They ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -649,7 +649,7 @@
             },
             {
               "id": "u10-pat-b5-05",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "I ___ fast",
               "wordBank": [
                 "can swim",
@@ -663,7 +663,7 @@
             },
             {
               "id": "u10-pat-b5-06",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "He ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -677,7 +677,7 @@
             },
             {
               "id": "u10-pat-b5-07",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "She ___ fast",
               "wordBank": [
                 "can swim",
@@ -691,7 +691,7 @@
             },
             {
               "id": "u10-pat-b5-08",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "We ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -705,7 +705,7 @@
             },
             {
               "id": "u10-pat-b5-09",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "They ___ fast",
               "wordBank": [
                 "can swim",
@@ -719,7 +719,7 @@
             },
             {
               "id": "u10-pat-b5-10",
-              "prompt": "Complete the pattern for can / could.",
+              "prompt": "Complete the pattern for Ability & permission.",
               "pattern": "I ___ when I was five",
               "wordBank": [
                 "can swim",
@@ -4839,61 +4839,61 @@
             {
               "id": "u10-ret-b1-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is fast here. It is about can / could.",
+              "passage": "He is fast here. It is about Ability & permission.",
               "answer": "He is fast"
             },
             {
               "id": "u10-ret-b1-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is when I was five here. It is about can / could.",
+              "passage": "She is when I was five here. It is about Ability & permission.",
               "answer": "She is when I was five"
             },
             {
               "id": "u10-ret-b1-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are fast here. It is about can / could.",
+              "passage": "We are fast here. It is about Ability & permission.",
               "answer": "We are fast"
             },
             {
               "id": "u10-ret-b1-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are when I was five here. It is about can / could.",
+              "passage": "They are when I was five here. It is about Ability & permission.",
               "answer": "They are when I was five"
             },
             {
               "id": "u10-ret-b1-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am fast here. It is about can / could.",
+              "passage": "I am fast here. It is about Ability & permission.",
               "answer": "I am fast"
             },
             {
               "id": "u10-ret-b1-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is when I was five here. It is about can / could.",
+              "passage": "He is when I was five here. It is about Ability & permission.",
               "answer": "He is when I was five"
             },
             {
               "id": "u10-ret-b1-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is fast here. It is about can / could.",
+              "passage": "She is fast here. It is about Ability & permission.",
               "answer": "She is fast"
             },
             {
               "id": "u10-ret-b1-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are when I was five here. It is about can / could.",
+              "passage": "We are when I was five here. It is about Ability & permission.",
               "answer": "We are when I was five"
             },
             {
               "id": "u10-ret-b1-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are fast here. It is about can / could.",
+              "passage": "They are fast here. It is about Ability & permission.",
               "answer": "They are fast"
             },
             {
               "id": "u10-ret-b1-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am when I was five here. It is about can / could.",
+              "passage": "I am when I was five here. It is about Ability & permission.",
               "answer": "I am when I was five"
             }
           ]
@@ -4904,61 +4904,61 @@
             {
               "id": "u10-ret-b2-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is fast here. It is about can / could.",
+              "passage": "He is fast here. It is about Ability & permission.",
               "answer": "He is fast"
             },
             {
               "id": "u10-ret-b2-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is when I was five here. It is about can / could.",
+              "passage": "She is when I was five here. It is about Ability & permission.",
               "answer": "She is when I was five"
             },
             {
               "id": "u10-ret-b2-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are fast here. It is about can / could.",
+              "passage": "We are fast here. It is about Ability & permission.",
               "answer": "We are fast"
             },
             {
               "id": "u10-ret-b2-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are when I was five here. It is about can / could.",
+              "passage": "They are when I was five here. It is about Ability & permission.",
               "answer": "They are when I was five"
             },
             {
               "id": "u10-ret-b2-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am fast here. It is about can / could.",
+              "passage": "I am fast here. It is about Ability & permission.",
               "answer": "I am fast"
             },
             {
               "id": "u10-ret-b2-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is when I was five here. It is about can / could.",
+              "passage": "He is when I was five here. It is about Ability & permission.",
               "answer": "He is when I was five"
             },
             {
               "id": "u10-ret-b2-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is fast here. It is about can / could.",
+              "passage": "She is fast here. It is about Ability & permission.",
               "answer": "She is fast"
             },
             {
               "id": "u10-ret-b2-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are when I was five here. It is about can / could.",
+              "passage": "We are when I was five here. It is about Ability & permission.",
               "answer": "We are when I was five"
             },
             {
               "id": "u10-ret-b2-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are fast here. It is about can / could.",
+              "passage": "They are fast here. It is about Ability & permission.",
               "answer": "They are fast"
             },
             {
               "id": "u10-ret-b2-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am when I was five here. It is about can / could.",
+              "passage": "I am when I was five here. It is about Ability & permission.",
               "answer": "I am when I was five"
             }
           ]
@@ -4969,61 +4969,61 @@
             {
               "id": "u10-ret-b3-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is fast here. It is about can / could.",
+              "passage": "He is fast here. It is about Ability & permission.",
               "answer": "He is fast"
             },
             {
               "id": "u10-ret-b3-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is when I was five here. It is about can / could.",
+              "passage": "She is when I was five here. It is about Ability & permission.",
               "answer": "She is when I was five"
             },
             {
               "id": "u10-ret-b3-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are fast here. It is about can / could.",
+              "passage": "We are fast here. It is about Ability & permission.",
               "answer": "We are fast"
             },
             {
               "id": "u10-ret-b3-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are when I was five here. It is about can / could.",
+              "passage": "They are when I was five here. It is about Ability & permission.",
               "answer": "They are when I was five"
             },
             {
               "id": "u10-ret-b3-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am fast here. It is about can / could.",
+              "passage": "I am fast here. It is about Ability & permission.",
               "answer": "I am fast"
             },
             {
               "id": "u10-ret-b3-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is when I was five here. It is about can / could.",
+              "passage": "He is when I was five here. It is about Ability & permission.",
               "answer": "He is when I was five"
             },
             {
               "id": "u10-ret-b3-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is fast here. It is about can / could.",
+              "passage": "She is fast here. It is about Ability & permission.",
               "answer": "She is fast"
             },
             {
               "id": "u10-ret-b3-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are when I was five here. It is about can / could.",
+              "passage": "We are when I was five here. It is about Ability & permission.",
               "answer": "We are when I was five"
             },
             {
               "id": "u10-ret-b3-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are fast here. It is about can / could.",
+              "passage": "They are fast here. It is about Ability & permission.",
               "answer": "They are fast"
             },
             {
               "id": "u10-ret-b3-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am when I was five here. It is about can / could.",
+              "passage": "I am when I was five here. It is about Ability & permission.",
               "answer": "I am when I was five"
             }
           ]
@@ -5034,61 +5034,61 @@
             {
               "id": "u10-ret-b4-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is fast here. It is about can / could.",
+              "passage": "He is fast here. It is about Ability & permission.",
               "answer": "He is fast"
             },
             {
               "id": "u10-ret-b4-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is when I was five here. It is about can / could.",
+              "passage": "She is when I was five here. It is about Ability & permission.",
               "answer": "She is when I was five"
             },
             {
               "id": "u10-ret-b4-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are fast here. It is about can / could.",
+              "passage": "We are fast here. It is about Ability & permission.",
               "answer": "We are fast"
             },
             {
               "id": "u10-ret-b4-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are when I was five here. It is about can / could.",
+              "passage": "They are when I was five here. It is about Ability & permission.",
               "answer": "They are when I was five"
             },
             {
               "id": "u10-ret-b4-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am fast here. It is about can / could.",
+              "passage": "I am fast here. It is about Ability & permission.",
               "answer": "I am fast"
             },
             {
               "id": "u10-ret-b4-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is when I was five here. It is about can / could.",
+              "passage": "He is when I was five here. It is about Ability & permission.",
               "answer": "He is when I was five"
             },
             {
               "id": "u10-ret-b4-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is fast here. It is about can / could.",
+              "passage": "She is fast here. It is about Ability & permission.",
               "answer": "She is fast"
             },
             {
               "id": "u10-ret-b4-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are when I was five here. It is about can / could.",
+              "passage": "We are when I was five here. It is about Ability & permission.",
               "answer": "We are when I was five"
             },
             {
               "id": "u10-ret-b4-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are fast here. It is about can / could.",
+              "passage": "They are fast here. It is about Ability & permission.",
               "answer": "They are fast"
             },
             {
               "id": "u10-ret-b4-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am when I was five here. It is about can / could.",
+              "passage": "I am when I was five here. It is about Ability & permission.",
               "answer": "I am when I was five"
             }
           ]
@@ -5099,61 +5099,61 @@
             {
               "id": "u10-ret-b5-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is fast here. It is about can / could.",
+              "passage": "He is fast here. It is about Ability & permission.",
               "answer": "He is fast"
             },
             {
               "id": "u10-ret-b5-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is when I was five here. It is about can / could.",
+              "passage": "She is when I was five here. It is about Ability & permission.",
               "answer": "She is when I was five"
             },
             {
               "id": "u10-ret-b5-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are fast here. It is about can / could.",
+              "passage": "We are fast here. It is about Ability & permission.",
               "answer": "We are fast"
             },
             {
               "id": "u10-ret-b5-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are when I was five here. It is about can / could.",
+              "passage": "They are when I was five here. It is about Ability & permission.",
               "answer": "They are when I was five"
             },
             {
               "id": "u10-ret-b5-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am fast here. It is about can / could.",
+              "passage": "I am fast here. It is about Ability & permission.",
               "answer": "I am fast"
             },
             {
               "id": "u10-ret-b5-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is when I was five here. It is about can / could.",
+              "passage": "He is when I was five here. It is about Ability & permission.",
               "answer": "He is when I was five"
             },
             {
               "id": "u10-ret-b5-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is fast here. It is about can / could.",
+              "passage": "She is fast here. It is about Ability & permission.",
               "answer": "She is fast"
             },
             {
               "id": "u10-ret-b5-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are when I was five here. It is about can / could.",
+              "passage": "We are when I was five here. It is about Ability & permission.",
               "answer": "We are when I was five"
             },
             {
               "id": "u10-ret-b5-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are fast here. It is about can / could.",
+              "passage": "They are fast here. It is about Ability & permission.",
               "answer": "They are fast"
             },
             {
               "id": "u10-ret-b5-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am when I was five here. It is about can / could.",
+              "passage": "I am when I was five here. It is about Ability & permission.",
               "answer": "I am when I was five"
             }
           ]
@@ -5499,112 +5499,112 @@
             {
               "id": "u10-cin-b1-01",
               "prompt": "Read and answer.",
-              "passage": "He is fast. This practices can / could.",
+              "passage": "He is fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b1-02",
               "prompt": "Read and answer.",
-              "passage": "She is when I was five. This practices can / could.",
+              "passage": "She is when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b1-03",
               "prompt": "Read and answer.",
-              "passage": "We are fast. This practices can / could.",
+              "passage": "We are fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b1-04",
               "prompt": "Read and answer.",
-              "passage": "They are when I was five. This practices can / could.",
+              "passage": "They are when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b1-05",
               "prompt": "Read and answer.",
-              "passage": "I am fast. This practices can / could.",
+              "passage": "I am fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b1-06",
               "prompt": "Read and answer.",
-              "passage": "He is when I was five. This practices can / could.",
+              "passage": "He is when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b1-07",
               "prompt": "Read and answer.",
-              "passage": "She is fast. This practices can / could.",
+              "passage": "She is fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b1-08",
               "prompt": "Read and answer.",
-              "passage": "We are when I was five. This practices can / could.",
+              "passage": "We are when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b1-09",
               "prompt": "Read and answer.",
-              "passage": "They are fast. This practices can / could.",
+              "passage": "They are fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b1-10",
               "prompt": "Read and answer.",
-              "passage": "I am when I was five. This practices can / could.",
+              "passage": "I am when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             }
           ]
         },
@@ -5614,112 +5614,112 @@
             {
               "id": "u10-cin-b2-01",
               "prompt": "Read and answer.",
-              "passage": "He is fast. This practices can / could.",
+              "passage": "He is fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b2-02",
               "prompt": "Read and answer.",
-              "passage": "She is when I was five. This practices can / could.",
+              "passage": "She is when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b2-03",
               "prompt": "Read and answer.",
-              "passage": "We are fast. This practices can / could.",
+              "passage": "We are fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b2-04",
               "prompt": "Read and answer.",
-              "passage": "They are when I was five. This practices can / could.",
+              "passage": "They are when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b2-05",
               "prompt": "Read and answer.",
-              "passage": "I am fast. This practices can / could.",
+              "passage": "I am fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b2-06",
               "prompt": "Read and answer.",
-              "passage": "He is when I was five. This practices can / could.",
+              "passage": "He is when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b2-07",
               "prompt": "Read and answer.",
-              "passage": "She is fast. This practices can / could.",
+              "passage": "She is fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b2-08",
               "prompt": "Read and answer.",
-              "passage": "We are when I was five. This practices can / could.",
+              "passage": "We are when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b2-09",
               "prompt": "Read and answer.",
-              "passage": "They are fast. This practices can / could.",
+              "passage": "They are fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b2-10",
               "prompt": "Read and answer.",
-              "passage": "I am when I was five. This practices can / could.",
+              "passage": "I am when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             }
           ]
         },
@@ -5729,112 +5729,112 @@
             {
               "id": "u10-cin-b3-01",
               "prompt": "Read and answer.",
-              "passage": "He is fast. This practices can / could.",
+              "passage": "He is fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b3-02",
               "prompt": "Read and answer.",
-              "passage": "She is when I was five. This practices can / could.",
+              "passage": "She is when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b3-03",
               "prompt": "Read and answer.",
-              "passage": "We are fast. This practices can / could.",
+              "passage": "We are fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b3-04",
               "prompt": "Read and answer.",
-              "passage": "They are when I was five. This practices can / could.",
+              "passage": "They are when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b3-05",
               "prompt": "Read and answer.",
-              "passage": "I am fast. This practices can / could.",
+              "passage": "I am fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b3-06",
               "prompt": "Read and answer.",
-              "passage": "He is when I was five. This practices can / could.",
+              "passage": "He is when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b3-07",
               "prompt": "Read and answer.",
-              "passage": "She is fast. This practices can / could.",
+              "passage": "She is fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b3-08",
               "prompt": "Read and answer.",
-              "passage": "We are when I was five. This practices can / could.",
+              "passage": "We are when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b3-09",
               "prompt": "Read and answer.",
-              "passage": "They are fast. This practices can / could.",
+              "passage": "They are fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b3-10",
               "prompt": "Read and answer.",
-              "passage": "I am when I was five. This practices can / could.",
+              "passage": "I am when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             }
           ]
         },
@@ -5844,112 +5844,112 @@
             {
               "id": "u10-cin-b4-01",
               "prompt": "Read and answer.",
-              "passage": "He is fast. This practices can / could.",
+              "passage": "He is fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b4-02",
               "prompt": "Read and answer.",
-              "passage": "She is when I was five. This practices can / could.",
+              "passage": "She is when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b4-03",
               "prompt": "Read and answer.",
-              "passage": "We are fast. This practices can / could.",
+              "passage": "We are fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b4-04",
               "prompt": "Read and answer.",
-              "passage": "They are when I was five. This practices can / could.",
+              "passage": "They are when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b4-05",
               "prompt": "Read and answer.",
-              "passage": "I am fast. This practices can / could.",
+              "passage": "I am fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b4-06",
               "prompt": "Read and answer.",
-              "passage": "He is when I was five. This practices can / could.",
+              "passage": "He is when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b4-07",
               "prompt": "Read and answer.",
-              "passage": "She is fast. This practices can / could.",
+              "passage": "She is fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b4-08",
               "prompt": "Read and answer.",
-              "passage": "We are when I was five. This practices can / could.",
+              "passage": "We are when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b4-09",
               "prompt": "Read and answer.",
-              "passage": "They are fast. This practices can / could.",
+              "passage": "They are fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b4-10",
               "prompt": "Read and answer.",
-              "passage": "I am when I was five. This practices can / could.",
+              "passage": "I am when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             }
           ]
         },
@@ -5959,112 +5959,112 @@
             {
               "id": "u10-cin-b5-01",
               "prompt": "Read and answer.",
-              "passage": "He is fast. This practices can / could.",
+              "passage": "He is fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b5-02",
               "prompt": "Read and answer.",
-              "passage": "She is when I was five. This practices can / could.",
+              "passage": "She is when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b5-03",
               "prompt": "Read and answer.",
-              "passage": "We are fast. This practices can / could.",
+              "passage": "We are fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b5-04",
               "prompt": "Read and answer.",
-              "passage": "They are when I was five. This practices can / could.",
+              "passage": "They are when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b5-05",
               "prompt": "Read and answer.",
-              "passage": "I am fast. This practices can / could.",
+              "passage": "I am fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b5-06",
               "prompt": "Read and answer.",
-              "passage": "He is when I was five. This practices can / could.",
+              "passage": "He is when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b5-07",
               "prompt": "Read and answer.",
-              "passage": "She is fast. This practices can / could.",
+              "passage": "She is fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b5-08",
               "prompt": "Read and answer.",
-              "passage": "We are when I was five. This practices can / could.",
+              "passage": "We are when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b5-09",
               "prompt": "Read and answer.",
-              "passage": "They are fast. This practices can / could.",
+              "passage": "They are fast. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             },
             {
               "id": "u10-cin-b5-10",
               "prompt": "Read and answer.",
-              "passage": "I am when I was five. This practices can / could.",
+              "passage": "I am when I was five. This practices Ability & permission.",
               "options": [
-                "can / could",
+                "Ability & permission",
                 "past perfect",
                 "future will"
               ],
-              "answer": "can / could"
+              "answer": "Ability & permission"
             }
           ]
         }
@@ -6078,70 +6078,70 @@
           "items": [
             {
               "id": "u10-stp-b1-01",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "He is fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b1-02",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "She is when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b1-03",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "We are fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b1-04",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "They are when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b1-05",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "I am fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b1-06",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "He is when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b1-07",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "She is fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b1-08",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "We are when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b1-09",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "They are fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b1-10",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "I am when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
@@ -6153,70 +6153,70 @@
           "items": [
             {
               "id": "u10-stp-b2-01",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "He is fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b2-02",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "She is when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b2-03",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "We are fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b2-04",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "They are when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b2-05",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "I am fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b2-06",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "He is when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b2-07",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "She is fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b2-08",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "We are when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b2-09",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "They are fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b2-10",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "I am when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
@@ -6228,70 +6228,70 @@
           "items": [
             {
               "id": "u10-stp-b3-01",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "He is fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b3-02",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "She is when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b3-03",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "We are fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b3-04",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "They are when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b3-05",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "I am fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b3-06",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "He is when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b3-07",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "She is fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b3-08",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "We are when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b3-09",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "They are fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b3-10",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "I am when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
@@ -6303,70 +6303,70 @@
           "items": [
             {
               "id": "u10-stp-b4-01",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "He is fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b4-02",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "She is when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b4-03",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "We are fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b4-04",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "They are when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b4-05",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "I am fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b4-06",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "He is when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b4-07",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "She is fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b4-08",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "We are when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b4-09",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "They are fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b4-10",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "I am when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
@@ -6378,70 +6378,70 @@
           "items": [
             {
               "id": "u10-stp-b5-01",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "He is fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b5-02",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "She is when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b5-03",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "We are fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b5-04",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "They are when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b5-05",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "I am fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b5-06",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "He is when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b5-07",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "She is fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b5-08",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "We are when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b5-09",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "They are fast",
               "explanation": "Use can/could for ability and permission in the present and past."
             },
             {
               "id": "u10-stp-b5-10",
-              "prompt": "Use the pattern: can / could.",
+              "prompt": "Use the pattern: Ability & permission.",
               "pattern": "Subject + can swim + complement",
               "answer": "I am when I was five",
               "explanation": "Use can/could for ability and permission in the present and past."

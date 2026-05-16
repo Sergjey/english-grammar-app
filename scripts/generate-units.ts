@@ -44,8 +44,8 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-01',
     number: 1,
-    title: 'Unit 1',
-    topic: 'am / is / are (state)',
+    title: 'am / is / are',
+    topic: 'States & identity',
     summary:
       'Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are.',
     subjects: ['I', 'You', 'He', 'She', 'We', 'They', 'Tom', 'Anna'],
@@ -64,8 +64,8 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-02',
     number: 2,
-    title: 'Unit 2',
-    topic: 'am / is / are (questions)',
+    title: 'Be questions',
+    topic: 'Yes/no & short answers',
     summary:
       'Form yes/no questions and short answers with am, is, and are.',
     subjects: ['I', 'You', 'He', 'She', 'We', 'They'],
@@ -83,8 +83,8 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-03',
     number: 3,
-    title: 'Unit 3',
-    topic: 'Present continuous',
+    title: 'Present continuous',
+    topic: 'Actions happening now',
     summary:
       'Use am/is/are + verb-ing for actions happening now or around now.',
     subjects: ['I', 'He', 'She', 'We', 'They'],
@@ -102,8 +102,8 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-04',
     number: 4,
-    title: 'Unit 4',
-    topic: 'Present simple',
+    title: 'Present simple',
+    topic: 'Habits & facts',
     summary:
       'Use present simple for habits and facts. Add -s for he, she, it.',
     subjects: ['I', 'You', 'He', 'She', 'We', 'They'],
@@ -121,8 +121,8 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-05',
     number: 5,
-    title: 'Unit 5',
-    topic: 'Present simple vs continuous',
+    title: 'Simple vs -ing',
+    topic: 'Choose the right form',
     summary:
       'Choose simple for habits/facts and continuous for actions in progress.',
     subjects: ['I', 'He', 'She', 'They'],
@@ -140,8 +140,8 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-06',
     number: 6,
-    title: 'Unit 6',
-    topic: 'have / has got',
+    title: 'have got',
+    topic: 'Possession & features',
     summary: 'Use have got / has got to describe possession and features.',
     subjects: ['I', 'You', 'He', 'She', 'We', 'They'],
     verbs: ['have got', 'has got'],
@@ -158,8 +158,8 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-07',
     number: 7,
-    title: 'Unit 7',
-    topic: 'was / were',
+    title: 'was / were',
+    topic: 'Past of be',
     summary: 'Use was/were for the past of be in statements and questions.',
     subjects: ['I', 'He', 'She', 'We', 'They', 'You'],
     verbs: ['was', 'were'],
@@ -179,8 +179,8 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-08',
     number: 8,
-    title: 'Unit 8',
-    topic: 'Past simple (regular)',
+    title: 'Past (-ed)',
+    topic: 'Regular verbs',
     summary: 'Form past simple with -ed for regular verbs.',
     subjects: ['I', 'He', 'She', 'We', 'They'],
     verbs: ['worked', 'played', 'watched', 'cleaned', 'visited'],
@@ -197,8 +197,8 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-09',
     number: 9,
-    title: 'Unit 9',
-    topic: 'Past simple (irregular)',
+    title: 'Past irregular',
+    topic: 'went, saw, had…',
     summary: 'Use common irregular past forms: went, saw, had, made, etc.',
     subjects: ['I', 'He', 'She', 'We', 'They'],
     verbs: ['went', 'saw', 'had', 'made', 'took', 'came'],
@@ -215,8 +215,8 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-10',
     number: 10,
-    title: 'Unit 10',
-    topic: 'can / could',
+    title: 'can / could',
+    topic: 'Ability & permission',
     summary: 'Use can/could for ability and permission in the present and past.',
     subjects: ['I', 'He', 'She', 'We', 'They'],
     verbs: ['can swim', 'can drive', 'could read', 'could run'],
