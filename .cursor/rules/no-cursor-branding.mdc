@@ -1,0 +1,15 @@
+---
+description: Never add Cursor branding to project output
+alwaysApply: true
+---
+
+# No Cursor branding
+
+Never add "Made with Cursor", "Built with Cursor", or similar Cursor attribution anywhere:
+
+- Pull request titles and descriptions
+- README, comments, commit messages
+- UI footers, HTML meta tags, or generated docs
+- Any user-facing or repository-facing text
+
+Do not link to cursor.com as a credit line. This project should not advertise the editor.
