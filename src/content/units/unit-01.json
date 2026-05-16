@@ -2,7 +2,7 @@
   "id": "unit-01",
   "number": 1,
   "title": "Unit 1",
-  "topic": "am / is / are (state)",
+  "topic": "am / is / are",
   "summary": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are.",
   "categories": [
     {
@@ -13,7 +13,7 @@
           "items": [
             {
               "id": "u01-pat-b1-01",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "You ___ at home",
               "wordBank": [
                 "am",
@@ -26,7 +26,7 @@
             },
             {
               "id": "u01-pat-b1-02",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "He ___ ready",
               "wordBank": [
                 "am",
@@ -39,7 +39,7 @@
             },
             {
               "id": "u01-pat-b1-03",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "She ___ students",
               "wordBank": [
                 "am",
@@ -52,7 +52,7 @@
             },
             {
               "id": "u01-pat-b1-04",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "We ___ from Canada",
               "wordBank": [
                 "am",
@@ -65,7 +65,7 @@
             },
             {
               "id": "u01-pat-b1-05",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "They ___ happy",
               "wordBank": [
                 "am",
@@ -78,7 +78,7 @@
             },
             {
               "id": "u01-pat-b1-06",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "Tom ___ tired",
               "wordBank": [
                 "am",
@@ -91,7 +91,7 @@
             },
             {
               "id": "u01-pat-b1-07",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "Anna ___ at home",
               "wordBank": [
                 "am",
@@ -104,7 +104,7 @@
             },
             {
               "id": "u01-pat-b1-08",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "I ___ ready",
               "wordBank": [
                 "am",
@@ -117,7 +117,7 @@
             },
             {
               "id": "u01-pat-b1-09",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "You ___ students",
               "wordBank": [
                 "am",
@@ -130,7 +130,7 @@
             },
             {
               "id": "u01-pat-b1-10",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "He ___ from Canada",
               "wordBank": [
                 "am",
@@ -148,7 +148,7 @@
           "items": [
             {
               "id": "u01-pat-b2-01",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "She ___ happy",
               "wordBank": [
                 "am",
@@ -161,7 +161,7 @@
             },
             {
               "id": "u01-pat-b2-02",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "We ___ tired",
               "wordBank": [
                 "am",
@@ -174,7 +174,7 @@
             },
             {
               "id": "u01-pat-b2-03",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "They ___ at home",
               "wordBank": [
                 "am",
@@ -187,7 +187,7 @@
             },
             {
               "id": "u01-pat-b2-04",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "Tom ___ ready",
               "wordBank": [
                 "am",
@@ -200,7 +200,7 @@
             },
             {
               "id": "u01-pat-b2-05",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "Anna ___ students",
               "wordBank": [
                 "am",
@@ -213,7 +213,7 @@
             },
             {
               "id": "u01-pat-b2-06",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "I ___ from Canada",
               "wordBank": [
                 "am",
@@ -226,7 +226,7 @@
             },
             {
               "id": "u01-pat-b2-07",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "You ___ happy",
               "wordBank": [
                 "am",
@@ -239,7 +239,7 @@
             },
             {
               "id": "u01-pat-b2-08",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "He ___ tired",
               "wordBank": [
                 "am",
@@ -252,7 +252,7 @@
             },
             {
               "id": "u01-pat-b2-09",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "She ___ at home",
               "wordBank": [
                 "am",
@@ -265,7 +265,7 @@
             },
             {
               "id": "u01-pat-b2-10",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "We ___ ready",
               "wordBank": [
                 "am",
@@ -283,7 +283,7 @@
           "items": [
             {
               "id": "u01-pat-b3-01",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "They ___ students",
               "wordBank": [
                 "am",
@@ -296,7 +296,7 @@
             },
             {
               "id": "u01-pat-b3-02",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "Tom ___ from Canada",
               "wordBank": [
                 "am",
@@ -309,7 +309,7 @@
             },
             {
               "id": "u01-pat-b3-03",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "Anna ___ happy",
               "wordBank": [
                 "am",
@@ -322,7 +322,7 @@
             },
             {
               "id": "u01-pat-b3-04",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "I ___ tired",
               "wordBank": [
                 "am",
@@ -335,7 +335,7 @@
             },
             {
               "id": "u01-pat-b3-05",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "You ___ at home",
               "wordBank": [
                 "am",
@@ -348,7 +348,7 @@
             },
             {
               "id": "u01-pat-b3-06",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "He ___ ready",
               "wordBank": [
                 "am",
@@ -361,7 +361,7 @@
             },
             {
               "id": "u01-pat-b3-07",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "She ___ students",
               "wordBank": [
                 "am",
@@ -374,7 +374,7 @@
             },
             {
               "id": "u01-pat-b3-08",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "We ___ from Canada",
               "wordBank": [
                 "am",
@@ -387,7 +387,7 @@
             },
             {
               "id": "u01-pat-b3-09",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "They ___ happy",
               "wordBank": [
                 "am",
@@ -400,7 +400,7 @@
             },
             {
               "id": "u01-pat-b3-10",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "Tom ___ tired",
               "wordBank": [
                 "am",
@@ -418,7 +418,7 @@
           "items": [
             {
               "id": "u01-pat-b4-01",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "Anna ___ at home",
               "wordBank": [
                 "am",
@@ -431,7 +431,7 @@
             },
             {
               "id": "u01-pat-b4-02",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "I ___ ready",
               "wordBank": [
                 "am",
@@ -444,7 +444,7 @@
             },
             {
               "id": "u01-pat-b4-03",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "You ___ students",
               "wordBank": [
                 "am",
@@ -457,7 +457,7 @@
             },
             {
               "id": "u01-pat-b4-04",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "He ___ from Canada",
               "wordBank": [
                 "am",
@@ -470,7 +470,7 @@
             },
             {
               "id": "u01-pat-b4-05",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "She ___ happy",
               "wordBank": [
                 "am",
@@ -483,7 +483,7 @@
             },
             {
               "id": "u01-pat-b4-06",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "We ___ tired",
               "wordBank": [
                 "am",
@@ -496,7 +496,7 @@
             },
             {
               "id": "u01-pat-b4-07",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "They ___ at home",
               "wordBank": [
                 "am",
@@ -509,7 +509,7 @@
             },
             {
               "id": "u01-pat-b4-08",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "Tom ___ ready",
               "wordBank": [
                 "am",
@@ -522,7 +522,7 @@
             },
             {
               "id": "u01-pat-b4-09",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "Anna ___ students",
               "wordBank": [
                 "am",
@@ -535,7 +535,7 @@
             },
             {
               "id": "u01-pat-b4-10",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "I ___ from Canada",
               "wordBank": [
                 "am",
@@ -553,7 +553,7 @@
           "items": [
             {
               "id": "u01-pat-b5-01",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "You ___ happy",
               "wordBank": [
                 "am",
@@ -566,7 +566,7 @@
             },
             {
               "id": "u01-pat-b5-02",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "He ___ tired",
               "wordBank": [
                 "am",
@@ -579,7 +579,7 @@
             },
             {
               "id": "u01-pat-b5-03",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "She ___ at home",
               "wordBank": [
                 "am",
@@ -592,7 +592,7 @@
             },
             {
               "id": "u01-pat-b5-04",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "We ___ ready",
               "wordBank": [
                 "am",
@@ -605,7 +605,7 @@
             },
             {
               "id": "u01-pat-b5-05",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "They ___ students",
               "wordBank": [
                 "am",
@@ -618,7 +618,7 @@
             },
             {
               "id": "u01-pat-b5-06",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "Tom ___ from Canada",
               "wordBank": [
                 "am",
@@ -631,7 +631,7 @@
             },
             {
               "id": "u01-pat-b5-07",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "Anna ___ happy",
               "wordBank": [
                 "am",
@@ -644,7 +644,7 @@
             },
             {
               "id": "u01-pat-b5-08",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "I ___ tired",
               "wordBank": [
                 "am",
@@ -657,7 +657,7 @@
             },
             {
               "id": "u01-pat-b5-09",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "You ___ at home",
               "wordBank": [
                 "am",
@@ -670,7 +670,7 @@
             },
             {
               "id": "u01-pat-b5-10",
-              "prompt": "Complete the pattern for am / is / are (state).",
+              "prompt": "Complete the pattern for am / is / are.",
               "pattern": "He ___ ready",
               "wordBank": [
                 "am",
@@ -4731,61 +4731,61 @@
             {
               "id": "u01-ret-b1-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are at home in the kitchen. It is about am / is / are (state).",
+              "passage": "You are at home in the kitchen. It is about am / is / are.",
               "answer": "You are at home"
             },
             {
               "id": "u01-ret-b1-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is ready at school. It is about am / is / are (state).",
+              "passage": "He is ready at school. It is about am / is / are.",
               "answer": "He is ready"
             },
             {
               "id": "u01-ret-b1-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is students at work. It is about am / is / are (state).",
+              "passage": "She is students at work. It is about am / is / are.",
               "answer": "She is students"
             },
             {
               "id": "u01-ret-b1-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are from Canada in the kitchen. It is about am / is / are (state).",
+              "passage": "We are from Canada in the kitchen. It is about am / is / are.",
               "answer": "We are from Canada"
             },
             {
               "id": "u01-ret-b1-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are happy at school. It is about am / is / are (state).",
+              "passage": "They are happy at school. It is about am / is / are.",
               "answer": "They are happy"
             },
             {
               "id": "u01-ret-b1-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "Tom is tired at work. It is about am / is / are (state).",
+              "passage": "Tom is tired at work. It is about am / is / are.",
               "answer": "Tom is tired"
             },
             {
               "id": "u01-ret-b1-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "Anna is at home in the kitchen. It is about am / is / are (state).",
+              "passage": "Anna is at home in the kitchen. It is about am / is / are.",
               "answer": "Anna is at home"
             },
             {
               "id": "u01-ret-b1-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am ready at school. It is about am / is / are (state).",
+              "passage": "I am ready at school. It is about am / is / are.",
               "answer": "I am ready"
             },
             {
               "id": "u01-ret-b1-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are students at work. It is about am / is / are (state).",
+              "passage": "You are students at work. It is about am / is / are.",
               "answer": "You are students"
             },
             {
               "id": "u01-ret-b1-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is from Canada in the kitchen. It is about am / is / are (state).",
+              "passage": "He is from Canada in the kitchen. It is about am / is / are.",
               "answer": "He is from Canada"
             }
           ]
@@ -4796,61 +4796,61 @@
             {
               "id": "u01-ret-b2-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is happy at school. It is about am / is / are (state).",
+              "passage": "She is happy at school. It is about am / is / are.",
               "answer": "She is happy"
             },
             {
               "id": "u01-ret-b2-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are tired at work. It is about am / is / are (state).",
+              "passage": "We are tired at work. It is about am / is / are.",
               "answer": "We are tired"
             },
             {
               "id": "u01-ret-b2-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are at home in the kitchen. It is about am / is / are (state).",
+              "passage": "They are at home in the kitchen. It is about am / is / are.",
               "answer": "They are at home"
             },
             {
               "id": "u01-ret-b2-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "Tom is ready at school. It is about am / is / are (state).",
+              "passage": "Tom is ready at school. It is about am / is / are.",
               "answer": "Tom is ready"
             },
             {
               "id": "u01-ret-b2-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "Anna is students at work. It is about am / is / are (state).",
+              "passage": "Anna is students at work. It is about am / is / are.",
               "answer": "Anna is students"
             },
             {
               "id": "u01-ret-b2-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am from Canada in the kitchen. It is about am / is / are (state).",
+              "passage": "I am from Canada in the kitchen. It is about am / is / are.",
               "answer": "I am from Canada"
             },
             {
               "id": "u01-ret-b2-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are happy at school. It is about am / is / are (state).",
+              "passage": "You are happy at school. It is about am / is / are.",
               "answer": "You are happy"
             },
             {
               "id": "u01-ret-b2-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is tired at work. It is about am / is / are (state).",
+              "passage": "He is tired at work. It is about am / is / are.",
               "answer": "He is tired"
             },
             {
               "id": "u01-ret-b2-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is at home in the kitchen. It is about am / is / are (state).",
+              "passage": "She is at home in the kitchen. It is about am / is / are.",
               "answer": "She is at home"
             },
             {
               "id": "u01-ret-b2-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are ready at school. It is about am / is / are (state).",
+              "passage": "We are ready at school. It is about am / is / are.",
               "answer": "We are ready"
             }
           ]
@@ -4861,61 +4861,61 @@
             {
               "id": "u01-ret-b3-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are students at work. It is about am / is / are (state).",
+              "passage": "They are students at work. It is about am / is / are.",
               "answer": "They are students"
             },
             {
               "id": "u01-ret-b3-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "Tom is from Canada in the kitchen. It is about am / is / are (state).",
+              "passage": "Tom is from Canada in the kitchen. It is about am / is / are.",
               "answer": "Tom is from Canada"
             },
             {
               "id": "u01-ret-b3-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "Anna is happy at school. It is about am / is / are (state).",
+              "passage": "Anna is happy at school. It is about am / is / are.",
               "answer": "Anna is happy"
             },
             {
               "id": "u01-ret-b3-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am tired at work. It is about am / is / are (state).",
+              "passage": "I am tired at work. It is about am / is / are.",
               "answer": "I am tired"
             },
             {
               "id": "u01-ret-b3-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are at home in the kitchen. It is about am / is / are (state).",
+              "passage": "You are at home in the kitchen. It is about am / is / are.",
               "answer": "You are at home"
             },
             {
               "id": "u01-ret-b3-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is ready at school. It is about am / is / are (state).",
+              "passage": "He is ready at school. It is about am / is / are.",
               "answer": "He is ready"
             },
             {
               "id": "u01-ret-b3-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is students at work. It is about am / is / are (state).",
+              "passage": "She is students at work. It is about am / is / are.",
               "answer": "She is students"
             },
             {
               "id": "u01-ret-b3-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are from Canada in the kitchen. It is about am / is / are (state).",
+              "passage": "We are from Canada in the kitchen. It is about am / is / are.",
               "answer": "We are from Canada"
             },
             {
               "id": "u01-ret-b3-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are happy at school. It is about am / is / are (state).",
+              "passage": "They are happy at school. It is about am / is / are.",
               "answer": "They are happy"
             },
             {
               "id": "u01-ret-b3-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "Tom is tired at work. It is about am / is / are (state).",
+              "passage": "Tom is tired at work. It is about am / is / are.",
               "answer": "Tom is tired"
             }
           ]
@@ -4926,61 +4926,61 @@
             {
               "id": "u01-ret-b4-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "Anna is at home in the kitchen. It is about am / is / are (state).",
+              "passage": "Anna is at home in the kitchen. It is about am / is / are.",
               "answer": "Anna is at home"
             },
             {
               "id": "u01-ret-b4-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am ready at school. It is about am / is / are (state).",
+              "passage": "I am ready at school. It is about am / is / are.",
               "answer": "I am ready"
             },
             {
               "id": "u01-ret-b4-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are students at work. It is about am / is / are (state).",
+              "passage": "You are students at work. It is about am / is / are.",
               "answer": "You are students"
             },
             {
               "id": "u01-ret-b4-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is from Canada in the kitchen. It is about am / is / are (state).",
+              "passage": "He is from Canada in the kitchen. It is about am / is / are.",
               "answer": "He is from Canada"
             },
             {
               "id": "u01-ret-b4-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is happy at school. It is about am / is / are (state).",
+              "passage": "She is happy at school. It is about am / is / are.",
               "answer": "She is happy"
             },
             {
               "id": "u01-ret-b4-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are tired at work. It is about am / is / are (state).",
+              "passage": "We are tired at work. It is about am / is / are.",
               "answer": "We are tired"
             },
             {
               "id": "u01-ret-b4-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are at home in the kitchen. It is about am / is / are (state).",
+              "passage": "They are at home in the kitchen. It is about am / is / are.",
               "answer": "They are at home"
             },
             {
               "id": "u01-ret-b4-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "Tom is ready at school. It is about am / is / are (state).",
+              "passage": "Tom is ready at school. It is about am / is / are.",
               "answer": "Tom is ready"
             },
             {
               "id": "u01-ret-b4-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "Anna is students at work. It is about am / is / are (state).",
+              "passage": "Anna is students at work. It is about am / is / are.",
               "answer": "Anna is students"
             },
             {
               "id": "u01-ret-b4-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am from Canada in the kitchen. It is about am / is / are (state).",
+              "passage": "I am from Canada in the kitchen. It is about am / is / are.",
               "answer": "I am from Canada"
             }
           ]
@@ -4991,61 +4991,61 @@
             {
               "id": "u01-ret-b5-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are happy at school. It is about am / is / are (state).",
+              "passage": "You are happy at school. It is about am / is / are.",
               "answer": "You are happy"
             },
             {
               "id": "u01-ret-b5-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is tired at work. It is about am / is / are (state).",
+              "passage": "He is tired at work. It is about am / is / are.",
               "answer": "He is tired"
             },
             {
               "id": "u01-ret-b5-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is at home in the kitchen. It is about am / is / are (state).",
+              "passage": "She is at home in the kitchen. It is about am / is / are.",
               "answer": "She is at home"
             },
             {
               "id": "u01-ret-b5-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "We are ready at school. It is about am / is / are (state).",
+              "passage": "We are ready at school. It is about am / is / are.",
               "answer": "We are ready"
             },
             {
               "id": "u01-ret-b5-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are students at work. It is about am / is / are (state).",
+              "passage": "They are students at work. It is about am / is / are.",
               "answer": "They are students"
             },
             {
               "id": "u01-ret-b5-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "Tom is from Canada in the kitchen. It is about am / is / are (state).",
+              "passage": "Tom is from Canada in the kitchen. It is about am / is / are.",
               "answer": "Tom is from Canada"
             },
             {
               "id": "u01-ret-b5-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "Anna is happy at school. It is about am / is / are (state).",
+              "passage": "Anna is happy at school. It is about am / is / are.",
               "answer": "Anna is happy"
             },
             {
               "id": "u01-ret-b5-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am tired at work. It is about am / is / are (state).",
+              "passage": "I am tired at work. It is about am / is / are.",
               "answer": "I am tired"
             },
             {
               "id": "u01-ret-b5-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "You are at home in the kitchen. It is about am / is / are (state).",
+              "passage": "You are at home in the kitchen. It is about am / is / are.",
               "answer": "You are at home"
             },
             {
               "id": "u01-ret-b5-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is ready at school. It is about am / is / are (state).",
+              "passage": "He is ready at school. It is about am / is / are.",
               "answer": "He is ready"
             }
           ]
@@ -5391,112 +5391,112 @@
             {
               "id": "u01-cin-b1-01",
               "prompt": "Read and answer.",
-              "passage": "You are at home. This practices am / is / are (state).",
+              "passage": "You are at home. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b1-02",
               "prompt": "Read and answer.",
-              "passage": "He is ready. This practices am / is / are (state).",
+              "passage": "He is ready. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b1-03",
               "prompt": "Read and answer.",
-              "passage": "She is students. This practices am / is / are (state).",
+              "passage": "She is students. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b1-04",
               "prompt": "Read and answer.",
-              "passage": "We are from Canada. This practices am / is / are (state).",
+              "passage": "We are from Canada. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b1-05",
               "prompt": "Read and answer.",
-              "passage": "They are happy. This practices am / is / are (state).",
+              "passage": "They are happy. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b1-06",
               "prompt": "Read and answer.",
-              "passage": "Tom is tired. This practices am / is / are (state).",
+              "passage": "Tom is tired. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b1-07",
               "prompt": "Read and answer.",
-              "passage": "Anna is at home. This practices am / is / are (state).",
+              "passage": "Anna is at home. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b1-08",
               "prompt": "Read and answer.",
-              "passage": "I am ready. This practices am / is / are (state).",
+              "passage": "I am ready. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b1-09",
               "prompt": "Read and answer.",
-              "passage": "You are students. This practices am / is / are (state).",
+              "passage": "You are students. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b1-10",
               "prompt": "Read and answer.",
-              "passage": "He is from Canada. This practices am / is / are (state).",
+              "passage": "He is from Canada. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             }
           ]
         },
@@ -5506,112 +5506,112 @@
             {
               "id": "u01-cin-b2-01",
               "prompt": "Read and answer.",
-              "passage": "She is happy. This practices am / is / are (state).",
+              "passage": "She is happy. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b2-02",
               "prompt": "Read and answer.",
-              "passage": "We are tired. This practices am / is / are (state).",
+              "passage": "We are tired. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b2-03",
               "prompt": "Read and answer.",
-              "passage": "They are at home. This practices am / is / are (state).",
+              "passage": "They are at home. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b2-04",
               "prompt": "Read and answer.",
-              "passage": "Tom is ready. This practices am / is / are (state).",
+              "passage": "Tom is ready. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b2-05",
               "prompt": "Read and answer.",
-              "passage": "Anna is students. This practices am / is / are (state).",
+              "passage": "Anna is students. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b2-06",
               "prompt": "Read and answer.",
-              "passage": "I am from Canada. This practices am / is / are (state).",
+              "passage": "I am from Canada. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b2-07",
               "prompt": "Read and answer.",
-              "passage": "You are happy. This practices am / is / are (state).",
+              "passage": "You are happy. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b2-08",
               "prompt": "Read and answer.",
-              "passage": "He is tired. This practices am / is / are (state).",
+              "passage": "He is tired. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b2-09",
               "prompt": "Read and answer.",
-              "passage": "She is at home. This practices am / is / are (state).",
+              "passage": "She is at home. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b2-10",
               "prompt": "Read and answer.",
-              "passage": "We are ready. This practices am / is / are (state).",
+              "passage": "We are ready. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             }
           ]
         },
@@ -5621,112 +5621,112 @@
             {
               "id": "u01-cin-b3-01",
               "prompt": "Read and answer.",
-              "passage": "They are students. This practices am / is / are (state).",
+              "passage": "They are students. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b3-02",
               "prompt": "Read and answer.",
-              "passage": "Tom is from Canada. This practices am / is / are (state).",
+              "passage": "Tom is from Canada. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b3-03",
               "prompt": "Read and answer.",
-              "passage": "Anna is happy. This practices am / is / are (state).",
+              "passage": "Anna is happy. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b3-04",
               "prompt": "Read and answer.",
-              "passage": "I am tired. This practices am / is / are (state).",
+              "passage": "I am tired. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b3-05",
               "prompt": "Read and answer.",
-              "passage": "You are at home. This practices am / is / are (state).",
+              "passage": "You are at home. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b3-06",
               "prompt": "Read and answer.",
-              "passage": "He is ready. This practices am / is / are (state).",
+              "passage": "He is ready. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b3-07",
               "prompt": "Read and answer.",
-              "passage": "She is students. This practices am / is / are (state).",
+              "passage": "She is students. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b3-08",
               "prompt": "Read and answer.",
-              "passage": "We are from Canada. This practices am / is / are (state).",
+              "passage": "We are from Canada. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b3-09",
               "prompt": "Read and answer.",
-              "passage": "They are happy. This practices am / is / are (state).",
+              "passage": "They are happy. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b3-10",
               "prompt": "Read and answer.",
-              "passage": "Tom is tired. This practices am / is / are (state).",
+              "passage": "Tom is tired. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             }
           ]
         },
@@ -5736,112 +5736,112 @@
             {
               "id": "u01-cin-b4-01",
               "prompt": "Read and answer.",
-              "passage": "Anna is at home. This practices am / is / are (state).",
+              "passage": "Anna is at home. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b4-02",
               "prompt": "Read and answer.",
-              "passage": "I am ready. This practices am / is / are (state).",
+              "passage": "I am ready. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b4-03",
               "prompt": "Read and answer.",
-              "passage": "You are students. This practices am / is / are (state).",
+              "passage": "You are students. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b4-04",
               "prompt": "Read and answer.",
-              "passage": "He is from Canada. This practices am / is / are (state).",
+              "passage": "He is from Canada. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b4-05",
               "prompt": "Read and answer.",
-              "passage": "She is happy. This practices am / is / are (state).",
+              "passage": "She is happy. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b4-06",
               "prompt": "Read and answer.",
-              "passage": "We are tired. This practices am / is / are (state).",
+              "passage": "We are tired. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b4-07",
               "prompt": "Read and answer.",
-              "passage": "They are at home. This practices am / is / are (state).",
+              "passage": "They are at home. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b4-08",
               "prompt": "Read and answer.",
-              "passage": "Tom is ready. This practices am / is / are (state).",
+              "passage": "Tom is ready. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b4-09",
               "prompt": "Read and answer.",
-              "passage": "Anna is students. This practices am / is / are (state).",
+              "passage": "Anna is students. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b4-10",
               "prompt": "Read and answer.",
-              "passage": "I am from Canada. This practices am / is / are (state).",
+              "passage": "I am from Canada. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             }
           ]
         },
@@ -5851,112 +5851,112 @@
             {
               "id": "u01-cin-b5-01",
               "prompt": "Read and answer.",
-              "passage": "You are happy. This practices am / is / are (state).",
+              "passage": "You are happy. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b5-02",
               "prompt": "Read and answer.",
-              "passage": "He is tired. This practices am / is / are (state).",
+              "passage": "He is tired. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b5-03",
               "prompt": "Read and answer.",
-              "passage": "She is at home. This practices am / is / are (state).",
+              "passage": "She is at home. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b5-04",
               "prompt": "Read and answer.",
-              "passage": "We are ready. This practices am / is / are (state).",
+              "passage": "We are ready. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b5-05",
               "prompt": "Read and answer.",
-              "passage": "They are students. This practices am / is / are (state).",
+              "passage": "They are students. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b5-06",
               "prompt": "Read and answer.",
-              "passage": "Tom is from Canada. This practices am / is / are (state).",
+              "passage": "Tom is from Canada. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b5-07",
               "prompt": "Read and answer.",
-              "passage": "Anna is happy. This practices am / is / are (state).",
+              "passage": "Anna is happy. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b5-08",
               "prompt": "Read and answer.",
-              "passage": "I am tired. This practices am / is / are (state).",
+              "passage": "I am tired. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b5-09",
               "prompt": "Read and answer.",
-              "passage": "You are at home. This practices am / is / are (state).",
+              "passage": "You are at home. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             },
             {
               "id": "u01-cin-b5-10",
               "prompt": "Read and answer.",
-              "passage": "He is ready. This practices am / is / are (state).",
+              "passage": "He is ready. This practices am / is / are.",
               "options": [
-                "am / is / are (state)",
+                "am / is / are",
                 "past perfect",
                 "future will"
               ],
-              "answer": "am / is / are (state)"
+              "answer": "am / is / are"
             }
           ]
         }
@@ -5970,70 +5970,70 @@
           "items": [
             {
               "id": "u01-stp-b1-01",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "You are at home",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b1-02",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "He is ready",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b1-03",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "She is students",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b1-04",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "We are from Canada",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b1-05",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "They are happy",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b1-06",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "Tom is tired",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b1-07",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "Anna is at home",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b1-08",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "I am ready",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b1-09",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "You are students",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b1-10",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "He is from Canada",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
@@ -6045,70 +6045,70 @@
           "items": [
             {
               "id": "u01-stp-b2-01",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "She is happy",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b2-02",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "We are tired",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b2-03",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "They are at home",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b2-04",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "Tom is ready",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b2-05",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "Anna is students",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b2-06",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "I am from Canada",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b2-07",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "You are happy",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b2-08",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "He is tired",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b2-09",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "She is at home",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b2-10",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "We are ready",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
@@ -6120,70 +6120,70 @@
           "items": [
             {
               "id": "u01-stp-b3-01",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "They are students",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b3-02",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "Tom is from Canada",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b3-03",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "Anna is happy",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b3-04",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "I am tired",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b3-05",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "You are at home",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b3-06",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "He is ready",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b3-07",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "She is students",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b3-08",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "We are from Canada",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b3-09",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "They are happy",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b3-10",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "Tom is tired",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
@@ -6195,70 +6195,70 @@
           "items": [
             {
               "id": "u01-stp-b4-01",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "Anna is at home",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b4-02",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "I am ready",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b4-03",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "You are students",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b4-04",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "He is from Canada",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b4-05",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "She is happy",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b4-06",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "We are tired",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b4-07",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "They are at home",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b4-08",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "Tom is ready",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b4-09",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "Anna is students",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b4-10",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "I am from Canada",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
@@ -6270,70 +6270,70 @@
           "items": [
             {
               "id": "u01-stp-b5-01",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "You are happy",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b5-02",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "He is tired",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b5-03",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "She is at home",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b5-04",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "We are ready",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b5-05",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "They are students",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b5-06",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "Tom is from Canada",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b5-07",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "Anna is happy",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b5-08",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "I am tired",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b5-09",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "You are at home",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
             },
             {
               "id": "u01-stp-b5-10",
-              "prompt": "Use the pattern: am / is / are (state).",
+              "prompt": "Use the pattern: am / is / are.",
               "pattern": "Subject + am + complement",
               "answer": "He is ready",
               "explanation": "Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are."
