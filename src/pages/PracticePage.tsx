@@ -60,7 +60,12 @@ function PracticeContent({
       <div className="h-1 overflow-hidden rounded-full bg-stone-100">
         <div
           className="h-full bg-teal transition-all"
-          style={{ width: `${((index + 1) / totalLoaded) * 100}%` }}
+          style={{
+            width:
+              totalLoaded > 0
+                ? `${((index + 1) / totalLoaded) * 100}%`
+                : '0%',
+          }}
         />
       </div>
 

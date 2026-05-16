@@ -1,4 +1,4 @@
-import { useCallback, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import type { CategoryPack, DrillCategory, Exercise } from '@/lib/types'
 import { progressKey, useProgressStore } from '@/stores/progressStore'
 
@@ -19,13 +19,20 @@ export function useExerciseSession(
   const [index, setIndex] = useState(0)
   const current = exercises[index] as Exercise | undefined
 
+  useEffect(() => {
+    setIndex(0)
+  }, [unitId, categoryId])
+
   const loadMore = useCallback(() => {
     if (visibleBatch < 5) setVisibleBatch(key, visibleBatch + 1)
   }, [key, setVisibleBatch, visibleBatch])
 
   const goNext = useCallback(() => {
     if (current) markComplete(key, current.id)
-    setIndex((i) => Math.min(i + 1, exercises.length - 1))
+    setIndex((i) => {
+      if (exercises.length === 0) return 0
+      return Math.min(i + 1, exercises.length - 1)
+    })
   }, [current, exercises.length, key, markComplete])
 
   const goPrev = useCallback(() => {
