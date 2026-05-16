@@ -1,0 +1,48 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'DM Sans', system-ui, sans-serif;
+  --font-display: 'Fraunces', Georgia, serif;
+  --color-cream: #faf8f5;
+  --color-ink: #1c1917;
+  --color-teal: #0d9488;
+  --color-teal-dark: #0f766e;
+  --color-amber: #d97706;
+  --color-muted: #78716c;
+  --color-card: #ffffff;
+  --color-correct: #059669;
+  --color-wrong: #dc2626;
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  font-family: var(--font-sans);
+  background: var(--color-cream);
+  color: var(--color-ink);
+}
+
+#root {
+  min-height: 100dvh;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.safe-bottom {
+  padding-bottom: max(1rem, env(safe-area-inset-bottom));
+}
+
+.safe-top {
+  padding-top: max(0.75rem, env(safe-area-inset-top));
+}
+
+.touch-target {
+  min-height: 44px;
+  min-width: 44px;
+}
