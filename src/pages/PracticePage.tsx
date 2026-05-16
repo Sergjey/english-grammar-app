@@ -6,6 +6,7 @@ import type { DrillCategory, CategoryPack } from '@/lib/types'
 import { DRILL_CATEGORIES } from '@/lib/types'
 import { useExerciseSession } from '@/hooks/useExerciseSession'
 import { DrillRenderer } from '@/components/drills/DrillRenderer'
+import { UnitHeading } from '@/components/units/UnitHeading'
 import { Button } from '@/components/ui/Button'
 
 function PracticeContent({
@@ -13,11 +14,13 @@ function PracticeContent({
   cat,
   pack,
   unitTitle,
+  unitTopic,
 }: {
   unitId: string
   cat: DrillCategory
   pack: CategoryPack
   unitTitle: string
+  unitTopic: string
 }) {
   const [feedback, setFeedback] = useState<'idle' | 'correct' | 'wrong'>('idle')
   const session = useExerciseSession(unitId, cat, pack)
@@ -46,8 +49,8 @@ function PracticeContent({
     <div className="flex flex-col gap-4 pb-28">
       <div className="flex items-center justify-between gap-2">
         <div>
-          <p className="text-sm text-teal">{unitTitle}</p>
-          <h1 className="font-display text-xl font-bold">{meta.label}</h1>
+          <UnitHeading title={unitTitle} topic={unitTopic} size="sm" />
+          <h1 className="mt-2 font-display text-xl font-bold">{meta.label}</h1>
         </div>
         <span className="shrink-0 rounded-full bg-stone-100 px-3 py-1 text-sm font-medium">
           {index + 1} / {totalLoaded}
@@ -132,6 +135,7 @@ export function PracticePage() {
       cat={cat}
       pack={pack}
       unitTitle={unit.title}
+      unitTopic={unit.topic}
     />
   )
 }

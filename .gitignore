@@ -4,6 +4,3 @@ dist
 *.local
 .env
 .env.*
-
-# Keep PDF local only — do not publish copyrighted book
-*.pdf

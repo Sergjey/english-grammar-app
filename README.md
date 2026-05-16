@@ -36,10 +36,6 @@ Dependencies install only into `./node_modules` in this folder — nothing globa
 
 Live URL: `https://<username>.github.io/english-grammar-app/`
 
-## PDF in workspace
-
-The Murphy PDF is listed in `.gitignore` and should **not** be committed to a public repository.
-
 ## Tech stack
 
 - Vite + React + TypeScript
