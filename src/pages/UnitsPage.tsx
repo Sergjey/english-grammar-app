@@ -29,7 +29,12 @@ export function UnitsPage() {
                   {unit.number}
                 </span>
                 <span className="min-w-0 flex-1">
-                  <UnitHeading title={unit.title} topic={unit.topic} size="sm" />
+                  <UnitHeading
+                    title={unit.title}
+                    topic={unit.topic}
+                    size="sm"
+                    truncate
+                  />
                   <span className="mt-2 block h-1.5 overflow-hidden rounded-full bg-stone-100">
                     <span
                       className="block h-full rounded-full bg-teal transition-all"

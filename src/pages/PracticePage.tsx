@@ -47,7 +47,7 @@ function PracticeContent({
 
   return (
     <div className="flex flex-col gap-4 pb-28">
-      <div className="flex items-center justify-between gap-2">
+      <div className="flex items-start justify-between gap-2">
         <div>
           <UnitHeading title={unitTitle} topic={unitTopic} size="sm" />
           <h1 className="mt-2 font-display text-xl font-bold">{meta.label}</h1>

@@ -3,6 +3,9 @@ interface UnitHeadingProps {
   topic: string
   size?: 'sm' | 'md' | 'lg'
   className?: string
+  /** Use h1 for the topic on page-level headings (e.g. unit hub). */
+  topicAs?: 'p' | 'h1'
+  truncate?: boolean
 }
 
 const titleSize = {
@@ -23,11 +26,18 @@ export function UnitHeading({
   topic,
   size = 'md',
   className = '',
+  topicAs = 'p',
+  truncate = false,
 }: UnitHeadingProps) {
+  const clip = truncate ? 'truncate' : ''
+  const TopicTag = topicAs === 'h1' ? 'h1' : 'p'
+
   return (
-    <div className={className}>
-      <p className={titleSize[size]}>{title}</p>
-      <p className={`${topicSize[size]} font-medium text-teal`}>{topic}</p>
+    <div className={`min-w-0 ${className}`}>
+      <p className={`${titleSize[size]} ${clip}`}>{title}</p>
+      <TopicTag className={`${topicSize[size]} font-medium text-teal ${clip}`}>
+        {topic}
+      </TopicTag>
     </div>
   )
 }

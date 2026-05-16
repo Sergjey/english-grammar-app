@@ -29,9 +29,14 @@ export function HomePage() {
             <Link
               key={unit.id}
               to={`/unit/${unit.id}`}
-              className="touch-target shrink-0 snap-start rounded-2xl bg-white px-4 py-3 ring-1 ring-stone-200 transition hover:ring-teal"
+              className="touch-target max-w-36 shrink-0 snap-start rounded-2xl bg-white px-4 py-3 ring-1 ring-stone-200 transition hover:ring-teal"
             >
-              <UnitHeading title={unit.title} topic={unit.topic} size="sm" />
+              <UnitHeading
+                title={unit.title}
+                topic={unit.topic}
+                size="sm"
+                truncate
+              />
             </Link>
           ))}
         </div>

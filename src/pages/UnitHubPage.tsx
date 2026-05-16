@@ -22,7 +22,12 @@ export function UnitHubPage() {
   return (
     <div className="space-y-6">
       <div>
-        <UnitHeading title={meta.title} topic={meta.topic} size="lg" />
+        <UnitHeading
+          title={meta.title}
+          topic={meta.topic}
+          size="lg"
+          topicAs="h1"
+        />
         <p className="mt-3 text-base leading-relaxed text-muted">{unit.summary}</p>
       </div>
 
