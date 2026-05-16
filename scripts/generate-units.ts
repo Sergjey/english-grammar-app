@@ -27,7 +27,6 @@ const outDir = join(__dirname, '../src/content/units')
 interface UnitConfig {
   id: string
   number: number
-  title: string
   topic: string
   summary: string
   subjects: string[]
@@ -44,8 +43,7 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-01',
     number: 1,
-    title: 'Unit 1',
-    topic: 'am / is / are (state)',
+    topic: 'am / is / are',
     summary:
       'Use am, is, and are to describe states and identity. I am, he/she/it is, you/we/they are.',
     subjects: ['I', 'You', 'He', 'She', 'We', 'They', 'Tom', 'Anna'],
@@ -64,7 +62,6 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-02',
     number: 2,
-    title: 'Unit 2',
     topic: 'am / is / are (questions)',
     summary:
       'Form yes/no questions and short answers with am, is, and are.',
@@ -83,7 +80,6 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-03',
     number: 3,
-    title: 'Unit 3',
     topic: 'Present continuous',
     summary:
       'Use am/is/are + verb-ing for actions happening now or around now.',
@@ -102,7 +98,6 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-04',
     number: 4,
-    title: 'Unit 4',
     topic: 'Present simple',
     summary:
       'Use present simple for habits and facts. Add -s for he, she, it.',
@@ -121,7 +116,6 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-05',
     number: 5,
-    title: 'Unit 5',
     topic: 'Present simple vs continuous',
     summary:
       'Choose simple for habits/facts and continuous for actions in progress.',
@@ -140,7 +134,6 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-06',
     number: 6,
-    title: 'Unit 6',
     topic: 'have / has got',
     summary: 'Use have got / has got to describe possession and features.',
     subjects: ['I', 'You', 'He', 'She', 'We', 'They'],
@@ -158,7 +151,6 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-07',
     number: 7,
-    title: 'Unit 7',
     topic: 'was / were',
     summary: 'Use was/were for the past of be in statements and questions.',
     subjects: ['I', 'He', 'She', 'We', 'They', 'You'],
@@ -179,7 +171,6 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-08',
     number: 8,
-    title: 'Unit 8',
     topic: 'Past simple (regular)',
     summary: 'Form past simple with -ed for regular verbs.',
     subjects: ['I', 'He', 'She', 'We', 'They'],
@@ -197,7 +188,6 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-09',
     number: 9,
-    title: 'Unit 9',
     topic: 'Past simple (irregular)',
     summary: 'Use common irregular past forms: went, saw, had, made, etc.',
     subjects: ['I', 'He', 'She', 'We', 'They'],
@@ -215,7 +205,6 @@ const UNITS: UnitConfig[] = [
   {
     id: 'unit-10',
     number: 10,
-    title: 'Unit 10',
     topic: 'can / could',
     summary: 'Use can/could for ability and permission in the present and past.',
     subjects: ['I', 'He', 'She', 'We', 'They'],
@@ -405,14 +394,26 @@ function buildUnit(config: UnitConfig): UnitContent {
   return {
     id: config.id,
     number: config.number,
-    title: config.title,
+    title: `Unit ${config.number}`,
     topic: config.topic,
     summary: config.summary,
     categories,
   }
 }
 
+const manifestPath = join(__dirname, '../src/content/manifest.json')
+const manifest = {
+  units: UNITS.map((u) => ({
+    id: u.id,
+    number: u.number,
+    title: `Unit ${u.number}`,
+    topic: u.topic,
+  })),
+}
+
 mkdirSync(outDir, { recursive: true })
+writeFileSync(manifestPath, JSON.stringify(manifest, null, 2) + '\n')
+console.log(`Wrote ${manifestPath}`)
 
 for (const unitConfig of UNITS) {
   const unit = buildUnit(unitConfig)

@@ -38,11 +38,43 @@ for (const file of unitFiles) {
   console.log(`OK ${file} — ${unit.categories.length} categories`)
 }
 
-const manifestIds = new Set(manifest.units.map((u) => u.id))
+const manifestById = new Map(manifest.units.map((u) => [u.id, u]))
+const manifestIds = new Set(manifestById.keys())
+
 for (const file of unitFiles) {
   const id = file.replace('.json', '')
   if (!manifestIds.has(id)) {
     console.error(`Unit file ${id} not in manifest`)
+    errors++
+    continue
+  }
+
+  const data = JSON.parse(readFileSync(join(unitsDir, file), 'utf-8'))
+  const entry = manifestById.get(id)!
+  if (data.number !== entry.number) {
+    console.error(
+      `Manifest mismatch ${id}: number ${entry.number} vs unit file ${data.number}`,
+    )
+    errors++
+  }
+  if (data.title !== entry.title) {
+    console.error(
+      `Manifest mismatch ${id}: title "${entry.title}" vs unit file "${data.title}"`,
+    )
+    errors++
+  }
+  if (data.topic !== entry.topic) {
+    console.error(
+      `Manifest mismatch ${id}: topic "${entry.topic}" vs unit file "${data.topic}"`,
+    )
+    errors++
+  }
+}
+
+for (const entry of manifest.units) {
+  const file = `${entry.id}.json`
+  if (!unitFiles.includes(file)) {
+    console.error(`Manifest entry ${entry.id} has no unit file`)
     errors++
   }
 }

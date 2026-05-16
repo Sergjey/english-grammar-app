@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import manifest from '@/content/manifest.json'
+import { UnitHeading } from '@/components/units/UnitHeading'
 import { useProgressStore } from '@/stores/progressStore'
 
 const TOTAL_PER_CATEGORY = 50
@@ -11,7 +12,7 @@ export function UnitsPage() {
   return (
     <div className="space-y-4">
       <h1 className="font-display text-2xl font-bold">Units</h1>
-      <p className="text-muted">10 pilot units — Essential Grammar topics</p>
+      <p className="text-muted">10 pilot units — grammar topic under each unit name</p>
       <ul className="space-y-3">
         {manifest.units.map((unit) => {
           const pct = getUnitProgress(
@@ -28,10 +29,12 @@ export function UnitsPage() {
                   {unit.number}
                 </span>
                 <span className="min-w-0 flex-1">
-                  <span className="block font-semibold">{unit.title}</span>
-                  <span className="block truncate text-sm text-muted">
-                    {unit.topic}
-                  </span>
+                  <UnitHeading
+                    title={unit.title}
+                    topic={unit.topic}
+                    size="sm"
+                    truncate
+                  />
                   <span className="mt-2 block h-1.5 overflow-hidden rounded-full bg-stone-100">
                     <span
                       className="block h-full rounded-full bg-teal transition-all"

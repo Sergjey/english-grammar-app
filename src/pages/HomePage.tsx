@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
 import manifest from '@/content/manifest.json'
+import { UnitHeading } from '@/components/units/UnitHeading'
 import { Button } from '@/components/ui/Button'
 
 export function HomePage() {
@@ -28,9 +29,14 @@ export function HomePage() {
             <Link
               key={unit.id}
               to={`/unit/${unit.id}`}
-              className="touch-target shrink-0 snap-start rounded-full bg-white px-4 py-2 text-sm font-medium ring-1 ring-stone-200 transition hover:ring-teal"
+              className="touch-target max-w-36 shrink-0 snap-start rounded-2xl bg-white px-4 py-3 ring-1 ring-stone-200 transition hover:ring-teal"
             >
-              {unit.title}
+              <UnitHeading
+                title={unit.title}
+                topic={unit.topic}
+                size="sm"
+                truncate
+              />
             </Link>
           ))}
         </div>
