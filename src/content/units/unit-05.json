@@ -1,8 +1,8 @@
 {
   "id": "unit-05",
   "number": 5,
-  "title": "Simple vs -ing",
-  "topic": "Choose the right form",
+  "title": "Unit 5",
+  "topic": "Present simple vs continuous",
   "summary": "Choose simple for habits/facts and continuous for actions in progress.",
   "categories": [
     {
@@ -13,7 +13,7 @@
           "items": [
             {
               "id": "u05-pat-b1-01",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "He ___ every morning",
               "wordBank": [
                 "work",
@@ -27,7 +27,7 @@
             },
             {
               "id": "u05-pat-b1-02",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "She ___ now",
               "wordBank": [
                 "work",
@@ -41,7 +41,7 @@
             },
             {
               "id": "u05-pat-b1-03",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "They ___ usually",
               "wordBank": [
                 "work",
@@ -55,7 +55,7 @@
             },
             {
               "id": "u05-pat-b1-04",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "I ___ every morning",
               "wordBank": [
                 "work",
@@ -69,7 +69,7 @@
             },
             {
               "id": "u05-pat-b1-05",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "He ___ now",
               "wordBank": [
                 "work",
@@ -83,7 +83,7 @@
             },
             {
               "id": "u05-pat-b1-06",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "She ___ usually",
               "wordBank": [
                 "work",
@@ -97,7 +97,7 @@
             },
             {
               "id": "u05-pat-b1-07",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "They ___ every morning",
               "wordBank": [
                 "work",
@@ -111,7 +111,7 @@
             },
             {
               "id": "u05-pat-b1-08",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "I ___ now",
               "wordBank": [
                 "work",
@@ -125,7 +125,7 @@
             },
             {
               "id": "u05-pat-b1-09",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "He ___ usually",
               "wordBank": [
                 "work",
@@ -139,7 +139,7 @@
             },
             {
               "id": "u05-pat-b1-10",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "She ___ every morning",
               "wordBank": [
                 "work",
@@ -158,7 +158,7 @@
           "items": [
             {
               "id": "u05-pat-b2-01",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "They ___ now",
               "wordBank": [
                 "work",
@@ -172,7 +172,7 @@
             },
             {
               "id": "u05-pat-b2-02",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "I ___ usually",
               "wordBank": [
                 "work",
@@ -186,7 +186,7 @@
             },
             {
               "id": "u05-pat-b2-03",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "He ___ every morning",
               "wordBank": [
                 "work",
@@ -200,7 +200,7 @@
             },
             {
               "id": "u05-pat-b2-04",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "She ___ now",
               "wordBank": [
                 "work",
@@ -214,7 +214,7 @@
             },
             {
               "id": "u05-pat-b2-05",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "They ___ usually",
               "wordBank": [
                 "work",
@@ -228,7 +228,7 @@
             },
             {
               "id": "u05-pat-b2-06",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "I ___ every morning",
               "wordBank": [
                 "work",
@@ -242,7 +242,7 @@
             },
             {
               "id": "u05-pat-b2-07",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "He ___ now",
               "wordBank": [
                 "work",
@@ -256,7 +256,7 @@
             },
             {
               "id": "u05-pat-b2-08",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "She ___ usually",
               "wordBank": [
                 "work",
@@ -270,7 +270,7 @@
             },
             {
               "id": "u05-pat-b2-09",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "They ___ every morning",
               "wordBank": [
                 "work",
@@ -284,7 +284,7 @@
             },
             {
               "id": "u05-pat-b2-10",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "I ___ now",
               "wordBank": [
                 "work",
@@ -303,7 +303,7 @@
           "items": [
             {
               "id": "u05-pat-b3-01",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "He ___ usually",
               "wordBank": [
                 "work",
@@ -317,7 +317,7 @@
             },
             {
               "id": "u05-pat-b3-02",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "She ___ every morning",
               "wordBank": [
                 "work",
@@ -331,7 +331,7 @@
             },
             {
               "id": "u05-pat-b3-03",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "They ___ now",
               "wordBank": [
                 "work",
@@ -345,7 +345,7 @@
             },
             {
               "id": "u05-pat-b3-04",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "I ___ usually",
               "wordBank": [
                 "work",
@@ -359,7 +359,7 @@
             },
             {
               "id": "u05-pat-b3-05",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "He ___ every morning",
               "wordBank": [
                 "work",
@@ -373,7 +373,7 @@
             },
             {
               "id": "u05-pat-b3-06",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "She ___ now",
               "wordBank": [
                 "work",
@@ -387,7 +387,7 @@
             },
             {
               "id": "u05-pat-b3-07",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "They ___ usually",
               "wordBank": [
                 "work",
@@ -401,7 +401,7 @@
             },
             {
               "id": "u05-pat-b3-08",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "I ___ every morning",
               "wordBank": [
                 "work",
@@ -415,7 +415,7 @@
             },
             {
               "id": "u05-pat-b3-09",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "He ___ now",
               "wordBank": [
                 "work",
@@ -429,7 +429,7 @@
             },
             {
               "id": "u05-pat-b3-10",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "She ___ usually",
               "wordBank": [
                 "work",
@@ -448,7 +448,7 @@
           "items": [
             {
               "id": "u05-pat-b4-01",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "They ___ every morning",
               "wordBank": [
                 "work",
@@ -462,7 +462,7 @@
             },
             {
               "id": "u05-pat-b4-02",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "I ___ now",
               "wordBank": [
                 "work",
@@ -476,7 +476,7 @@
             },
             {
               "id": "u05-pat-b4-03",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "He ___ usually",
               "wordBank": [
                 "work",
@@ -490,7 +490,7 @@
             },
             {
               "id": "u05-pat-b4-04",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "She ___ every morning",
               "wordBank": [
                 "work",
@@ -504,7 +504,7 @@
             },
             {
               "id": "u05-pat-b4-05",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "They ___ now",
               "wordBank": [
                 "work",
@@ -518,7 +518,7 @@
             },
             {
               "id": "u05-pat-b4-06",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "I ___ usually",
               "wordBank": [
                 "work",
@@ -532,7 +532,7 @@
             },
             {
               "id": "u05-pat-b4-07",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "He ___ every morning",
               "wordBank": [
                 "work",
@@ -546,7 +546,7 @@
             },
             {
               "id": "u05-pat-b4-08",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "She ___ now",
               "wordBank": [
                 "work",
@@ -560,7 +560,7 @@
             },
             {
               "id": "u05-pat-b4-09",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "They ___ usually",
               "wordBank": [
                 "work",
@@ -574,7 +574,7 @@
             },
             {
               "id": "u05-pat-b4-10",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "I ___ every morning",
               "wordBank": [
                 "work",
@@ -593,7 +593,7 @@
           "items": [
             {
               "id": "u05-pat-b5-01",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "He ___ now",
               "wordBank": [
                 "work",
@@ -607,7 +607,7 @@
             },
             {
               "id": "u05-pat-b5-02",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "She ___ usually",
               "wordBank": [
                 "work",
@@ -621,7 +621,7 @@
             },
             {
               "id": "u05-pat-b5-03",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "They ___ every morning",
               "wordBank": [
                 "work",
@@ -635,7 +635,7 @@
             },
             {
               "id": "u05-pat-b5-04",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "I ___ now",
               "wordBank": [
                 "work",
@@ -649,7 +649,7 @@
             },
             {
               "id": "u05-pat-b5-05",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "He ___ usually",
               "wordBank": [
                 "work",
@@ -663,7 +663,7 @@
             },
             {
               "id": "u05-pat-b5-06",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "She ___ every morning",
               "wordBank": [
                 "work",
@@ -677,7 +677,7 @@
             },
             {
               "id": "u05-pat-b5-07",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "They ___ now",
               "wordBank": [
                 "work",
@@ -691,7 +691,7 @@
             },
             {
               "id": "u05-pat-b5-08",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "I ___ usually",
               "wordBank": [
                 "work",
@@ -705,7 +705,7 @@
             },
             {
               "id": "u05-pat-b5-09",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "He ___ every morning",
               "wordBank": [
                 "work",
@@ -719,7 +719,7 @@
             },
             {
               "id": "u05-pat-b5-10",
-              "prompt": "Complete the pattern for Choose the right form.",
+              "prompt": "Complete the pattern for Present simple vs continuous.",
               "pattern": "She ___ now",
               "wordBank": [
                 "work",
@@ -4781,61 +4781,61 @@
             {
               "id": "u05-ret-b1-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is every morning normally. It is about Choose the right form.",
+              "passage": "He is every morning normally. It is about Present simple vs continuous.",
               "answer": "He is every morning"
             },
             {
               "id": "u05-ret-b1-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is now today. It is about Choose the right form.",
+              "passage": "She is now today. It is about Present simple vs continuous.",
               "answer": "She is now"
             },
             {
               "id": "u05-ret-b1-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are usually normally. It is about Choose the right form.",
+              "passage": "They are usually normally. It is about Present simple vs continuous.",
               "answer": "They are usually"
             },
             {
               "id": "u05-ret-b1-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am every morning today. It is about Choose the right form.",
+              "passage": "I am every morning today. It is about Present simple vs continuous.",
               "answer": "I am every morning"
             },
             {
               "id": "u05-ret-b1-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is now normally. It is about Choose the right form.",
+              "passage": "He is now normally. It is about Present simple vs continuous.",
               "answer": "He is now"
             },
             {
               "id": "u05-ret-b1-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is usually today. It is about Choose the right form.",
+              "passage": "She is usually today. It is about Present simple vs continuous.",
               "answer": "She is usually"
             },
             {
               "id": "u05-ret-b1-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are every morning normally. It is about Choose the right form.",
+              "passage": "They are every morning normally. It is about Present simple vs continuous.",
               "answer": "They are every morning"
             },
             {
               "id": "u05-ret-b1-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am now today. It is about Choose the right form.",
+              "passage": "I am now today. It is about Present simple vs continuous.",
               "answer": "I am now"
             },
             {
               "id": "u05-ret-b1-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is usually normally. It is about Choose the right form.",
+              "passage": "He is usually normally. It is about Present simple vs continuous.",
               "answer": "He is usually"
             },
             {
               "id": "u05-ret-b1-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is every morning today. It is about Choose the right form.",
+              "passage": "She is every morning today. It is about Present simple vs continuous.",
               "answer": "She is every morning"
             }
           ]
@@ -4846,61 +4846,61 @@
             {
               "id": "u05-ret-b2-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are now normally. It is about Choose the right form.",
+              "passage": "They are now normally. It is about Present simple vs continuous.",
               "answer": "They are now"
             },
             {
               "id": "u05-ret-b2-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am usually today. It is about Choose the right form.",
+              "passage": "I am usually today. It is about Present simple vs continuous.",
               "answer": "I am usually"
             },
             {
               "id": "u05-ret-b2-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is every morning normally. It is about Choose the right form.",
+              "passage": "He is every morning normally. It is about Present simple vs continuous.",
               "answer": "He is every morning"
             },
             {
               "id": "u05-ret-b2-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is now today. It is about Choose the right form.",
+              "passage": "She is now today. It is about Present simple vs continuous.",
               "answer": "She is now"
             },
             {
               "id": "u05-ret-b2-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are usually normally. It is about Choose the right form.",
+              "passage": "They are usually normally. It is about Present simple vs continuous.",
               "answer": "They are usually"
             },
             {
               "id": "u05-ret-b2-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am every morning today. It is about Choose the right form.",
+              "passage": "I am every morning today. It is about Present simple vs continuous.",
               "answer": "I am every morning"
             },
             {
               "id": "u05-ret-b2-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is now normally. It is about Choose the right form.",
+              "passage": "He is now normally. It is about Present simple vs continuous.",
               "answer": "He is now"
             },
             {
               "id": "u05-ret-b2-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is usually today. It is about Choose the right form.",
+              "passage": "She is usually today. It is about Present simple vs continuous.",
               "answer": "She is usually"
             },
             {
               "id": "u05-ret-b2-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are every morning normally. It is about Choose the right form.",
+              "passage": "They are every morning normally. It is about Present simple vs continuous.",
               "answer": "They are every morning"
             },
             {
               "id": "u05-ret-b2-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am now today. It is about Choose the right form.",
+              "passage": "I am now today. It is about Present simple vs continuous.",
               "answer": "I am now"
             }
           ]
@@ -4911,61 +4911,61 @@
             {
               "id": "u05-ret-b3-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is usually normally. It is about Choose the right form.",
+              "passage": "He is usually normally. It is about Present simple vs continuous.",
               "answer": "He is usually"
             },
             {
               "id": "u05-ret-b3-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is every morning today. It is about Choose the right form.",
+              "passage": "She is every morning today. It is about Present simple vs continuous.",
               "answer": "She is every morning"
             },
             {
               "id": "u05-ret-b3-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are now normally. It is about Choose the right form.",
+              "passage": "They are now normally. It is about Present simple vs continuous.",
               "answer": "They are now"
             },
             {
               "id": "u05-ret-b3-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am usually today. It is about Choose the right form.",
+              "passage": "I am usually today. It is about Present simple vs continuous.",
               "answer": "I am usually"
             },
             {
               "id": "u05-ret-b3-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is every morning normally. It is about Choose the right form.",
+              "passage": "He is every morning normally. It is about Present simple vs continuous.",
               "answer": "He is every morning"
             },
             {
               "id": "u05-ret-b3-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is now today. It is about Choose the right form.",
+              "passage": "She is now today. It is about Present simple vs continuous.",
               "answer": "She is now"
             },
             {
               "id": "u05-ret-b3-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are usually normally. It is about Choose the right form.",
+              "passage": "They are usually normally. It is about Present simple vs continuous.",
               "answer": "They are usually"
             },
             {
               "id": "u05-ret-b3-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am every morning today. It is about Choose the right form.",
+              "passage": "I am every morning today. It is about Present simple vs continuous.",
               "answer": "I am every morning"
             },
             {
               "id": "u05-ret-b3-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is now normally. It is about Choose the right form.",
+              "passage": "He is now normally. It is about Present simple vs continuous.",
               "answer": "He is now"
             },
             {
               "id": "u05-ret-b3-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is usually today. It is about Choose the right form.",
+              "passage": "She is usually today. It is about Present simple vs continuous.",
               "answer": "She is usually"
             }
           ]
@@ -4976,61 +4976,61 @@
             {
               "id": "u05-ret-b4-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are every morning normally. It is about Choose the right form.",
+              "passage": "They are every morning normally. It is about Present simple vs continuous.",
               "answer": "They are every morning"
             },
             {
               "id": "u05-ret-b4-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am now today. It is about Choose the right form.",
+              "passage": "I am now today. It is about Present simple vs continuous.",
               "answer": "I am now"
             },
             {
               "id": "u05-ret-b4-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is usually normally. It is about Choose the right form.",
+              "passage": "He is usually normally. It is about Present simple vs continuous.",
               "answer": "He is usually"
             },
             {
               "id": "u05-ret-b4-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is every morning today. It is about Choose the right form.",
+              "passage": "She is every morning today. It is about Present simple vs continuous.",
               "answer": "She is every morning"
             },
             {
               "id": "u05-ret-b4-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are now normally. It is about Choose the right form.",
+              "passage": "They are now normally. It is about Present simple vs continuous.",
               "answer": "They are now"
             },
             {
               "id": "u05-ret-b4-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am usually today. It is about Choose the right form.",
+              "passage": "I am usually today. It is about Present simple vs continuous.",
               "answer": "I am usually"
             },
             {
               "id": "u05-ret-b4-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is every morning normally. It is about Choose the right form.",
+              "passage": "He is every morning normally. It is about Present simple vs continuous.",
               "answer": "He is every morning"
             },
             {
               "id": "u05-ret-b4-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is now today. It is about Choose the right form.",
+              "passage": "She is now today. It is about Present simple vs continuous.",
               "answer": "She is now"
             },
             {
               "id": "u05-ret-b4-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are usually normally. It is about Choose the right form.",
+              "passage": "They are usually normally. It is about Present simple vs continuous.",
               "answer": "They are usually"
             },
             {
               "id": "u05-ret-b4-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am every morning today. It is about Choose the right form.",
+              "passage": "I am every morning today. It is about Present simple vs continuous.",
               "answer": "I am every morning"
             }
           ]
@@ -5041,61 +5041,61 @@
             {
               "id": "u05-ret-b5-01",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is now normally. It is about Choose the right form.",
+              "passage": "He is now normally. It is about Present simple vs continuous.",
               "answer": "He is now"
             },
             {
               "id": "u05-ret-b5-02",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is usually today. It is about Choose the right form.",
+              "passage": "She is usually today. It is about Present simple vs continuous.",
               "answer": "She is usually"
             },
             {
               "id": "u05-ret-b5-03",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are every morning normally. It is about Choose the right form.",
+              "passage": "They are every morning normally. It is about Present simple vs continuous.",
               "answer": "They are every morning"
             },
             {
               "id": "u05-ret-b5-04",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am now today. It is about Choose the right form.",
+              "passage": "I am now today. It is about Present simple vs continuous.",
               "answer": "I am now"
             },
             {
               "id": "u05-ret-b5-05",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is usually normally. It is about Choose the right form.",
+              "passage": "He is usually normally. It is about Present simple vs continuous.",
               "answer": "He is usually"
             },
             {
               "id": "u05-ret-b5-06",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is every morning today. It is about Choose the right form.",
+              "passage": "She is every morning today. It is about Present simple vs continuous.",
               "answer": "She is every morning"
             },
             {
               "id": "u05-ret-b5-07",
               "prompt": "Read, then retell in your own words.",
-              "passage": "They are now normally. It is about Choose the right form.",
+              "passage": "They are now normally. It is about Present simple vs continuous.",
               "answer": "They are now"
             },
             {
               "id": "u05-ret-b5-08",
               "prompt": "Read, then retell in your own words.",
-              "passage": "I am usually today. It is about Choose the right form.",
+              "passage": "I am usually today. It is about Present simple vs continuous.",
               "answer": "I am usually"
             },
             {
               "id": "u05-ret-b5-09",
               "prompt": "Read, then retell in your own words.",
-              "passage": "He is every morning normally. It is about Choose the right form.",
+              "passage": "He is every morning normally. It is about Present simple vs continuous.",
               "answer": "He is every morning"
             },
             {
               "id": "u05-ret-b5-10",
               "prompt": "Read, then retell in your own words.",
-              "passage": "She is now today. It is about Choose the right form.",
+              "passage": "She is now today. It is about Present simple vs continuous.",
               "answer": "She is now"
             }
           ]
@@ -5441,112 +5441,112 @@
             {
               "id": "u05-cin-b1-01",
               "prompt": "Read and answer.",
-              "passage": "He is every morning. This practices Choose the right form.",
+              "passage": "He is every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b1-02",
               "prompt": "Read and answer.",
-              "passage": "She is now. This practices Choose the right form.",
+              "passage": "She is now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b1-03",
               "prompt": "Read and answer.",
-              "passage": "They are usually. This practices Choose the right form.",
+              "passage": "They are usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b1-04",
               "prompt": "Read and answer.",
-              "passage": "I am every morning. This practices Choose the right form.",
+              "passage": "I am every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b1-05",
               "prompt": "Read and answer.",
-              "passage": "He is now. This practices Choose the right form.",
+              "passage": "He is now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b1-06",
               "prompt": "Read and answer.",
-              "passage": "She is usually. This practices Choose the right form.",
+              "passage": "She is usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b1-07",
               "prompt": "Read and answer.",
-              "passage": "They are every morning. This practices Choose the right form.",
+              "passage": "They are every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b1-08",
               "prompt": "Read and answer.",
-              "passage": "I am now. This practices Choose the right form.",
+              "passage": "I am now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b1-09",
               "prompt": "Read and answer.",
-              "passage": "He is usually. This practices Choose the right form.",
+              "passage": "He is usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b1-10",
               "prompt": "Read and answer.",
-              "passage": "She is every morning. This practices Choose the right form.",
+              "passage": "She is every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             }
           ]
         },
@@ -5556,112 +5556,112 @@
             {
               "id": "u05-cin-b2-01",
               "prompt": "Read and answer.",
-              "passage": "They are now. This practices Choose the right form.",
+              "passage": "They are now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b2-02",
               "prompt": "Read and answer.",
-              "passage": "I am usually. This practices Choose the right form.",
+              "passage": "I am usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b2-03",
               "prompt": "Read and answer.",
-              "passage": "He is every morning. This practices Choose the right form.",
+              "passage": "He is every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b2-04",
               "prompt": "Read and answer.",
-              "passage": "She is now. This practices Choose the right form.",
+              "passage": "She is now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b2-05",
               "prompt": "Read and answer.",
-              "passage": "They are usually. This practices Choose the right form.",
+              "passage": "They are usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b2-06",
               "prompt": "Read and answer.",
-              "passage": "I am every morning. This practices Choose the right form.",
+              "passage": "I am every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b2-07",
               "prompt": "Read and answer.",
-              "passage": "He is now. This practices Choose the right form.",
+              "passage": "He is now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b2-08",
               "prompt": "Read and answer.",
-              "passage": "She is usually. This practices Choose the right form.",
+              "passage": "She is usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b2-09",
               "prompt": "Read and answer.",
-              "passage": "They are every morning. This practices Choose the right form.",
+              "passage": "They are every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b2-10",
               "prompt": "Read and answer.",
-              "passage": "I am now. This practices Choose the right form.",
+              "passage": "I am now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             }
           ]
         },
@@ -5671,112 +5671,112 @@
             {
               "id": "u05-cin-b3-01",
               "prompt": "Read and answer.",
-              "passage": "He is usually. This practices Choose the right form.",
+              "passage": "He is usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b3-02",
               "prompt": "Read and answer.",
-              "passage": "She is every morning. This practices Choose the right form.",
+              "passage": "She is every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b3-03",
               "prompt": "Read and answer.",
-              "passage": "They are now. This practices Choose the right form.",
+              "passage": "They are now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b3-04",
               "prompt": "Read and answer.",
-              "passage": "I am usually. This practices Choose the right form.",
+              "passage": "I am usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b3-05",
               "prompt": "Read and answer.",
-              "passage": "He is every morning. This practices Choose the right form.",
+              "passage": "He is every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b3-06",
               "prompt": "Read and answer.",
-              "passage": "She is now. This practices Choose the right form.",
+              "passage": "She is now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b3-07",
               "prompt": "Read and answer.",
-              "passage": "They are usually. This practices Choose the right form.",
+              "passage": "They are usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b3-08",
               "prompt": "Read and answer.",
-              "passage": "I am every morning. This practices Choose the right form.",
+              "passage": "I am every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b3-09",
               "prompt": "Read and answer.",
-              "passage": "He is now. This practices Choose the right form.",
+              "passage": "He is now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b3-10",
               "prompt": "Read and answer.",
-              "passage": "She is usually. This practices Choose the right form.",
+              "passage": "She is usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             }
           ]
         },
@@ -5786,112 +5786,112 @@
             {
               "id": "u05-cin-b4-01",
               "prompt": "Read and answer.",
-              "passage": "They are every morning. This practices Choose the right form.",
+              "passage": "They are every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b4-02",
               "prompt": "Read and answer.",
-              "passage": "I am now. This practices Choose the right form.",
+              "passage": "I am now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b4-03",
               "prompt": "Read and answer.",
-              "passage": "He is usually. This practices Choose the right form.",
+              "passage": "He is usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b4-04",
               "prompt": "Read and answer.",
-              "passage": "She is every morning. This practices Choose the right form.",
+              "passage": "She is every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b4-05",
               "prompt": "Read and answer.",
-              "passage": "They are now. This practices Choose the right form.",
+              "passage": "They are now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b4-06",
               "prompt": "Read and answer.",
-              "passage": "I am usually. This practices Choose the right form.",
+              "passage": "I am usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b4-07",
               "prompt": "Read and answer.",
-              "passage": "He is every morning. This practices Choose the right form.",
+              "passage": "He is every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b4-08",
               "prompt": "Read and answer.",
-              "passage": "She is now. This practices Choose the right form.",
+              "passage": "She is now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b4-09",
               "prompt": "Read and answer.",
-              "passage": "They are usually. This practices Choose the right form.",
+              "passage": "They are usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b4-10",
               "prompt": "Read and answer.",
-              "passage": "I am every morning. This practices Choose the right form.",
+              "passage": "I am every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             }
           ]
         },
@@ -5901,112 +5901,112 @@
             {
               "id": "u05-cin-b5-01",
               "prompt": "Read and answer.",
-              "passage": "He is now. This practices Choose the right form.",
+              "passage": "He is now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b5-02",
               "prompt": "Read and answer.",
-              "passage": "She is usually. This practices Choose the right form.",
+              "passage": "She is usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b5-03",
               "prompt": "Read and answer.",
-              "passage": "They are every morning. This practices Choose the right form.",
+              "passage": "They are every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b5-04",
               "prompt": "Read and answer.",
-              "passage": "I am now. This practices Choose the right form.",
+              "passage": "I am now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b5-05",
               "prompt": "Read and answer.",
-              "passage": "He is usually. This practices Choose the right form.",
+              "passage": "He is usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b5-06",
               "prompt": "Read and answer.",
-              "passage": "She is every morning. This practices Choose the right form.",
+              "passage": "She is every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b5-07",
               "prompt": "Read and answer.",
-              "passage": "They are now. This practices Choose the right form.",
+              "passage": "They are now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b5-08",
               "prompt": "Read and answer.",
-              "passage": "I am usually. This practices Choose the right form.",
+              "passage": "I am usually. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b5-09",
               "prompt": "Read and answer.",
-              "passage": "He is every morning. This practices Choose the right form.",
+              "passage": "He is every morning. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             },
             {
               "id": "u05-cin-b5-10",
               "prompt": "Read and answer.",
-              "passage": "She is now. This practices Choose the right form.",
+              "passage": "She is now. This practices Present simple vs continuous.",
               "options": [
-                "Choose the right form",
+                "Present simple vs continuous",
                 "past perfect",
                 "future will"
               ],
-              "answer": "Choose the right form"
+              "answer": "Present simple vs continuous"
             }
           ]
         }
@@ -6020,70 +6020,70 @@
           "items": [
             {
               "id": "u05-stp-b1-01",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "He is every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b1-02",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "She is now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b1-03",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "They are usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b1-04",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "I am every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b1-05",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "He is now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b1-06",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "She is usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b1-07",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "They are every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b1-08",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "I am now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b1-09",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "He is usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b1-10",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "She is every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
@@ -6095,70 +6095,70 @@
           "items": [
             {
               "id": "u05-stp-b2-01",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "They are now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b2-02",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "I am usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b2-03",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "He is every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b2-04",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "She is now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b2-05",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "They are usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b2-06",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "I am every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b2-07",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "He is now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b2-08",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "She is usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b2-09",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "They are every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b2-10",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "I am now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
@@ -6170,70 +6170,70 @@
           "items": [
             {
               "id": "u05-stp-b3-01",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "He is usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b3-02",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "She is every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b3-03",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "They are now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b3-04",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "I am usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b3-05",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "He is every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b3-06",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "She is now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b3-07",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "They are usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b3-08",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "I am every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b3-09",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "He is now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b3-10",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "She is usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
@@ -6245,70 +6245,70 @@
           "items": [
             {
               "id": "u05-stp-b4-01",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "They are every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b4-02",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "I am now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b4-03",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "He is usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b4-04",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "She is every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b4-05",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "They are now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b4-06",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "I am usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b4-07",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "He is every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b4-08",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "She is now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b4-09",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "They are usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b4-10",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "I am every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
@@ -6320,70 +6320,70 @@
           "items": [
             {
               "id": "u05-stp-b5-01",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "He is now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b5-02",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "She is usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b5-03",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "They are every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b5-04",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "I am now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b5-05",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "He is usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b5-06",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "She is every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b5-07",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "They are now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b5-08",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "I am usually",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b5-09",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "He is every morning",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."
             },
             {
               "id": "u05-stp-b5-10",
-              "prompt": "Use the pattern: Choose the right form.",
+              "prompt": "Use the pattern: Present simple vs continuous.",
               "pattern": "Subject + work + complement",
               "answer": "She is now",
               "explanation": "Choose simple for habits/facts and continuous for actions in progress."

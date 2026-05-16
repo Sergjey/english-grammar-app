@@ -1,64 +1,14 @@
 {
   "units": [
-    {
-      "id": "unit-01",
-      "number": 1,
-      "title": "am / is / are",
-      "topic": "States & identity"
-    },
-    {
-      "id": "unit-02",
-      "number": 2,
-      "title": "Be questions",
-      "topic": "Yes/no & short answers"
-    },
-    {
-      "id": "unit-03",
-      "number": 3,
-      "title": "Present continuous",
-      "topic": "Actions happening now"
-    },
-    {
-      "id": "unit-04",
-      "number": 4,
-      "title": "Present simple",
-      "topic": "Habits & facts"
-    },
-    {
-      "id": "unit-05",
-      "number": 5,
-      "title": "Simple vs -ing",
-      "topic": "Choose the right form"
-    },
-    {
-      "id": "unit-06",
-      "number": 6,
-      "title": "have got",
-      "topic": "Possession & features"
-    },
-    {
-      "id": "unit-07",
-      "number": 7,
-      "title": "was / were",
-      "topic": "Past of be"
-    },
-    {
-      "id": "unit-08",
-      "number": 8,
-      "title": "Past (-ed)",
-      "topic": "Regular verbs"
-    },
-    {
-      "id": "unit-09",
-      "number": 9,
-      "title": "Past irregular",
-      "topic": "went, saw, had…"
-    },
-    {
-      "id": "unit-10",
-      "number": 10,
-      "title": "can / could",
-      "topic": "Ability & permission"
-    }
+    { "id": "unit-01", "number": 1, "title": "Unit 1", "topic": "am / is / are" },
+    { "id": "unit-02", "number": 2, "title": "Unit 2", "topic": "am / is / are (questions)" },
+    { "id": "unit-03", "number": 3, "title": "Unit 3", "topic": "Present continuous" },
+    { "id": "unit-04", "number": 4, "title": "Unit 4", "topic": "Present simple" },
+    { "id": "unit-05", "number": 5, "title": "Unit 5", "topic": "Present simple vs continuous" },
+    { "id": "unit-06", "number": 6, "title": "Unit 6", "topic": "have / has got" },
+    { "id": "unit-07", "number": 7, "title": "Unit 7", "topic": "was / were" },
+    { "id": "unit-08", "number": 8, "title": "Unit 8", "topic": "Past simple (regular)" },
+    { "id": "unit-09", "number": 9, "title": "Unit 9", "topic": "Past simple (irregular)" },
+    { "id": "unit-10", "number": 10, "title": "Unit 10", "topic": "can / could" }
   ]
 }

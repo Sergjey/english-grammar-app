@@ -28,9 +28,10 @@ export function HomePage() {
             <Link
               key={unit.id}
               to={`/unit/${unit.id}`}
-              className="touch-target shrink-0 snap-start rounded-full bg-white px-4 py-2 text-sm font-medium ring-1 ring-stone-200 transition hover:ring-teal"
+              className="touch-target shrink-0 snap-start flex flex-col rounded-2xl bg-white px-4 py-2 text-sm ring-1 ring-stone-200 transition hover:ring-teal"
             >
-              <span className="text-muted">{unit.number} ·</span> {unit.title}
+              <span className="font-semibold">{unit.title}</span>
+              <span className="text-xs text-muted">{unit.topic}</span>
             </Link>
           ))}
         </div>

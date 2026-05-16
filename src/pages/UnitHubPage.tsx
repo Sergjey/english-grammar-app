@@ -21,9 +21,8 @@ export function UnitHubPage() {
   return (
     <div className="space-y-6">
       <div>
-        <p className="text-sm font-medium text-teal">Unit {meta.number}</p>
         <h1 className="font-display text-2xl font-bold">{meta.title}</h1>
-        <p className="mt-1 text-base text-muted">{meta.topic}</p>
+        <p className="mt-1 text-lg font-medium text-teal">{meta.topic}</p>
         <p className="mt-2 text-base leading-relaxed text-muted">{unit.summary}</p>
       </div>
 
